@@ -2,10 +2,10 @@ class Solution {
     public int romanToInt(String s) {
         
         int start=0;
+        int end=s.length();
         int sum=0;
         int previous_sum=0;
         int final_sum=0;
-        int end=s.length();
         while(start<end){
             
             if(s.charAt(start)=='I'){
