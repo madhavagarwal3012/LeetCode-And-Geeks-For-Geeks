@@ -35,7 +35,7 @@ class Solution {
                 start++;
                 continue;
             }
-            if(previous_sum>=sum){
+            if(previous_sum>=sum ||sum==final_sum){
                 final_sum=sum+final_sum;
             }
             else if(sum>previous_sum){
