@@ -29,12 +29,6 @@ class Solution {
             else if(s.charAt(start)=='M'){
                 sum=1000;
             }
-            if(start==0){
-                final_sum=sum;
-                previous_sum=sum;
-                start++;
-                continue;
-            }
             if(previous_sum>=sum){
                 final_sum=sum+final_sum;
             }
