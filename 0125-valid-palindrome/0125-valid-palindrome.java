@@ -3,10 +3,6 @@ class Solution {
 		String reversed_string="";
 		int end= str.length()-1;
 		    while(end>=0){
-                // if((int)(str.charAt(end))<65&&(int)(str.charAt(end))>57 ||(int)(str.charAt(end))<48 ||(int)(str.charAt(end))>90 ||(int)(str.charAt(end))<97){
-                //     end--;
-                //     continue;
-                // }
                 if((int)(str.charAt(end))>=48 &&(int)(str.charAt(end))<=57){
 		    	    reversed_string+=str.charAt(end);
 		            end--;
@@ -25,7 +21,7 @@ class Solution {
                 }
                 
 		    }
-		        return reversed_string;
+		    return reversed_string;
 	}
     public boolean isPalindrome(String str) {
         String rs=Reversed_String(str.toLowerCase());
@@ -47,7 +43,6 @@ class Solution {
 			}
 			start++;
 		}
-
 		return palindrome;
     }
 }
