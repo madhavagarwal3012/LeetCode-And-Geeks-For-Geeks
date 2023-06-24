@@ -29,7 +29,7 @@ class Solution {
 		int end=str.length();
 		boolean palindrome=false;
         
-        if(rs.length()==0){
+        if(str.length()==0){
             return true;
         }
 		while(start<end) {
