@@ -28,24 +28,34 @@ class GFG {
 class Solution {
     static String[] revCharBridge(int N) {
         String[] str = new String[N];
-        for (int i = 0; i < N; i++) {
+        int i = 0;
+        while (i < N) {
             StringBuilder sb = new StringBuilder();
-            for (int j = 0; j < N - i; j++) {
+            int j = 0;
+            while (j < N - i) {
                 sb.append((char) ('A' + j));
+                j++;
             }
-            for (int j = 0; j < 2 * i - 1; j++) {
+            j = 0;
+            while (j < 2 * i - 1) {
                 sb.append(' ');
+                j++;
             }
             if(i != 0){
-                for (int j = N - i - 1; j >= 0; j--) {
+                j = N - i - 1;
+                while (j >= 0) {
                     sb.append((char) ('A' + j));
+                    j--;
                 }
             } else {
-                for (int j = N - i - 2; j >= 0; j--) {
+                j = N - i - 2;
+                while (j >= 0) {
                     sb.append((char) ('A' + j));
+                    j--;
                 }
             }
             str[i] = sb.toString();
+            i++;
         }
         return str;
     }
