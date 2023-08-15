@@ -32,8 +32,6 @@ class Solution {
             }
             
         }
-        else{
-            return n;
-        }
+        return n;
     }
 }
