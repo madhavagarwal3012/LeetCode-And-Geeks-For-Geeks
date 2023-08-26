@@ -12,7 +12,6 @@ class Solution {
                     if(power_oftwo==n){
                         return true;
                     }
-                   
                     i++;
                 }
             }
