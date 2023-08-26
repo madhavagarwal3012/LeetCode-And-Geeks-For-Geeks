@@ -12,6 +12,9 @@ class Solution {
                     if(power_oftwo==n){
                         return true;
                     }
+                    else if(power_oftwo>n){
+                        return false;
+                    }
                     i++;
                 }
             }
