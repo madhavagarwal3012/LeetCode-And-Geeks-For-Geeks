@@ -9,9 +9,6 @@ class Solution {
         return reversed_string;
     }
     public int reverse(int x) {
-        if(x > Integer.MAX_VALUE || x < Integer.MIN_VALUE){
-            return 0;
-        }
         String str=Integer.toString(x);
         if(Character.getNumericValue(str.charAt(0))<0){
             x=Math.abs(x);
@@ -23,7 +20,7 @@ class Solution {
         try {
         x = Integer.parseInt(str);
     } catch (NumberFormatException e) {
-        return 0; // Handle the case when the reversed string is out of valid integer range
+        return 0; 
     }
         return x;
     }
