@@ -8,20 +8,28 @@ class Solution {
         }
         return reversed_string;
     }
+    
     public int reverse(int x) {
-        String str=Integer.toString(x);
-        if(Character.getNumericValue(str.charAt(0))<0){
-            x=Math.abs(x);
-            str=Integer.toString(x);
-            str+="-";
+        if (x > Integer.MAX_VALUE || x < Integer.MIN_VALUE) {
+            return 0;
         }
-        str=Reversed_String(str);
+        
+        String str = Integer.toString(x);
+        
+        if (Character.getNumericValue(str.charAt(0)) < 0) {
+            x = Math.abs(x);
+            str = Integer.toString(x);
+            str += "-";
+        }
+        
+        str = Reversed_String(str);
         
         try {
-        x = Integer.parseInt(str);
-    } catch (NumberFormatException e) {
-        return 0; 
-    }
+            x = Integer.parseInt(str);
+        } catch (NumberFormatException e) {
+            return 0; 
+        }
+        
         return x;
     }
 }
