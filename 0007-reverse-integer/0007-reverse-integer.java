@@ -26,7 +26,8 @@ class Solution {
         
         try {
             x = Integer.parseInt(str);
-        } catch (NumberFormatException e) {
+        } 
+        catch (NumberFormatException e) {
             return 0; 
         }
         
