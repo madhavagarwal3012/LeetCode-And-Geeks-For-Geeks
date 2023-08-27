@@ -10,7 +10,8 @@ class Solution {
         for (int i = 0; i < str.length(); i++) {
             if (i % 2 == 0) {
                 sum += Character.getNumericValue(str.charAt(i));  // Add even-positioned digits
-            } else {
+            } 
+            else {
                 sum -= Character.getNumericValue(str.charAt(i));  // Subtract odd-positioned digits
             }
         }
