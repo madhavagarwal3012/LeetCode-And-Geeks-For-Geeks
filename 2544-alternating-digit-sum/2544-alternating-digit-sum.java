@@ -3,19 +3,19 @@ class Solution {
         if (n <= 9) {
             return n;
         }
-
         String str = Integer.toString(n);
         int sum = 0;
-
-        for (int i = 0; i < str.length(); i++) {
-            if (i % 2 == 0) {
-                sum += Character.getNumericValue(str.charAt(i));  // Add even-positioned digits
+        int start=0;
+        
+        while(start< str.length()) {
+            if (start % 2 == 0) {
+                sum += Character.getNumericValue(str.charAt(start));
             } 
             else {
-                sum -= Character.getNumericValue(str.charAt(i));  // Subtract odd-positioned digits
+                sum -= Character.getNumericValue(str.charAt(start));
             }
+            start++;
         }
-
         return sum;
     }
 }
