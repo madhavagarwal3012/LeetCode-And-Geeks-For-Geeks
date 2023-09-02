@@ -8,18 +8,19 @@ class Solution {
         while (end > 0) {
             if (s.charAt(end) == ' ') {
                 end--;
-            } else {
+            } 
+            else {
                 break;
             }
         }
-
         if (s.charAt(end) != ' ') {
             sub_end = end;
             while (sub_end >= 0) {
                 if (s.charAt(sub_end) != ' ') {
                     sub_end--;
                     count++;
-                } else {
+                } 
+                else {
                     start = sub_end + 1;
                     break;
                 }
