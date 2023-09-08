@@ -17,7 +17,8 @@ class Solution {
             end = t.length();
             small_len = s.length();
             last_char = t.charAt(t.length() - 1);
-        } else {
+        } 
+        else {
             last_char = s.charAt(s.length() - 1);
         }
 
