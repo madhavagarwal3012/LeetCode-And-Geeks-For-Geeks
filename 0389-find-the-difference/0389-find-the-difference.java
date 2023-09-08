@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class Solution {
     public static char findTheDifference(String s, String t) {
         char array[] = s.toCharArray();
