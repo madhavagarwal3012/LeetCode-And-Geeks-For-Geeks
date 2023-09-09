@@ -4,19 +4,19 @@ class Solution {
             return 0;
         }
 
-        boolean[] isComposite = new boolean[n];
         int count = 0;
-
-        for (int start = 2; start * start < n; start++) {
-            if (!isComposite[start]) {
-                for (int multiple = start * start; multiple < n; multiple += start) {
-                    isComposite[multiple] = true;
+        boolean[] isPrime = new boolean[n];
+        
+        for (int num = 2; num * num < n; num++) {
+            if (!isPrime[num]) {
+                for (int multiple = num * num; multiple < n; multiple += num) {
+                    isPrime[multiple] = true;
                 }
             }
         }
 
         for (int i = 2; i < n; i++) {
-            if (!isComposite[i]) {
+            if (!isPrime[i]) {
                 count++;
             }
         }
@@ -24,3 +24,4 @@ class Solution {
         return count;
     }
 }
+
