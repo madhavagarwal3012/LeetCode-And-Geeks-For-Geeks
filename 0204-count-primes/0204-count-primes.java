@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
     public static int countPrimes(int n) {
         if (n <= 2) {
@@ -8,17 +5,22 @@ class Solution {
         }
 
         boolean[] isComposite = new boolean[n];
-        List<Integer> primes = new ArrayList<>();
-        
-        for (int num = 2; num < n; num++) {
-            if (!isComposite[num]) {
-                primes.add(num);
-                for (int multiple = num * 2; multiple < n; multiple += num) {
+        int count = 0;
+
+        for (int start = 2; start * start < n; start++) {
+            if (!isComposite[start]) {
+                for (int multiple = start * start; multiple < n; multiple += start) {
                     isComposite[multiple] = true;
                 }
             }
         }
 
-        return primes.size();
+        for (int i = 2; i < n; i++) {
+            if (!isComposite[i]) {
+                count++;
+            }
+        }
+
+        return count;
     }
 }
