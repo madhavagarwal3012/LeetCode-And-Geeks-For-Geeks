@@ -6,22 +6,27 @@ class Solution {
 
         int count = 0;
         boolean[] isPrime = new boolean[n];
-        
-        for (int num = 2; num * num < n; num++) {
+        int num = 2;
+
+        while (num * num < n) {
             if (!isPrime[num]) {
-                for (int multiple = num * num; multiple < n; multiple += num) {
+                int multiple = num * num;
+                while (multiple < n) {
                     isPrime[multiple] = true;
+                    multiple += num;
                 }
             }
+            num++;
         }
 
-        for (int i = 2; i < n; i++) {
+        int i = 2;
+        while (i < n) {
             if (!isPrime[i]) {
                 count++;
             }
+            i++;
         }
 
         return count;
     }
 }
-
