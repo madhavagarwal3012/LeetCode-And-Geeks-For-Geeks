@@ -5,22 +5,17 @@ class Solution {
         }
 
         boolean[] isComposite = new boolean[n];
-        int count = 0;
+        int prime = 0;
 
-        for (int start = 2; start * start < n; start++) {
-            if (!isComposite[start]) {
-                for (int multiple = start * start; multiple < n; multiple += start) {
+        for (int num = 2; num < n; num++) {
+            if (!isComposite[num]) {
+                prime++;
+                for (int multiple = num * 2; multiple < n; multiple += num) {
                     isComposite[multiple] = true;
                 }
             }
         }
 
-        for (int i = 2; i < n; i++) {
-            if (!isComposite[i]) {
-                count++;
-            }
-        }
-
-        return count;
+        return prime;
     }
 }
