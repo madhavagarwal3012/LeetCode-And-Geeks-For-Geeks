@@ -3,21 +3,24 @@ class Solution {
         if (n <= 2) {
             return 0;
         }
+
         boolean[] isComposite = new boolean[n];
         int count = 0;
-        int start = 2;
-        while (start < n) {
+
+        for (int start = 2; start * start < n; start++) {
             if (!isComposite[start]) {
-                count++;
-                int multiple = 2 * start;
-                while (multiple < n) {
+                for (int multiple = start * start; multiple < n; multiple += start) {
                     isComposite[multiple] = true;
-                    multiple += start;
                 }
             }
-            start++;
         }
+
+        for (int i = 2; i < n; i++) {
+            if (!isComposite[i]) {
+                count++;
+            }
+        }
+
         return count;
     }
 }
-
