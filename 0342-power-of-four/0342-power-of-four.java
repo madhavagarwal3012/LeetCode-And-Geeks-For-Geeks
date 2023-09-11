@@ -6,13 +6,13 @@ class Solution {
         else{
             if(n%4==0){
                 int i=4;
-                long power_ofthree=4;
+                long power_of_four=4;
                 while(i<=n/2){
-                    power_ofthree=4*power_ofthree;
-                    if(power_ofthree==n){
+                    power_of_four=4*power_of_four;
+                    if(power_of_four==n){
                         return true;
                     }
-                    else if(power_ofthree>n){
+                    else if(power_of_four>n){
                         return false;
                     }
                     i++;
