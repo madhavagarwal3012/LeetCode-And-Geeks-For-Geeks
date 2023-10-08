@@ -1,5 +1,5 @@
 class Solution {
-    public static int dominantIndex(int[] nums) {
+    public int dominantIndex(int[] nums) {
         int start=0;
         int end=nums.length;
         int count=-1;
