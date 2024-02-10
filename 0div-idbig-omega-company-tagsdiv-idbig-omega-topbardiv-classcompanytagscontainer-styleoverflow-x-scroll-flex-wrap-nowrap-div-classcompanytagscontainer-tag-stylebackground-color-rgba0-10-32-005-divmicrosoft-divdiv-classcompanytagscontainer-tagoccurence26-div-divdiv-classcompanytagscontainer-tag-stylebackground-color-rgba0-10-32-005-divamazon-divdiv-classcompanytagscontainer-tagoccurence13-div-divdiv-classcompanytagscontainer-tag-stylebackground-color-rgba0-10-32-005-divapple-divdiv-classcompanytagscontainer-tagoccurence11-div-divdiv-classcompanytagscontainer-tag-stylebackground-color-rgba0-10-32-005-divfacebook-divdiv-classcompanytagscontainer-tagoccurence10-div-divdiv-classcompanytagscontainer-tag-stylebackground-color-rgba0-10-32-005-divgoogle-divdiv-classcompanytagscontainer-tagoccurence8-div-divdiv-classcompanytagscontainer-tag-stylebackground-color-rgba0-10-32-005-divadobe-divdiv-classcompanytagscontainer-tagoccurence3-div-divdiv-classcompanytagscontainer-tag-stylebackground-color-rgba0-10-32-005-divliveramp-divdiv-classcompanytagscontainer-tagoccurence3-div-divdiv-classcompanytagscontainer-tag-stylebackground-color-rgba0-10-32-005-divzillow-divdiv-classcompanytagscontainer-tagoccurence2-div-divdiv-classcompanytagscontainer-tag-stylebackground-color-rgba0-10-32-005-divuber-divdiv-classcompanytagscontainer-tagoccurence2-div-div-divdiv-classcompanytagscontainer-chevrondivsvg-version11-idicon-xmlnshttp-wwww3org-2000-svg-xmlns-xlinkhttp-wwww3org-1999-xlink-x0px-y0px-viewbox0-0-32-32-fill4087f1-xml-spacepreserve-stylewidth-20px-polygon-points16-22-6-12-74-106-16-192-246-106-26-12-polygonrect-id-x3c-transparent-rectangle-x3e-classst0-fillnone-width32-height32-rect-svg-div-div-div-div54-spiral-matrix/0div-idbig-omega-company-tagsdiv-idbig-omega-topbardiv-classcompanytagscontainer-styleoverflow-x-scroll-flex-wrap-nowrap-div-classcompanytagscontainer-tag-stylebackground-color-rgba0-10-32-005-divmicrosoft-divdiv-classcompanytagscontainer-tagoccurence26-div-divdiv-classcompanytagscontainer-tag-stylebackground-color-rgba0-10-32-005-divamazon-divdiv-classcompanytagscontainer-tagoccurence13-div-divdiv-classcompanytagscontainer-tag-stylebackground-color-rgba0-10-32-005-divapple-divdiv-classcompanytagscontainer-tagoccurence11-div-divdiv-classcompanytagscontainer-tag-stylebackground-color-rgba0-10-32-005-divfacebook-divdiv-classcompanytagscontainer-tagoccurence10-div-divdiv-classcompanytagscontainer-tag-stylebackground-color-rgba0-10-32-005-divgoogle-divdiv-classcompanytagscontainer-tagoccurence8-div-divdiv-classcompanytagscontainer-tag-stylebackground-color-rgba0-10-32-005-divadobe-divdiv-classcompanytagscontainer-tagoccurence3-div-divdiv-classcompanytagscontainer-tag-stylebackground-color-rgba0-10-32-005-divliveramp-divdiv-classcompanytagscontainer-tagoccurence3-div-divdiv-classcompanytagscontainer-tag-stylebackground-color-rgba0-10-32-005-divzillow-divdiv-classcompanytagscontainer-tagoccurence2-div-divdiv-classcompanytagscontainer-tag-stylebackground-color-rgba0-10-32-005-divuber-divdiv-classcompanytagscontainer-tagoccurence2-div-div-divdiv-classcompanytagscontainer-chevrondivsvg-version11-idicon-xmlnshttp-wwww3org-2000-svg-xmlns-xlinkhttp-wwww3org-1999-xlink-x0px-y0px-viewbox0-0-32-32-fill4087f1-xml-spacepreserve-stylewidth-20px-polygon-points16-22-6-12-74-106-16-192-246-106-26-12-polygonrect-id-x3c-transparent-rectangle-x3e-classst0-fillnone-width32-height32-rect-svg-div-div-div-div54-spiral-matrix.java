@@ -1,6 +1,5 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        // Initialize variables
         int rows = matrix.length, columns = matrix[0].length;
         int row = 0, column = 0, count = 0, steps = rows * columns;
         int inCol = 0; // Variable to track inward columns
