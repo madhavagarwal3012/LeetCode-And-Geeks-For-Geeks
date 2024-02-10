@@ -6,27 +6,21 @@ class Solution {
         int inCol = 0; // Variable to track inward columns
         List<Integer> spiral = new ArrayList<>();
 
-        // Loop until all elements are visited
-        while (count < steps) {
-            // Traverse from left to right
-            while (column < columns) {
-                // Check if all elements are visited
-                if (count == steps) {
+        while (count < steps) {                  // Loop until all elements are visited
+            while (column < columns) {           // Traverse from left to right
+                if (count == steps) {            // Check if all elements are visited
                     return spiral;
                 }
-                // Add current element to the result list
-                spiral.add(matrix[row][column]);
+                spiral.add(matrix[row][column]); // Add current element to the result list
                 count++;
                 column++;
             }
-            // Adjust column boundary and position
-            columns--;
+            columns--;                           // Adjust column boundary and position
             column--;
             row++;
 
-            // Traverse from top to bottom
             while (row < rows) {
-                if (count == steps) {
+                if (count == steps) {            // Traverse from top to bottom
                     return spiral;
                 }
                 spiral.add(matrix[row][column]);
@@ -36,8 +30,7 @@ class Solution {
             row--;
             column--;
 
-            // Traverse from right to left
-            while (column >= 0 + inCol) {
+            while (column >= 0 + inCol) {         // Traverse from right to left
                 if (count == steps) {
                     return spiral;
                 }
@@ -48,8 +41,7 @@ class Solution {
             column++;
             row--;
 
-            // Traverse from bottom to top
-            while (row > 0 + inCol) {
+            while (row > 0 + inCol) {             // Traverse from bottom to top
                 if (count == steps) {
                     return spiral;
                 }
@@ -57,8 +49,7 @@ class Solution {
                 count++;
                 row--;
             }
-            // Update inward column count and adjust row boundary
-            inCol++;
+            inCol++;                       // Update inward column count and adjust row boundary
             rows--;
             row++;
             column++;
