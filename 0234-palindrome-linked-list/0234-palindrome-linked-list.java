@@ -27,11 +27,11 @@ class Solution {
             reverse = new ListNode(head.val);
             if(equalElement==0){
                 reverseStore=reverse;
-                reverse.next=null;
+                reverse.next=null;              //Storing the reverse of the half linked list 
             }
-            reverse.next=reverseStore;
-            reverseStore=reverse;
-            head=head.next;
+            reverse.next=reverseStore;         //Example: for testcase [1,2,2,1],It will store 
+            reverseStore=reverse;             //its first half as [2,1] same a second half 
+            head=head.next;       
             equalElement++;
         }
         if (count%2!=0 && equalElement==count/2) {
