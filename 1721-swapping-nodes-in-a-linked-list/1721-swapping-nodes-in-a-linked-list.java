@@ -23,7 +23,7 @@ class Solution {
             tail=tail.next;
         }
         count=count-1;
-        k=count-(k-1);
+        k=count-(k-1);                            //For Getting The Kth Node From Ending
         count=1;
         tail=head;
         while(tail!=null){
