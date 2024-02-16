@@ -22,10 +22,10 @@ class Solution {
         if(n==count){
             return head.next;
         }
-        else if(count>2){
+        else if(count>2){                               //For Linked List Length>2
           n=count-(n-1); 
         }     
-        else if(count==2){
+        else if(count==2){                              //For Linked List Length<2
           if(n==1){
               head.next=null;
               return head;
