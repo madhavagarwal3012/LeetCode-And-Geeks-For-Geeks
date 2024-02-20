@@ -4,13 +4,12 @@ class Solution {
         int runningSum []= new int[length];
         
         while(index<length){
-            int subIndex=0;
-            while(subIndex<=index){
+            int subIndex=index;
+            if(subIndex==index){
                 sum = sum+nums[subIndex];
                 subIndex++;
             }
             runningSum[index]=sum;
-            sum=0;
             index++;
         }
         return runningSum;
