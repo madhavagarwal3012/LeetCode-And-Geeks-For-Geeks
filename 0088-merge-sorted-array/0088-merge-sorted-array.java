@@ -27,15 +27,11 @@ class Solution {
                 return;
             }
         }
-        if(n>1){
-            if(index2<n-1 && nums2[index2]>nums2[index2+1]){
-                while(index2<n-1 && nums2[index2]>nums2[index2+1]){
-                    int temp=nums2[index2+1];
-                    nums2[index2+1]=nums2[index2];
-                    nums2[index2]=temp;
-                    index2++;
-                }
-            }
+        while(index2<n-1 && nums2[index2]>nums2[index2+1]){
+            int temp=nums2[index2+1];
+            nums2[index2+1]=nums2[index2];
+            nums2[index2]=temp;
+            index2++;
         }
         index2=0;
         while(index2<n){
