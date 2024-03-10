@@ -14,14 +14,12 @@ class Solution {
 
                     index++;
 
-                    if(n>1){
-                        int index3=index2;
-                        while(index3<n-1 && nums2[index3]>nums2[index3+1]){
-                            temp=nums2[index3+1];
-                            nums2[index3+1]=nums2[index3];
-                            nums2[index3]=temp;
-                            index3++;
-                        }
+                    int index3=index2;
+                    while(index3<n-1 && nums2[index3]>nums2[index3+1]){
+                        temp=nums2[index3+1];
+                        nums2[index3+1]=nums2[index3];
+                        nums2[index3]=temp;
+                        index3++;
                     }
                 }
             }
