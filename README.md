@@ -46,6 +46,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0066-plus-one](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | ------- |
 | [0013-roman-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0125-valid-palindrome) |
+| [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 # Recursion
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 # Number Theory
 |  |
 | ------- |
