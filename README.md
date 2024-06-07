@@ -157,6 +157,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0742-to-lower-case) |
 | [1542-consecutive-characters](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1542-consecutive-characters) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2032-largest-odd-number-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2032-largest-odd-number-in-string) |
 # Recursion
