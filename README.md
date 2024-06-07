@@ -26,6 +26,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0092-reverse-linked-list-ii) |
+| [0203-remove-linked-list-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0234-palindrome-linked-list) |
 | [0860-design-circular-queue](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0860-design-circular-queue) |
@@ -139,6 +140,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0234-palindrome-linked-list) |
