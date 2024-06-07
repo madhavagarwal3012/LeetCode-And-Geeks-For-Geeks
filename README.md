@@ -8,6 +8,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0001-two-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
@@ -138,6 +139,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 # Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 # Number Theory
@@ -169,3 +171,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0183-customers-who-never-order) |
+# Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0054-spiral-matrix) |
