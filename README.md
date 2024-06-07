@@ -5,6 +5,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0001-two-sum) |
 | [0860-design-circular-queue](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0860-design-circular-queue) |
 # Linked List
 |  |
@@ -18,3 +19,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0860-design-circular-queue) |
+# Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0001-two-sum) |
