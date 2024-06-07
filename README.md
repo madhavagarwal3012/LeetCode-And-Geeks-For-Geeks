@@ -141,3 +141,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0204-count-primes) |
+# Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0183-customers-who-never-order) |
