@@ -53,6 +53,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [2032-largest-odd-number-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2491-smallest-even-multiple) |
+| [2630-alternating-digit-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2630-alternating-digit-sum) |
 # Bit Manipulation
 |  |
 | ------- |
