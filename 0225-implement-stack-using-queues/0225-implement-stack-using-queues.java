@@ -13,11 +13,7 @@ class MyStack {
         size = 0;
         size2 = 0; 
     }
-    public void push(int x) {
-        q1.add(x);
-        size++;
-    }
-    public static Queue<Integer> helper(Queue<Integer> input){
+    public static Queue<Integer> helper(Queue<Integer> input){    //for reversing stack
 		int size = input.size();
 
 		if(size==0){
@@ -28,6 +24,10 @@ class MyStack {
 		input.add(temp);
 		return input;
 	}
+    public void push(int x) {
+        q1.add(x);
+        size++;
+    }
     public int pop() {
          if(q1.size() == 0){           
             size = size2 - 1;
@@ -50,7 +50,7 @@ class MyStack {
     }
     
     public int top() {
-        if(q1.size() == 0){            //My Recursive Approach
+        if(q1.size() == 0){          
             size = size2 - 1;
             return 0;
         }
