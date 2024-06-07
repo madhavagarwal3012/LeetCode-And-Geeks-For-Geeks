@@ -12,6 +12,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-design-circular-queue](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0860-design-circular-queue) |
 # Linked List
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0326-power-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2491-smallest-even-multiple) |
@@ -69,6 +71,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | ------- |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0628-maximum-product-of-three-numbers) |
 # Counting
 |  |
 | ------- |
