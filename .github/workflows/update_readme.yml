@@ -23,4 +23,4 @@ jobs:
         git config --local user.name "GitHub Action"
         git commit -m "Update total problems solved" -a || echo "No changes to commit"
 
-name: Push changes uses: ad-m/github-push-action@master with: github_token: ${{ secrets.GITHUB_TOKEN }} below i will share expected readme output
+name: Push changes uses: ad-m/github-push-action@master with: github_token: ${{ secrets.GITHUB_TOKEN }}
