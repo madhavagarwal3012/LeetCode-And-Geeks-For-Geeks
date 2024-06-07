@@ -51,6 +51,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0231-power-of-two](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,6 +84,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | ------- |
 | [0069-sqrtx](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0367-valid-perfect-square) |
 # String
 |  |
 | ------- |
