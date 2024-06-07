@@ -26,6 +26,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0234-palindrome-linked-list) |
 | [0860-design-circular-queue](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0860-design-circular-queue) |
 # Design
 |  |
@@ -51,6 +52,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0027-remove-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0344-reverse-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -136,6 +138,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0050-powx-n](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0342-power-of-four) |
 # Simulation
@@ -177,3 +180,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0054-spiral-matrix) |
+# Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0234-palindrome-linked-list) |
