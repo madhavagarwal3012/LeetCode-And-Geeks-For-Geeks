@@ -29,6 +29,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 # Two Pointers
 |  |
@@ -38,6 +39,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 # Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0066-plus-one) |
 # Bit Manipulation
 |  |
@@ -61,3 +63,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0287-find-the-duplicate-number) |
+# String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0013-roman-to-integer) |
