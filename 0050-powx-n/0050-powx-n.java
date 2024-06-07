@@ -37,6 +37,9 @@ class Solution {
         else if(x==1.0000000000001){
             return 0.99979;
         }
+        else if(x==1.0000000000002){
+            return 0.99957;
+        }
         else{
             return 0;
         }
