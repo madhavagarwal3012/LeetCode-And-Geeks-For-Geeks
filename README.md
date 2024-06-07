@@ -22,6 +22,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0860-design-circular-queue](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0898-transpose-matrix) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1603-running-sum-of-1d-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -55,6 +56,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0217-contains-duplicate](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0389-find-the-difference) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 # Two Pointers
 |  |
