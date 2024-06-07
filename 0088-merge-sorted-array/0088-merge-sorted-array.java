@@ -14,12 +14,16 @@ class Solution {
 
                     index++;
 
-                    int index3=index2;
-                    while(index3<n-1 && nums2[index3]>nums2[index3+1]){
-                        temp=nums2[index3+1];
-                        nums2[index3+1]=nums2[index3];
-                        nums2[index3]=temp;
-                        index3++;
+                    if(n>1){
+                        if(index2<n-1 && nums2[index2]>nums2[index2+1]){
+                            int index3=index2;
+                            while(index3<n-1 && nums2[index3]>nums2[index3+1]){
+                                temp=nums2[index3+1];
+                                nums2[index3+1]=nums2[index3];
+                                nums2[index3]=temp;
+                                index3++;
+                            }
+                        }
                     }
                 }
             }
@@ -27,11 +31,15 @@ class Solution {
                 return;
             }
         }
-        while(index2<n-1 && nums2[index2]>nums2[index2+1]){
-            int temp=nums2[index2+1];
-            nums2[index2+1]=nums2[index2];
-            nums2[index2]=temp;
-            index2++;
+        if(n>1){
+            if(index2<n-1 && nums2[index2]>nums2[index2+1]){
+                while(index2<n-1 && nums2[index2]>nums2[index2+1]){
+                    int temp=nums2[index2+1];
+                    nums2[index2+1]=nums2[index2];
+                    nums2[index2]=temp;
+                    index2++;
+                }
+            }
         }
         index2=0;
         while(index2<n){
