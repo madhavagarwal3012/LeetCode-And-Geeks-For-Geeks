@@ -1,12 +1,10 @@
 class MyCircularQueue {
-    private int[] data;
+    private int data[];
     private int front;
     private int rear;
     private int size;
-    private int capacity;
 
     public MyCircularQueue(int capacity) {
-        this.capacity = capacity;
         data = new int[capacity];
         front = -1;
         rear = -1;
@@ -14,27 +12,34 @@ class MyCircularQueue {
     }
     
     public boolean enQueue(int value) {
-        if (isFull()) {
-            return false;
+        if (size < data.length) {
+            if (front == -1) {
+                front = 0;
+                rear = 0;
+            } 
+            else if (rear == data.length - 1 && front != 0) {
+                rear = 0;
+            } 
+            else {
+                rear++;
+            }
+            data[rear] = value;
+            size++;
+            return true;
         }
-        if (isEmpty()) {
-            front = 0;
-        }
-        rear = (rear + 1) % capacity;
-        data[rear] = value;
-        size++;
-        return true;
+        return false;
     }
     
     public boolean deQueue() {
-        if (isEmpty()) {
+        if (size == 0) {
             return false;
         }
         if (front == rear) {
             front = -1;
             rear = -1;
-        } else {
-            front = (front + 1) % capacity;
+        } 
+        else {
+            front = (front + 1) % data.length;
         }
         size--;
         return true;
@@ -42,14 +47,14 @@ class MyCircularQueue {
     
     public int Front() {
         if (isEmpty()) {
-            return -1; // Return -1 if the queue is empty
+            return -1;
         }
         return data[front];
     }
     
     public int Rear() {
         if (isEmpty()) {
-            return -1; // Return -1 if the queue is empty
+            return -1;
         }
         return data[rear];
     }
@@ -59,7 +64,7 @@ class MyCircularQueue {
     }
     
     public boolean isFull() {
-        return size == capacity;
+        return size == data.length;
     }
 }
 
