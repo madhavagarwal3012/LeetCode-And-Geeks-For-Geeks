@@ -33,6 +33,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0001-two-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 # Two Pointers
 |  |
@@ -68,6 +69,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0136-single-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0389-find-the-difference) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -96,6 +99,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0013-roman-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0742-to-lower-case) |
 | [2032-largest-odd-number-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2032-largest-odd-number-in-string) |
