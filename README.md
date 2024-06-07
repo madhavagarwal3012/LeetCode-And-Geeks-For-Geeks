@@ -10,6 +10,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0066-plus-one](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0414-third-maximum-number) |
@@ -54,6 +55,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0066-plus-one](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0326-power-of-three) |
@@ -120,6 +122,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 # Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2491-smallest-even-multiple) |
 # Greedy
@@ -134,3 +137,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0070-climbing-stairs) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0204-count-primes) |
