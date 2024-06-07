@@ -48,7 +48,6 @@ class MyStack {
         }
         return temp;
     }
-    
     public int top() {
         if(q1.size() == 0){          
             size = size2 - 1;
@@ -69,7 +68,6 @@ class MyStack {
         }
         return temp;
     }
-    
     public boolean empty() {
         return q1.size() == 0;
     }
