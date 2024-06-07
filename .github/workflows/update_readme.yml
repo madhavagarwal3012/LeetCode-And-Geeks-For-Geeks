@@ -8,35 +8,38 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
     steps:
-      - name: Use Node.js 20
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
+    - name: Use Node.js 16
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
 
-      - name: Checkout repository
-        uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
 
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-          pip install regex
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        pip install regex
 
-      - name: Run Python script
-        run: python count_problems.py
+    - name: Run Python script
+      run: python count_problems.py
 
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git commit -m "Update total problems solved" -a || echo "No changes to commit"
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Update total problems solved" -a || echo "No changes to commit"
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Push changes
+      uses: ad-m/github-push-action@v2
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
