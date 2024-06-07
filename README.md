@@ -25,6 +25,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 # Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0860-design-circular-queue) |
 # Design
 |  |
@@ -133,6 +134,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0342-power-of-four) |
