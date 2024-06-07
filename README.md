@@ -26,6 +26,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1603-running-sum-of-1d-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3324-split-the-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3324-split-the-array) |
 # Linked List
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0389-find-the-difference](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0389-find-the-difference) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3324-split-the-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3324-split-the-array) |
 # Two Pointers
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
+| [3324-split-the-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3324-split-the-array) |
 # Binary Search
 |  |
 | ------- |
