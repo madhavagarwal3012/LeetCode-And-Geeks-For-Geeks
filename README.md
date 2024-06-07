@@ -156,6 +156,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0389-find-the-difference](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0742-to-lower-case) |
+| [1542-consecutive-characters](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1542-consecutive-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2032-largest-odd-number-in-string) |
 # Recursion
 |  |
