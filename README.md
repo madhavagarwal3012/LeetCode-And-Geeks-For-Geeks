@@ -160,6 +160,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2032-largest-odd-number-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2032-largest-odd-number-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2470-removing-stars-from-a-string) |
 # Recursion
 |  |
 | ------- |
@@ -179,6 +180,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0898-transpose-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2470-removing-stars-from-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2470-removing-stars-from-a-string) |
 # Number Theory
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0234-palindrome-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2470-removing-stars-from-a-string) |
 # Prefix Sum
 |  |
 | ------- |
