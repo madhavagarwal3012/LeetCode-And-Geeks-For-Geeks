@@ -46,6 +46,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0066-plus-one](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 # Bit Manipulation
 |  |
@@ -82,6 +83,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | ------- |
 | [0050-powx-n](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0326-power-of-three) |
 # Simulation
 |  |
 | ------- |
