@@ -48,6 +48,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0258-add-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0507-perfect-number) |
 # Bit Manipulation
 |  |
 | ------- |
