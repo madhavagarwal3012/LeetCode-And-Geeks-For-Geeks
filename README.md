@@ -76,6 +76,7 @@ Collection of LeetCode And Geeks For Geeks questions to ace the coding interview
 | [0013-roman-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
+| [0742-to-lower-case](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0742-to-lower-case) |
 # Recursion
 |  |
 | ------- |
