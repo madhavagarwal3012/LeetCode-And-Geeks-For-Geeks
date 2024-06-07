@@ -51,11 +51,13 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0860-design-circular-queue) |
 # Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0860-design-circular-queue) |
 # Hash Table
 |  |
@@ -224,6 +226,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0234-palindrome-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2470-removing-stars-from-a-string) |
 # Prefix Sum
