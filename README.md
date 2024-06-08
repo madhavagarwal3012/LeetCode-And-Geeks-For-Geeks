@@ -32,6 +32,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1580-shuffle-the-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2132-convert-1d-array-into-2d-array) |
