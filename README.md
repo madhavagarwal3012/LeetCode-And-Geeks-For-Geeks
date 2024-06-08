@@ -19,6 +19,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0287-find-the-duplicate-number) |
@@ -144,6 +145,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0240-search-a-2d-matrix-ii) |
 # Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0069-sqrtx) |
+| [0240-search-a-2d-matrix-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0367-valid-perfect-square) |
@@ -247,6 +250,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2132-convert-1d-array-into-2d-array) |
