@@ -2,7 +2,6 @@ class Solution {
     public int singleNumber(int[] nums) {
         int unique = Integer.MIN_VALUE;
         int index = 0;
-
         while(index < nums.length){
             unique = nums[index];
             int subIndex = 0;
