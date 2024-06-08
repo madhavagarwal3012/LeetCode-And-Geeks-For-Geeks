@@ -1,6 +1,5 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        boolean present = false;
         int rows = matrix.length;
         int columns = matrix[0].length;
 
@@ -11,6 +10,6 @@ class Solution {
                 }
             }
         }
-        return present;
+        return false;
     }
 }
