@@ -1,4 +1,3 @@
-import sys
 class Solution:
     def trailingZeroes(self, n: int) -> int:
         index = 0
