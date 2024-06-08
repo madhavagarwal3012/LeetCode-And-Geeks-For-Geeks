@@ -20,6 +20,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0217-contains-duplicate](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0628-maximum-product-of-three-numbers) |
@@ -52,6 +53,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0303-range-sum-query-immutable) |
 | [0860-design-circular-queue](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0860-design-circular-queue) |
 # Queue
 |  |
@@ -232,4 +234,5 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 # Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1603-running-sum-of-1d-array) |
