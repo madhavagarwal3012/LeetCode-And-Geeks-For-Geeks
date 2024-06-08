@@ -9,7 +9,7 @@ class Solution {
             for (int subIndex = 0; subIndex < t.length(); subIndex++) {
                 if(s.charAt(index) == t.charAt(subIndex)){
                     characterCount++;
-                    t = t.replaceFirst(Character.toString(t.charAt(subIndex)), "");
+                    t = t.substring(0, subIndex) + t.substring(subIndex + 1);
                     break;
                 }
             }
