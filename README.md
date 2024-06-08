@@ -68,6 +68,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0202-happy-number) |
@@ -98,6 +99,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0007-reverse-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0066-plus-one) |
@@ -169,6 +171,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 # String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0125-valid-palindrome) |
