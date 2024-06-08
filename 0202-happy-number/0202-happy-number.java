@@ -9,7 +9,7 @@ class Solution {
             int step = 0;
             String num = String.valueOf(n);
             while(sum!=1){
-                if(step>20){
+                if(step>10){
                     return false;
                 }
                 sum = 0;
@@ -17,9 +17,6 @@ class Solution {
                 while(index<num.length()){
                     int value = Character.getNumericValue(num.charAt(index));
                     sum = sum + (value * value);
-                    if(step>10 && check == sum){
-                        return false;
-                    }
                     index++;
                 }
                 if(sum == n){
