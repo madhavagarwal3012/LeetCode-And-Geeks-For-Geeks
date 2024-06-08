@@ -1,22 +1,22 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int unique = Integer.MIN_VALUE;
+        boolean unique = true;
         int index = 0;
         while(index < nums.length){
-            unique = nums[index];
+            unique = true;
             int subIndex = 0;
             while(subIndex < nums.length){
-                if(index != subIndex && unique == nums[subIndex]){
-                    unique = Integer.MIN_VALUE;
+                if(index != subIndex && nums[index] == nums[subIndex]){
+                    unique = false;
                     break;
                 }
                 subIndex++;
             }
-            if(unique != Integer.MIN_VALUE){
-                return unique;
+            if(unique){
+                return nums[index];
             }
             index++;
         }
-        return unique;
+        return nums[index - 1];
     }
 }
