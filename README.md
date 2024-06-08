@@ -107,6 +107,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0066-plus-one](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0204-count-primes) |
