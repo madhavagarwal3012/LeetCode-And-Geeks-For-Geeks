@@ -69,6 +69,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0389-find-the-difference) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -137,6 +138,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0088-merge-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0414-third-maximum-number) |
@@ -163,6 +165,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0013-roman-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
