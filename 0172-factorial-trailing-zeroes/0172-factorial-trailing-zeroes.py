@@ -5,9 +5,11 @@ class Solution:
         factorial = 1
         fact = ""
         limit = 4300
+
         while(n >= 1):
             factorial = factorial * n
             n-=1
+
         while True:
             try:
                 fact  = str(factorial)
@@ -15,6 +17,7 @@ class Solution:
             except ValueError:
                 limit = limit * 2
                 sys.set_int_max_str_digits(limit)
+                
         while(index < len(fact)):
             if(fact[index]== '0'):
                 trailingZero+=1;
