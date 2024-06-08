@@ -7,7 +7,7 @@ class Solution {
             unique = nums[index];
             int subIndex = 0;
             while(subIndex < nums.length){
-                if(subIndex != index && unique == nums[subIndex]){
+                if(index != subIndex && unique == nums[subIndex]){
                     unique = Integer.MIN_VALUE;
                     break;
                 }
