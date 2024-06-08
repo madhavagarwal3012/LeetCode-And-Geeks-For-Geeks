@@ -34,6 +34,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0978-valid-mountain-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1293-three-consecutive-odds](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1293-three-consecutive-odds) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1580-shuffle-the-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1580-shuffle-the-array) |
