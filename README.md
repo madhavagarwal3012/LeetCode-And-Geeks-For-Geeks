@@ -115,6 +115,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0804-rotated-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0804-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1236-n-th-tribonacci-number) |
+| [1448-maximum-69-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2491-smallest-even-multiple) |
@@ -206,6 +207,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 # Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2032-largest-odd-number-in-string) |
 # Dynamic Programming
 |  |
