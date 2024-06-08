@@ -9,7 +9,7 @@ class Solution {
             int step = 0;
             String num = String.valueOf(n);
             while(sum!=1){
-                if(step>50){
+                if(step>40){
                     return false;
                 }
                 sum = 0;
