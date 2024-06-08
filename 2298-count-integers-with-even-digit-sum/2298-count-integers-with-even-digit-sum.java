@@ -1,7 +1,7 @@
 class Solution {
     public int countEven(int num) {
         int digitSum = 0;
-        int countNum = 1;
+        int countNum = 2;
 
         while(countNum <= num){
             int sum = 0;
