@@ -5,7 +5,6 @@ class Solution {
         }
         else{
             int sum = 0;
-            int check = 0;
             int step = 0;
             String num = String.valueOf(n);
             while(sum!=1){
@@ -24,9 +23,6 @@ class Solution {
                 }
                 else{
                     num = String.valueOf(sum);
-                }
-                if(check == 0){
-                    check = sum;
                 }
                 step++;
             }
