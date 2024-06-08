@@ -12,7 +12,6 @@ class Solution {
                 }
                 if(subIndex < nums.length && unique == nums[subIndex]){
                     unique = Integer.MIN_VALUE;
-                    subIndex++;
                     break;
                 }
                 subIndex++;
