@@ -59,6 +59,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0206-reverse-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0860-design-circular-queue](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0908-middle-of-the-linked-list) |
@@ -128,6 +129,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0342-power-of-four](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [0804-rotated-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0804-rotated-digits) |
@@ -279,6 +281,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0225-implement-stack-using-queues](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0445-add-two-numbers-ii) |
 | [1048-clumsy-factorial](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1048-clumsy-factorial) |
 | [2470-removing-stars-from-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2470-removing-stars-from-a-string) |
 # Prefix Sum
