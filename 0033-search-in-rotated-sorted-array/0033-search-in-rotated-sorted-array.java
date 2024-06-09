@@ -1,17 +1,25 @@
 class Solution {
     public int search(int[] nums, int target) {
-        if(nums[nums.length - 1] == target){
-            return nums.length - 1;
-        }
-        else{
-            int index = 0;
-            while(index < nums.length){
-                if(nums[index] ==  target){
-                    return index;
-                }
-                index ++;
+        int comparison = (int)Math.log(nums.length);
+        int length =  nums.length - 1;
+        int index = 0;
+        while(comparison > 0){
+            if(nums[length] == target){
+                return length;
             }
-            return -1;
+            else if(nums[index] == target){
+                return index;
+            }
+            index++;
+            length--;
+            comparison--;
         }
+        while(index < nums.length){
+            if(nums[index] ==  target){
+                return index;
+            }
+            index ++;
+        }
+        return -1;
     }
 }
