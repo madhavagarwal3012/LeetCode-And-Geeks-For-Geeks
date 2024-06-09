@@ -14,7 +14,7 @@ class Solution {
             length--;
             comparison--;
         }
-        while(index < nums.length){
+        while(index <= length){
             if(nums[index] ==  target){
                 return index;
             }
