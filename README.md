@@ -10,6 +10,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0001-two-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0088-merge-sorted-array) |
@@ -174,6 +175,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0268-missing-number) |
