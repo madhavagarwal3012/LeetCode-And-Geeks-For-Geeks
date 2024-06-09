@@ -132,6 +132,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [0804-rotated-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0804-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1013-fibonacci-number) |
+| [1048-clumsy-factorial](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1048-clumsy-factorial) |
 | [1236-n-th-tribonacci-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2032-largest-odd-number-in-string) |
@@ -226,6 +227,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0258-add-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0898-transpose-matrix) |
+| [1048-clumsy-factorial](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1048-clumsy-factorial) |
 | [2058-concatenation-of-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -277,6 +279,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0225-implement-stack-using-queues](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0234-palindrome-linked-list) |
+| [1048-clumsy-factorial](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1048-clumsy-factorial) |
 | [2470-removing-stars-from-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2470-removing-stars-from-a-string) |
 # Prefix Sum
 |  |
