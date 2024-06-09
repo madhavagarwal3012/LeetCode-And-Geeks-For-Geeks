@@ -3,13 +3,13 @@ class Solution {
     public int firstMissingPositive(int[] nums) {
         Arrays.sort(nums);
         int index = 0;
-        int value = 1;
+        int smallestPositive = 1;
         while(index < nums.length){
-            if(nums[index]== value){
-                value++;
+            if(nums[index]== smallestPositive){
+                smallestPositive++;
             }
             index++;
         }
-        return value;
+        return smallestPositive;
     }
 }
