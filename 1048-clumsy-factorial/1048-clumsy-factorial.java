@@ -1,7 +1,7 @@
 class Solution {
-    public static int helper(int n){
-        int output = 0;
-        if(n > 2){
+    public static int helper(int n){     // I have made this function to do */ operation. 
+        int output = 0;                 //  Before performing subtraction because 
+        if(n > 2){                     //   Precedence of */ is higher than - operator.
             output = n * (--n);
             output = output / (--n);
         }
