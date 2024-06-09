@@ -25,10 +25,10 @@ class Solution {
             }
             else if(count == 4){
                 factHelp = helper(n);
-                if(factHelp == 0){
+                if(factHelp == 0){  // If n == 2 and only * operation is left
                   factHelp = n;
                 }
-                factorial = factorial - factHelp;
+                factorial = factorial - factHelp;    
                 n-=2;         // Because I have used helper function to perform */ operation.
                 count-=2;    //  So count will be decrease for + operation at choice 3.
 
