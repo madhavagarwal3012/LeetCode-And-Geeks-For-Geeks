@@ -30,7 +30,7 @@ class Solution {
                 }
                 factorial = factorial - factHelp;
                 n-=2;
-                count-=2;
+                count-=2;    //Because I have used helper function to perform */ operation.
 
             }
             n--;
