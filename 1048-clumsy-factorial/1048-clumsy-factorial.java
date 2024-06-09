@@ -29,8 +29,8 @@ class Solution {
                   factHelp = n;
                 }
                 factorial = factorial - factHelp;
-                n-=2;
-                count-=2;    //Because I have used helper function to perform */ operation.
+                n-=2;         // Because I have used helper function to perform */ operation.
+                count-=2;    //  So count will be decrease for + operation at choice 3.
 
             }
             n--;
