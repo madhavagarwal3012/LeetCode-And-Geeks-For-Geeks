@@ -51,6 +51,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 # Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -110,6 +111,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 # Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0012-integer-to-roman) |
@@ -213,6 +215,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 # Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0203-remove-linked-list-elements) |
