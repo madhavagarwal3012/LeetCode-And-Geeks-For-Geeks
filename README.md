@@ -148,6 +148,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2298-count-integers-with-even-digit-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2556-convert-the-temperature) |
@@ -257,6 +258,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0258-add-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2507-number-of-common-factors) |
 # Greedy
 |  |
 | ------- |
@@ -280,6 +282,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0204-count-primes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2541-sum-of-number-and-its-reverse) |
 # Database
 |  |
