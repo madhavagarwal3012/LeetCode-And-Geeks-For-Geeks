@@ -153,6 +153,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2571-find-the-pivot-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2571-find-the-pivot-integer) |
 | [2630-alternating-digit-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2752-sum-multiples) |
+| [3371-harshad-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3371-harshad-number) |
 # Bit Manipulation
 |  |
 | ------- |
