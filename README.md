@@ -147,6 +147,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2491-smallest-even-multiple](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2630-alternating-digit-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2630-alternating-digit-sum) |
+| [2752-sum-multiples](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2752-sum-multiples) |
 # Bit Manipulation
 |  |
 | ------- |
