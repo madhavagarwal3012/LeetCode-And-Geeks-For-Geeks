@@ -150,6 +150,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2541-sum-of-number-and-its-reverse](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2571-find-the-pivot-integer) |
 | [2630-alternating-digit-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2752-sum-multiples) |
 # Bit Manipulation
@@ -305,3 +306,4 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0303-range-sum-query-immutable](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2571-find-the-pivot-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2571-find-the-pivot-integer) |
