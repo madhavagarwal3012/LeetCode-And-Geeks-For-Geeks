@@ -149,6 +149,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2491-smallest-even-multiple](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2491-smallest-even-multiple) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2556-convert-the-temperature](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2556-convert-the-temperature) |
 | [2630-alternating-digit-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2752-sum-multiples) |
 # Bit Manipulation
