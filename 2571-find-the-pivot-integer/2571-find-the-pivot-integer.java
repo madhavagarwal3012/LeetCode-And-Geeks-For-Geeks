@@ -6,8 +6,8 @@ class Solution {
         else{
             int x = 1;
             while(x <= n){
-                int sumtillPivot = (x * (1 + x))/2;
-                int sumtillN = ((n - x + 1) * (x +n ))/2;
+                int sumtillPivot = x * (x +1) / 2;
+                int sumtillN = (x + n) * (n - x + 1) /2;
 
                 if(sumtillPivot == sumtillN){
                     return x;
