@@ -131,6 +131,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0326-power-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0507-perfect-number) |
@@ -208,6 +209,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0242-valid-anagram](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0742-to-lower-case) |
 | [1542-consecutive-characters](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1542-consecutive-characters) |
@@ -233,6 +235,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0054-spiral-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0898-transpose-matrix) |
 | [1048-clumsy-factorial](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1048-clumsy-factorial) |
