@@ -147,6 +147,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2298-count-integers-with-even-digit-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2491-smallest-even-multiple) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2630-alternating-digit-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2752-sum-multiples) |
@@ -274,6 +275,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0204-count-primes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2083-three-divisors) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2541-sum-of-number-and-its-reverse) |
 # Database
 |  |
 | ------- |
