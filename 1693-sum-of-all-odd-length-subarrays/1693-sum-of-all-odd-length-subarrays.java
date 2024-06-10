@@ -1,29 +1,29 @@
 class Solution {
     public int sumOddLengthSubarrays(int[] arr) {
         int odd = 3;
+        int index = 0;
         int sum = 0;
         int length = arr.length;
-        int index = 0;
-        while (index < length) {
-            sum += arr[index];
+        while(index < length){
+            sum = sum + arr[index];
             index++;
         }
-        if (length % 2 == 1 && length > 1) {
-            sum = sum+sum;
+        if(arr.length % 2 == 1 && arr.length > 1){
+            sum = sum + sum;
         }
-        while (odd < length) {
+        while(odd != arr.length && odd < arr.length){
             index = 0;
-            while (index <= length - odd) {
+            while(index <= arr.length - odd){
                 int subIndex = index;
                 int count = 0;
-                while (count < odd) {
-                    sum += arr[subIndex];
+                while(count < odd){
+                    sum = sum + arr[subIndex];
                     subIndex++;
                     count++;
                 }
                 index++;
             }
-            odd += 2;
+            odd+=2;
         }
         return sum;
     }
