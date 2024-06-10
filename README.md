@@ -93,6 +93,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0389-find-the-difference](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0389-find-the-difference) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3324-split-the-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3324-split-the-array) |
 # Two Pointers
 |  |
@@ -153,6 +154,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2571-find-the-pivot-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2571-find-the-pivot-integer) |
 | [2630-alternating-digit-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2752-sum-multiples) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3371-harshad-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3371-harshad-number) |
 # Bit Manipulation
 |  |
