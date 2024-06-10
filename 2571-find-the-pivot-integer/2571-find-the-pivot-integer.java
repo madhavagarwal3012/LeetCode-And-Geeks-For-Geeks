@@ -4,15 +4,15 @@ class Solution {
             return n;
         }
         else{
-            int number = 1;
-            while(number <= n){
-                int sumtillPivot = (number * (1+number))/2;
-                int sumtillN = ((n-number+1) * (number+n))/2;
+            int x = 1;
+            while(x <= n){
+                int sumtillPivot = (x * (1 + x))/2;
+                int sumtillN = ((n - x + 1) * (x +n ))/2;
 
                 if(sumtillPivot == sumtillN){
-                    return number;
+                    return x;
                 }
-                number++;
+                x++;
             }
         }
         return -1;
