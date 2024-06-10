@@ -143,6 +143,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1448-maximum-69-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2491-smallest-even-multiple) |
@@ -248,6 +249,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0204-count-primes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2491-smallest-even-multiple) |
 # Greedy
 |  |
@@ -271,6 +273,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0204-count-primes) |
+| [2083-three-divisors](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2083-three-divisors) |
 # Database
 |  |
 | ------- |
