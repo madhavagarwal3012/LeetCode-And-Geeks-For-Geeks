@@ -30,15 +30,24 @@ class Solution:
             index2 = index1 + 1
         if index3 is None:
             index3 = index2 + 1
+        
+        if(number[index1] == "0" and number[index2] != "0"):
+            numberinWords = self.length2(numberinWords, number, index2)
+            return numberinWords
 
-        hundredPlace = number[index1]
-        threeDigit = int(hundredPlace)
+        elif(number[index1] == "0" and number[index2] == "0" and number[index3] != "0"):
+            numberinWords = self.length1(numberinWords, number, index3)
+            return numberinWords
 
-        numberinWords += self.num_list[threeDigit]
-        numberinWords += self.num_list[100]
-        numberinWords = self.length2(numberinWords, number, index2)
+        else:
+            hundredPlace = number[index1]
+            threeDigit = int(hundredPlace)
 
-        return numberinWords
+            numberinWords += self.num_list[threeDigit]
+            numberinWords += self.num_list[100]
+            numberinWords = self.length2(numberinWords, number, index2)
+
+            return numberinWords
     
     def length4(self, numberinWords, number, index1 = 0, index2 = None, index3 = None, index4 = None):
         if index2 is None:
