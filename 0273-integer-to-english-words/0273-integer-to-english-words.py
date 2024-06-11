@@ -122,7 +122,7 @@ class Solution:
             numberinWords = self.length3(numberinWords, number, index + 4)
             return numberinWords
         
-        elif(number[index + 1] == "0" and number[index + 2] == "0" and number[index + 3] == "0" and number[index + 4] == "0" and number[index + 5] != "0"):
+        elif(number[index + 1] == "0" and number[index + 2] == "0" and number[index + 3] == "0" and number[index + 4] == "0"):
             numberinWords = self.length2(numberinWords, number, index + 5)
             return numberinWords
         
