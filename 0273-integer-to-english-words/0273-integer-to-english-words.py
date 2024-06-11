@@ -79,7 +79,7 @@ class Solution:
             numberinWords = self.length3(numberinWords, number, index1 + 2)
             return numberinWords
 
-        elif(number[index1 + 2] == "0"):
+        elif(number[index1 + 2] == "0" and number[index1 + 3] != "0"):
             numberinWords = self.length2(numberinWords, number, index1 + 3)
             return numberinWords
     
