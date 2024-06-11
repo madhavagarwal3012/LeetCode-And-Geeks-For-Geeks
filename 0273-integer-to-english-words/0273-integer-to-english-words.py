@@ -70,6 +70,10 @@ class Solution:
         numberinWords += self.num_list[101]
         if(number[index1 + 2] == "0" and number[index1 + 3] == "0" and number[index1 + 4] == "0"):
             return numberinWords
+        
+        elif(number[index1 + 2] == "0" and number[index1 + 3] == "0" and number[index1 + 4] != "0"):
+            numberinWords = self.length1(numberinWords, number, index1 + 4)
+            return numberinWords
 
         elif(number[index1 + 2] != "0"):
             numberinWords = self.length3(numberinWords, number, index1 + 2)
