@@ -303,6 +303,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 # Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0234-palindrome-linked-list) |
@@ -316,3 +317,15 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1603-running-sum-of-1d-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2571-find-the-pivot-integer) |
+# Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0144-binary-tree-preorder-traversal) |
+# Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0144-binary-tree-preorder-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0144-binary-tree-preorder-traversal) |
