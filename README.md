@@ -228,6 +228,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2032-largest-odd-number-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2032-largest-odd-number-in-string) |
+| [2401-count-asterisks](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2401-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2470-removing-stars-from-a-string) |
 # Recursion
 |  |
