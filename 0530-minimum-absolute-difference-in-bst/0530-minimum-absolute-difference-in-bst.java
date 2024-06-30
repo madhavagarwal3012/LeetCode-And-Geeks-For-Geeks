@@ -27,13 +27,13 @@ class Solution {
     public int getMinimumDifference(TreeNode root) {
         List<Integer>inorder = new ArrayList<>();
         inorder = helper(root, inorder);
-        int minimumDistance = Integer.MAX_VALUE;
+        int minimumAbsoluteDistance = Integer.MAX_VALUE;
 
         for(int index = inorder.size()-1; index > 0; index--){
-            if(inorder.get(index) - inorder.get(index - 1) < minimumDistance){
-                minimumDistance = inorder.get(index) - inorder.get(index - 1);
+            if(inorder.get(index) - inorder.get(index - 1) < minimumAbsoluteDistance){
+                minimumAbsoluteDistance = inorder.get(index) - inorder.get(index - 1);
             }
         }
-        return minimumDistance;
+        return minimumAbsoluteDistance;
     }
 }
