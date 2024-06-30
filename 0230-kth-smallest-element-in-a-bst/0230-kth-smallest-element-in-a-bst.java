@@ -30,7 +30,6 @@ class Solution {
     public int kthSmallest(TreeNode root, int k) {
         List<Integer>inorder = new ArrayList<>();
         inorder = kthHelper(root, inorder, k);
-
         return inorder.get(k-1);
     }
 }
