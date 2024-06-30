@@ -363,6 +363,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0975-range-sum-of-bst) |
@@ -370,6 +371,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0975-range-sum-of-bst) |
@@ -378,6 +380,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0975-range-sum-of-bst) |
@@ -385,12 +388,14 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Array
