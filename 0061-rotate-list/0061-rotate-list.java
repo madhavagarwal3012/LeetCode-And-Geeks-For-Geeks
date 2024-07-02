@@ -38,6 +38,8 @@ class Solution {
             tail.val = rotatedArray[index];
             tail = tail.next;
         }
+        list = null;
+        rotatedArray = null;
         return head;
     }
 }
