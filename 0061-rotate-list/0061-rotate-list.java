@@ -9,14 +9,13 @@
  * }
  */
 class Solution {
-    public static int [] rightRotation(ArrayList<Integer> nums, int R){
-		int size = nums.size();
-        R = R % size; 
-        int[] rotatedArray = new int[size];
+    public static int [] rightRotation(ArrayList<Integer> list, int Rotations){
+        Rotations = Rotations % list.size(); 
+        int[] rotatedArray = new int[list.size()];
         
-        for (int index = 0; index < size; index++) {
-            int rightPointer = (index + R) % size;
-            rotatedArray[rightPointer] = nums.get(index);
+        for (int index = 0; index < list.size(); index++) {
+            int rightPointer = (index + Rotations) % list.size();
+            rotatedArray[rightPointer] = list.get(index);
         }
 		return rotatedArray;
 	}
