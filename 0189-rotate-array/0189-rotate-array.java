@@ -1,14 +1,21 @@
 class Solution {
-    public void rotate(int[] nums, int k) {
-        int n = nums.length;
-        k = k % n; 
-        int[] result = new int[n];
-        
-        for (int i = 0; i < n; i++) {
-            int pointer = (i + k) % n;
-            result[pointer] = nums[i];
+    public int[] arrayRotation(int [] array, int direction, char side){
+        direction = direction % array.length;
+        int [] rotatedArray = new int[array.length];
+
+        for(int index = 0; index < array.length; index++){
+            int newIndex = (index + direction) % array.length;
+            if(side == 'L'){
+                rotatedArray[index] = array[newIndex];
+            }
+            else if(side == 'R'){
+                rotatedArray[newIndex] = array[index];
+            }
         }
-        
-        System.arraycopy(result, 0, nums, 0, n);
+        return rotatedArray;
+    }
+    public void rotate(int[] nums, int k) {
+        int[] result = arrayRotation(nums, k, 'R');
+        System.arraycopy(result, 0, nums, 0, nums.length);
     }
 }
