@@ -1,32 +1,20 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int start=0;
-        int end=nums.length;
-        int element_count=1;
-        int majority_element=0;
-        
-        
-        if(end==1){
-            majority_element=nums[start];
+        Arrays.sort(nums);
+        int majorityCount = 0;
+        int majorityIndex = 0;
+        for(int index = 0; index < nums.length; index++){
+            int count = 0;
+            for(int subIndex = index+1; subIndex < nums.length; subIndex++){
+                if(nums[index] == nums[subIndex]){
+                    count++;
+                }
+            }
+            if(count > majorityCount){
+                majorityCount = count;
+                majorityIndex = index;
+            }
         }
-        
-        while(start<end){
-            if(element_count>end/2){
-                break;
-            }
-            else{
-                element_count=1;
-            }
-            int j=start+1;
-            while(j<end){
-                if(nums[start]==nums[j]){
-                    majority_element=nums[start];
-                    element_count++;
-                 }
-                j++;
-            }
-            start++;
-        }
-        return majority_element;
+        return nums[majorityIndex];
     }
 }
