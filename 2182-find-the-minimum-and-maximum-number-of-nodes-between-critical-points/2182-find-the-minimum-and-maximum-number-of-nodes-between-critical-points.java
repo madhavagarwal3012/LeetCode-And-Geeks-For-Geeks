@@ -49,7 +49,8 @@ class Solution {
             array[0] = indexArray[1] - indexArray[0];
             array[1] = indexArray[1] - indexArray[0];
         }
-        else {
+        else{
+            //array[0] = indexArray[indexArray.length - 1] - indexArray[indexArray.length - 2];
             for (int i = 1; i < indexArray.length; i++) {
                 minimumDistance = Math.min(minimumDistance, indexArray[i] - indexArray[i-1]);
             }
