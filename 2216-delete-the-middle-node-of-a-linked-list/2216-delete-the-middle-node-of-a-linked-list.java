@@ -9,18 +9,6 @@
  * }
  */
 class Solution {
-    public ListNode findpreviousofMid(ListNode head){
-        ListNode slowPrevious = head;
-        ListNode slow = head;
-        ListNode fast = head;
-
-        while(fast != null && fast.next != null){
-            slowPrevious = slow;
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        return slowPrevious;
-    }
     public ListNode deleteMiddle(ListNode head) {
         if(head == null){
             return head;
@@ -32,8 +20,16 @@ class Solution {
             head.next = null;
         }
         else{
-            ListNode midPrevious = findpreviousofMid(head);
-            midPrevious.next = midPrevious.next.next;
+            ListNode slowPrevious = head;
+            ListNode slow = head;
+            ListNode fast = head;
+
+            while(fast != null && fast.next != null){
+                slowPrevious = slow;
+                slow = slow.next;
+                fast = fast.next.next;
+            }
+            slowPrevious.next = slowPrevious.next.next;
         }
         return head;
     }
