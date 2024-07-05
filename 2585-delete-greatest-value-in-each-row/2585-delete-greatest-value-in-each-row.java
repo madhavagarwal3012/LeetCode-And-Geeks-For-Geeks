@@ -10,6 +10,7 @@ class Solution {
             for(int row = 1; row < grid.length ; row++){
                 if(grid[row][column] > maximum){
                     maximum = grid[row][column];
+                    grid[row][column] = 0;
                 }
             }
             sum = sum + maximum;
