@@ -30,6 +30,9 @@ class Solution {
                 fast = fast.next.next;
             }
             slowPrevious.next = slowPrevious.next.next;
+            slowPrevious = null;
+            slow = null;
+            fast = null;
         }
         return head;
     }
