@@ -1,19 +1,19 @@
 class Solution {
     public int passThePillow(int n, int time) {
         while(time > 0){
-            int people = 1;
-            while(people < n){
-                people++;
+            int personwithPillow = 1;
+            while(personwithPillow < n){
+                personwithPillow++;
                 time--;
                 if(time == 0){
-                    return people;
+                    return personwithPillow;
                 }
             }
-            while(people > 1){
-                people--;
+            while(personwithPillow > 1){
+                personwithPillow--;
                 time--;
                 if(time == 0){
-                    return people;
+                    return personwithPillow;
                 }
             }
         }
