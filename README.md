@@ -445,6 +445,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
 | [2645-pass-the-pillow](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2645-pass-the-pillow) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Enumeration
 |  |
 | ------- |
@@ -480,4 +481,5 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2585-delete-greatest-value-in-each-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2645-pass-the-pillow](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2645-pass-the-pillow) |
 | [2728-sum-in-a-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2728-sum-in-a-matrix) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 <!---LeetCode Topics End-->
