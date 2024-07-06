@@ -1,19 +1,19 @@
 class Solution {
     public int numberOfChild(int n, int time) {
          while(time > 0){
-            int personwithPillow = 1;
-            while(personwithPillow < n){
-                personwithPillow++;
+            int childwithBall = 1;
+            while(childwithBall < n){
+                childwithBall++;
                 time--;
                 if(time == 0){
-                    return personwithPillow - 1;
+                    return childwithBall - 1;
                 }
             }
-            while(personwithPillow > 1){
-                personwithPillow--;
+            while(childwithBall > 1){
+                childwithBall--;
                 time--;
                 if(time == 0){
-                    return personwithPillow - 1;
+                    return childwithBall - 1;
                 }
             }
         }
