@@ -33,19 +33,16 @@ class Solution {
 			for(int level = 0; level < levelSize1; level++){
 				TreeNode front1 = queue1.poll();
 				TreeNode front2 = queue2.poll();
-				if(front1 != null && front2 != null){
+                if(front1 == null && front2 == null){
+                    return true;
+                }
+				else if(front1 != null && front2 != null){
                     if(front1.val != front2.val){
 					    return false;
 				    }
                 }
-                else if(front1 != null && front2 == null){
+                else if(front1 == null || front2 == null){
                     return false;
-                }
-                else if(front1 == null && front2 != null){
-                    return false;
-                }
-                else{
-                    return true;
                 }
 				if(front1.left != null && front2.left != null){
                     queue1.add(front1.left);
