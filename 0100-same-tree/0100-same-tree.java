@@ -69,9 +69,6 @@ class Solution {
                 }
 			}
 		}
-		if((!queue1.isEmpty() && queue2.isEmpty()) || (!queue2.isEmpty() && queue1.isEmpty())){
-			return false;
-		}
-		return true;
+		return queue1.isEmpty() && queue2.isEmpty();
     }
 }
