@@ -24,13 +24,13 @@ class Solution {
             if(nums[index] != maximumNumber){
                 if(map.get(nums[index]) > 1){
                     permutationCheck--;
+                    if(permutationCheck < 1){
+                        return false;
+                    }
                 }
             }
         }
-        if(permutationCheck != 1){
-            return false;
-        }
-        else if(maximumNumber == map.size()){
+        if(maximumNumber == map.size()){
             return true;
         }
         else{
