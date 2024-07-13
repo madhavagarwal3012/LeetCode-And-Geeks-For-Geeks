@@ -6,7 +6,6 @@ class Solution {
         int oCount = 0;
         int nCount = 0;
         int balloonCount = 0;
-
         for(int index = 0; index < text.length(); index++){
             if(text.charAt(index) == 'b'){
                 bCount++;
