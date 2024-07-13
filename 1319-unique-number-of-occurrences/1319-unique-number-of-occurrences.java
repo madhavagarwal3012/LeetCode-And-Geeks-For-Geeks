@@ -1,6 +1,5 @@
 class Solution {
     public boolean uniqueOccurrences(int[] arr) {
-        ArrayList<Integer> list = new ArrayList<>();
         HashMap<Integer, Integer> map = new HashMap<>();
         HashMap<Integer, Boolean> occurence = new HashMap<>();
         for(int index = 0; index < arr.length; index++){
