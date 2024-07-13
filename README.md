@@ -430,6 +430,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2486-most-frequent-even-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2486-most-frequent-even-element) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2728-sum-in-a-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2728-sum-in-a-matrix) |
+| [2892-check-if-array-is-good](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2892-check-if-array-is-good) |
 | [3469-maximum-height-of-a-triangle](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3469-maximum-height-of-a-triangle) |
 ## Two Pointers
 |  |
@@ -449,6 +450,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1848-sum-of-unique-elements) |
 | [2486-most-frequent-even-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2486-most-frequent-even-element) |
+| [2892-check-if-array-is-good](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2892-check-if-array-is-good) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Linked List
 |  |
@@ -478,6 +480,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2728-sum-in-a-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2728-sum-in-a-matrix) |
+| [2892-check-if-array-is-good](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2892-check-if-array-is-good) |
 ## Counting
 |  |
 | ------- |
