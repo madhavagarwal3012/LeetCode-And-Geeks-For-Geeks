@@ -30,7 +30,7 @@ class Solution {
         if(permutationCheck != 1){
             return false;
         }
-        else if(maximumNumber == nums.length-1){
+        else if(maximumNumber == map.size()){
             return true;
         }
         else{
