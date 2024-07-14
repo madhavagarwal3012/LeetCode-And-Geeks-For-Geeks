@@ -1,14 +1,11 @@
 class Solution {
     public int findMaxK(int[] nums) {
         int largestElement = -1;
-        HashMap<Integer, Integer> map = new HashMap<>();
+        HashMap<Integer, Boolean> map = new HashMap<>();
 
         for(int index = 0; index < nums.length; index++){
             if(!map.containsKey(nums[index])){
-                map.put(nums[index], 1);
-            }
-            else{
-                map.put(nums[index], map.get(nums[index]) + 1);
+                map.put(nums[index], true);
             }
         }
         for(int index = 0; index < nums.length; index++){
