@@ -1,6 +1,6 @@
 class Solution {
     public int rearrangeCharacters(String s, String target) {
-        int output = 0;
+        int numberofCopies = 0;
         HashMap<Character, Integer> map = new HashMap<>();
         for(int index = 0; index < s.length(); index++){
             if(!map.containsKey(s.charAt(index))){
@@ -19,9 +19,9 @@ class Solution {
                 }
             }
             if(characterCount == target.length()){
-                output++;
+                numberofCopies++;
             }
         }
-        return output;
+        return numberofCopies;
     }
 }
