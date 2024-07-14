@@ -463,6 +463,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2892-check-if-array-is-good](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2892-check-if-array-is-good) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3447-clear-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -522,6 +523,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2585-delete-greatest-value-in-each-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2645-pass-the-pillow](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2645-pass-the-pillow) |
 | [2728-sum-in-a-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2728-sum-in-a-matrix) |
+| [3447-clear-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## String
 |  |
@@ -531,4 +533,5 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2406-decode-the-message](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2502-sort-the-people) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3447-clear-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
