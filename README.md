@@ -398,6 +398,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0783-search-in-a-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0975-range-sum-of-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -429,6 +430,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1848-sum-of-unique-elements) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2312-most-frequent-number-following-key-in-an-array) |
