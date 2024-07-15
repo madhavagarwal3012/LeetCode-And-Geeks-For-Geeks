@@ -4,7 +4,7 @@ class Solution {
             if(arr[index] < arr[index + 1]){
                 continue;
             }
-            else if(index > 0){
+            else{
                 return index;
             }
         }
