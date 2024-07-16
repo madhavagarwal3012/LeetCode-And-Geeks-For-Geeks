@@ -543,6 +543,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0020-valid-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2406-decode-the-message) |
@@ -553,4 +554,8 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
