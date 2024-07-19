@@ -17,7 +17,7 @@ class Solution {
             else if(nums[index] > maximum){
                 secondMaximum = maximum;
                 maximum = nums[index];
-                maximumFrequency = 0;
+                maximumFrequency = 1;
             }
         }
         if(maximum != Integer.MIN_VALUE){
