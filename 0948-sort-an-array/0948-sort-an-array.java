@@ -24,6 +24,7 @@ class Solution {
                     arr[index] = count;
                     index++;
                 }
+                map.remove(count);
             }
         }
         return arr;
