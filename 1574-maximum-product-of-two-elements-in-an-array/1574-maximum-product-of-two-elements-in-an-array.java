@@ -21,7 +21,7 @@ class Solution {
             }
         }
         if(maximum != Integer.MIN_VALUE){
-            if(maximumFrequency > 0){
+            if(maximumFrequency > 1){
                 return (maximum - 1) * (maximum - 1);
             }
             else if(secondMaximum != Integer.MIN_VALUE){
