@@ -3,13 +3,7 @@ class Solution {
         Stack<Character> openBracket = new Stack<>();
         Stack<Character> closedBracket = new Stack<>();
         for(int index = 0; index < s.length(); index++){
-            if(s.charAt(index) == '('){
-                openBracket.push(s.charAt(index));
-            }
-            else if(s.charAt(index) == '['){
-                openBracket.push(s.charAt(index));
-            }
-            else if(s.charAt(index) == '{'){
+            if(s.charAt(index) == '(' || s.charAt(index) == '[' || s.charAt(index) == '{'){
                 openBracket.push(s.charAt(index));
             }
             else if(s.charAt(index) == ')'){
