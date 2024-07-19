@@ -1,5 +1,8 @@
 class Solution {
     public int maxProduct(int[] nums) {
+        if (nums.length < 2) {
+            return 0; // Not enough elements to form a product
+        }
         HashMap<Integer, Integer> map = new HashMap<>();
         int maximum = Integer.MIN_VALUE;
         int secondMaximum = Integer.MIN_VALUE - 1;
