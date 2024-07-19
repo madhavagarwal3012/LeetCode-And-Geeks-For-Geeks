@@ -1,5 +1,6 @@
 class Solution {
     public int[] numberGame(int[] nums) {
+        //Arrays.sort(nums);
         HashMap<Integer, Integer> map = new HashMap<>();
         int minimum = Integer.MAX_VALUE;
         int maximum = Integer.MIN_VALUE;
