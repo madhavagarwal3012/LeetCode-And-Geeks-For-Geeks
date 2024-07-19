@@ -437,6 +437,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1848-sum-of-unique-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1848-sum-of-unique-elements) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2331-intersection-of-multiple-arrays) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -469,6 +470,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2331-intersection-of-multiple-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2331-intersection-of-multiple-arrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2406-decode-the-message) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -511,6 +513,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0948-sort-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2331-intersection-of-multiple-arrays) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -532,6 +535,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0948-sort-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2728-sum-in-a-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2728-sum-in-a-matrix) |
 ## Matrix
@@ -542,6 +546,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 ## Simulation
 |  |
 | ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2645-pass-the-pillow](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2645-pass-the-pillow) |
 | [2728-sum-in-a-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2728-sum-in-a-matrix) |
@@ -578,4 +583,8 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0948-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
