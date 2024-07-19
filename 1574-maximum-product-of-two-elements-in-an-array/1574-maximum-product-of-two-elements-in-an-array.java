@@ -20,15 +20,14 @@ class Solution {
                 maximumFrequency = 0;
             }
         }
-        int product = 1;
         if(maximum != Integer.MIN_VALUE){
             if(maximumFrequency > 0){
-                product = product * (maximum - 1) * (maximum - 1);
+                return (maximum - 1) * (maximum - 1);
             }
             else if(secondMaximum != Integer.MIN_VALUE){
-                product = product * (secondMaximum - 1) * (maximum - 1);
+                return (secondMaximum - 1) * (maximum - 1);
             }
         }
-        return product;
+        return 0;
     }
 }
