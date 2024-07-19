@@ -1,7 +1,7 @@
 class Solution {
     public int maxProduct(int[] nums) {
         if (nums.length < 2) {
-            return 0; // Not enough elements to form a product
+            return 0;
         }
         int maximumFrequency = 0;
         int maximum = Integer.MIN_VALUE;
