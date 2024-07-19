@@ -10,7 +10,6 @@ class Solution:
         return numberinWords
 
     def length2(self, numberinWords, number, index = 0):
-        
         if(number[index] == "0" and number[index + 1] == "0"):
             return numberinWords
 
@@ -25,7 +24,6 @@ class Solution:
             return numberinWords
 
     def length3(self, numberinWords, number, index = 0):
-        
         if(number[index] == "0" and number[index + 1] != "0"):
             numberinWords = self.length2(numberinWords, number, index + 1)
             return numberinWords
@@ -45,7 +43,6 @@ class Solution:
             return numberinWords
     
     def length4(self, numberinWords, number, index = 0):
-        
         thousandPlace = number[index]
         fourDigit = int(thousandPlace)
 
@@ -60,7 +57,6 @@ class Solution:
         return numberinWords
     
     def length5(self, numberinWords, number, index = 0):
-        
         fifthPlace = number[index] + number[index + 1]
         fiveDigit = int(fifthPlace)
 
