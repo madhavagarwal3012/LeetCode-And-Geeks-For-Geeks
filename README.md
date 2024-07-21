@@ -393,6 +393,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -432,6 +433,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0948-sort-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1319-unique-number-of-occurrences) |
@@ -458,6 +460,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -466,6 +469,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1319-unique-number-of-occurrences) |
@@ -517,6 +521,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0148-sort-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2331-intersection-of-multiple-arrays) |
