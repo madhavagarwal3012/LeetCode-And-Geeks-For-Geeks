@@ -442,6 +442,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1137-height-checker](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1319-unique-number-of-occurrences) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1848-sum-of-unique-elements) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -482,6 +483,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1217-relative-sort-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1319-unique-number-of-occurrences) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1848-sum-of-unique-elements) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -539,6 +541,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1019-squares-of-a-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1217-relative-sort-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -553,6 +556,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1848-sum-of-unique-elements) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2312-most-frequent-number-following-key-in-an-array) |
