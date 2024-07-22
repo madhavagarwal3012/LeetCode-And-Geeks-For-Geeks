@@ -1,26 +1,26 @@
 class Solution {
     public boolean halvesAreAlike(String s) {
-        HashMap<Character, Boolean> vowels = new HashMap<>();
-        vowels.put('a', true);
-        vowels.put('e', true);
-        vowels.put('i', true);
-        vowels.put('o', true);
-        vowels.put('u', true);
-        vowels.put('A', true);
-        vowels.put('E', true);
-        vowels.put('I', true);
-        vowels.put('O', true);
-        vowels.put('U', true);
+        Set<Character> vowels = new HashSet<>();
+        vowels.add('a');
+        vowels.add('e');
+        vowels.add('i');
+        vowels.add('o');
+        vowels.add('u');
+        vowels.add('A');
+        vowels.add('E');
+        vowels.add('I');
+        vowels.add('O');
+        vowels.add('U');
 
         int firsthalfvowelCount = 0;
         for(int index = 0; index < s.length()/2; index++){
-            if(vowels.containsKey(s.charAt(index))){
+            if(vowels.contains(s.charAt(index))){
                 firsthalfvowelCount++;
             }
         }
         int secondhalfvowelCount = 0;
         for(int index = s.length()/2; index < s.length(); index++){
-            if(vowels.containsKey(s.charAt(index))){
+            if(vowels.contains(s.charAt(index))){
                 secondhalfvowelCount++;
             }
         }
