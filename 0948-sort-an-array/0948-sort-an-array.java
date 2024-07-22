@@ -1,53 +1,32 @@
 class Solution {
     public int[] sortArray(int[] arr) {
-        // Heapify Up
-		int length = arr.length;
-		for(int index = 0; index < length; index++) {
-			int childIndex = index;
-			while(childIndex > 0) {
-				if(arr[childIndex] > arr[(childIndex - 1) / 2]) {
-					int temp = arr[(childIndex - 1) / 2];
-					arr[(childIndex - 1) / 2] = arr[childIndex];
-					arr[childIndex] = temp;
-				}
-				else {
-					break;
-				}
-				childIndex = (childIndex - 1) / 2;
-			}
-		}
-		// Heapify Down
-		length--;
-		while(length > 0) {
-			int temp = arr[0];
-			arr[0] = arr[length];
-			arr[length] = temp;
-			
-			int parentIndex = 0;
-			int maxIndex = parentIndex;
-			int leftChildIndex = 2 * maxIndex + 1;
-			int rightChildIndex = 2 * maxIndex + 2;
-			
-			while(leftChildIndex < length) {
-				if(arr[leftChildIndex] > arr[maxIndex]) {
-					maxIndex = leftChildIndex;
-				}
-				if(rightChildIndex < length && arr[rightChildIndex] > arr[maxIndex]) {
-					maxIndex = rightChildIndex;
-				}
-				if(maxIndex == parentIndex) {
-					break;
-				}
-				temp = arr[parentIndex];
-				arr[parentIndex] = arr[maxIndex];
-				arr[maxIndex] = temp;
-				
-				parentIndex = maxIndex;
-				leftChildIndex = 2 * maxIndex + 1;
-				rightChildIndex = 2 * maxIndex + 2;
-			}
-			length--;
-		}
+        HashMap<Integer, Integer> map = new HashMap<>();
+        int minimum = Integer.MAX_VALUE;
+        int maximum = Integer.MIN_VALUE;
+        for(int index = 0; index < arr.length; index++){
+            if(!map.containsKey(arr[index])){
+                if(arr[index] < minimum){
+                    minimum = arr[index];
+                }
+                if(arr[index] > maximum){
+                    maximum = arr[index];
+                }
+                map.put(arr[index], 1);
+            }
+            else{
+                map.put(arr[index], map.get(arr[index]) + 1);
+            }
+        }
+        int index = 0;
+        for(int count = minimum; count <= maximum; count++){
+            if(map.containsKey(count)){
+                for(int frequency = map.get(count); frequency > 0; frequency--){
+                    arr[index] = count;
+                    index++;
+                }
+            }
+        }
+        map.clear();
         return arr;
     }
 }
