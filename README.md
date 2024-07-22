@@ -435,6 +435,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0682-baseball-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0941-sort-array-by-parity) |
@@ -483,6 +484,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1217-relative-sort-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
@@ -600,6 +602,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0020-valid-parentheses](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0020-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0500-keyboard-row) |
 | [1260-day-of-the-year](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1823-determine-if-string-halves-are-alike) |
