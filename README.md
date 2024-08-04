@@ -465,6 +465,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [3226-minimum-number-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3226-minimum-number-game) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3469-maximum-height-of-a-triangle) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -482,6 +483,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -565,6 +567,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2728-sum-in-a-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2728-sum-in-a-matrix) |
 | [2892-check-if-array-is-good](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2892-check-if-array-is-good) |
 | [3226-minimum-number-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3226-minimum-number-game) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
 | ------- |
