@@ -5,9 +5,10 @@ class Solution {
 
         for(int index = 0; index < nums.length; index++){
             elementSum = elementSum + nums[index];
-            String number = String.valueOf(nums[index]);
-            for(int stringIndex = 0; stringIndex < number.length(); stringIndex++){
-                digitSum = digitSum + Character.getNumericValue(number.charAt(stringIndex));
+            int number = nums[index];
+            while(number > 0){
+                digitSum = digitSum + number % 10;
+                number = number/10;
             }
         }
         return Math.abs(elementSum - digitSum);
