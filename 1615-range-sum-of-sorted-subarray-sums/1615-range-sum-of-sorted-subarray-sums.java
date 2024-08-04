@@ -7,7 +7,7 @@ class Solution {
             unsortedSequenceSum[unsortedSequenceIndex] = sum;
             unsortedSequenceIndex++;
             for(int subIndex = index + 1; subIndex < n; subIndex++){
-                sum = sum + nums[subIndex];
+                sum = (sum + nums[subIndex]) % 1000000007;
                 unsortedSequenceSum[unsortedSequenceIndex] = sum;
                 unsortedSequenceIndex++;
             }
