@@ -11,9 +11,6 @@ class Solution {
                 number = number/10;
             }
         }
-        if(elementSum - digitSum < 0){
-            return (elementSum - digitSum) * -1;
-        }
         return elementSum - digitSum;
     }
 }
