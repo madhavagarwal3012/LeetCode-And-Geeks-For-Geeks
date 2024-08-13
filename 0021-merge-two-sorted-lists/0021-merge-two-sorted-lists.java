@@ -10,24 +10,24 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ArrayList<Integer> sorted = new ArrayList<>();
+        ArrayList<ListNode> sorted = new ArrayList<>();
 
         while(list1 != null && list2 != null){
             if(list1.val < list2.val){
-                sorted.add(list1.val);
+                sorted.add(list1);
                 list1 = list1.next;
             }
             else{
-                sorted.add(list2.val);
+                sorted.add(list2);
                 list2 = list2.next;
             }
         }
         while(list1 != null){
-            sorted.add(list1.val);
+            sorted.add(list1);
             list1 = list1.next;
         }
         while(list2 != null){
-            sorted.add(list2.val);
+            sorted.add(list2);
             list2 = list2.next;
         }
 
@@ -35,12 +35,12 @@ class Solution {
         ListNode tail = null;
         for(int index = 0; index < sorted.size(); index++){
             if(head == null){
-                head = new ListNode(sorted.get(index));
+                head = sorted.get(index);
                 tail = head;
                 sorted.set(index, null);
             }
             else{
-                tail.next = new ListNode(sorted.get(index));
+                tail.next = sorted.get(index);
                 tail = tail.next;
                 sorted.set(index, null);
             }
