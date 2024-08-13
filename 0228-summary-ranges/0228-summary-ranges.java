@@ -11,7 +11,7 @@ class Solution {
                 final_element = nums[index];
             }
             else if(final_element + 1 != nums[index]){
-                if(Integer.valueOf(starting_element) != final_element){
+                if(starting_element != final_element){
                     range += "->";
                     range += String.valueOf(final_element);
                 }
