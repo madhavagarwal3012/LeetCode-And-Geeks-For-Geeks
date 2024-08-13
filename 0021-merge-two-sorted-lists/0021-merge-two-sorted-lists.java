@@ -12,7 +12,6 @@ class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ArrayList<Integer> sorted = new ArrayList<>();
 
-
         while(list1 != null && list2 != null){
             if(list1.val < list2.val){
                 sorted.add(list1.val);
@@ -38,10 +37,12 @@ class Solution {
             if(head == null){
                 head = new ListNode(sorted.get(index));
                 tail = head;
+                sorted.set(index, null);
             }
             else{
                 tail.next = new ListNode(sorted.get(index));
                 tail = tail.next;
+                sorted.set(index, null);
             }
         }
         return head;
