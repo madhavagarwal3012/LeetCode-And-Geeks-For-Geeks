@@ -625,6 +625,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0500-keyboard-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0500-keyboard-row) |
 | [1260-day-of-the-year](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2406-decode-the-message) |
