@@ -4,7 +4,6 @@ class Solution {
         List<Integer> list1 = new ArrayList<>();
         HashMap<Integer, Integer> map = new HashMap<>();
         HashMap<Integer,Boolean> winnerMap = new HashMap<>();
-
         for(int row = 0; row < matches.length; row++){
             for(int column = 0; column < matches[0].length; column++){
                 if(column == 0){
@@ -21,9 +20,9 @@ class Solution {
                 }
             }
         }
+
         List<Integer> winners = new ArrayList<>();
         List<Integer> losers = new ArrayList<>();
-
         for(int index = 0; index < list0.size(); index++){
             if(!map.containsKey(list0.get(index))){
                 if(!winnerMap.containsKey(list0.get(index))){
@@ -37,6 +36,7 @@ class Solution {
                 losers.add(list1.get(index));
             }
         }
+
         int winnerArray[] = new int[winners.size()];
         for(int index = 0; index < winners.size(); index++){
             winnerArray[index] = winners.get(index);
@@ -47,7 +47,6 @@ class Solution {
         }
         Arrays.sort(winnerArray);
         Arrays.sort(loserArray);
-
         winners.clear();
         losers.clear();
 
