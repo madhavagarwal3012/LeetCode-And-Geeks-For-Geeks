@@ -436,6 +436,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -494,6 +495,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0383-ransom-note) |
@@ -690,4 +692,8 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2714-left-and-right-sum-differences) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
