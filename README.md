@@ -438,6 +438,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0496-next-greater-element-i) |
@@ -691,6 +692,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0238-product-of-array-except-self) |
 | [2714-left-and-right-sum-differences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2714-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
