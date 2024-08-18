@@ -391,6 +391,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0035-search-insert-position](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
@@ -433,6 +434,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0035-search-insert-position](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
