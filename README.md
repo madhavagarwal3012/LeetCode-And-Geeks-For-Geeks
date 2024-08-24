@@ -531,6 +531,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0328-odd-even-linked-list) |
@@ -554,6 +555,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
@@ -606,6 +608,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -648,6 +651,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0948-sort-an-array) |
 ## Stack
