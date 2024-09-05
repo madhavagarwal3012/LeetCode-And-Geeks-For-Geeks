@@ -446,6 +446,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0228-summary-ranges](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0496-next-greater-element-i) |
@@ -492,6 +493,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0151-reverse-words-in-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
