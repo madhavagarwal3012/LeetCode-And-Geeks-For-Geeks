@@ -9,7 +9,7 @@ class Solution {
                 int temp = nums[index];
                 nums[index] = nums[zeroIndex];
                 nums[zeroIndex] = temp;
-                while(nums[zeroIndex] != 0){
+                while(nums[zeroIndex] != 0 && zeroIndex < nums.length){
                     zeroIndex++;
                 }
             }
