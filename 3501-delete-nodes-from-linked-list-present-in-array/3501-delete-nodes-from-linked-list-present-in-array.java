@@ -16,17 +16,16 @@ class Solution {
                 map.put(nums[index], true);
             }
         }
-        ListNode newListHead = null;
         ListNode newListTail = null;
         ListNode tail = head;
         
         while(tail != null){
-            if(!map.containsKey(tail.val) && newListHead == null){
-                newListHead = tail;
-                newListTail = newListHead;
+            if(!map.containsKey(tail.val)  && newListTail == null){
+                head = tail;
+                newListTail = tail;
 
                 tail = tail.next;
-                newListHead.next = null;
+                newListTail.next = null;
             }
             else if(!map.containsKey(tail.val)){
                 newListTail.next = tail;
@@ -40,6 +39,6 @@ class Solution {
                 tail = tail.next;
             }
         }
-        return newListHead;
+        return head;
     }
 }
