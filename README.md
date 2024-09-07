@@ -404,6 +404,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0975-range-sum-of-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0975-range-sum-of-bst) |
@@ -457,6 +458,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0496-next-greater-element-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0948-sort-an-array) |
