@@ -4,14 +4,12 @@ class Solution {
         HashMap<Integer, Integer> map = new HashMap<>();
 
         for(int index = 0; index < nums.length; index++){
-            map.put(nums[index], index);
-        }
-        for(int index = 0; index < nums.length; index++){
             if(map.containsKey(target - nums[index]) && map.get(target - nums[index]) != index){
                 positions[0] = index;
                 positions[1] = map.get(target - nums[index]);
                 break;
             }
+            map.put(nums[index], index);
         }
         return positions;
     }
