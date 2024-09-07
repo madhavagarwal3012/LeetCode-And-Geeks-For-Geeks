@@ -435,6 +435,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0035-search-insert-position) |
@@ -512,6 +513,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0229-majority-element-ii) |
