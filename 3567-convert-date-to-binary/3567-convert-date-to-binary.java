@@ -4,7 +4,7 @@ class Solution {
         int month = Integer.parseInt(date.substring(5,7));
         int day = Integer.parseInt(date.substring(8,10));
 
-        String binary = "";
+        String binaryDate = "";
         int base = 1;
         int power = 0;
         int bitCount = 1;
@@ -18,27 +18,27 @@ class Solution {
             bitCount++;
         }
         if(Math.pow(2,power) == year){
-            binary += "1";
+            binaryDate += "1";
             for(int index = 0; index < power; index++){
-                binary += "0";
+                binaryDate += "0";
             }
-            binary += "-";
+            binaryDate += "-";
         }
         else{
-            binary += "1";
+            binaryDate += "1";
             year = year - (int)Math.pow(2, power);
             power--;
             while(power >= 0){
                 if(Math.pow(2, power) <= year){
-                    binary += "1";
+                    binaryDate += "1";
                     year = year - (int)Math.pow(2,power);
                 }
                 else{
-                    binary += "0";
+                    binaryDate += "0";
                 }
                 power--;
             }
-            binary += "-";
+            binaryDate += "-";
         }
 
         base = 1;
@@ -54,27 +54,27 @@ class Solution {
             bitCount++;
         }
         if(Math.pow(2,power) == month){
-            binary += "1";
+            binaryDate += "1";
             for(int index = 0; index < power; index++){
-                binary += "0";
+                binaryDate += "0";
             }
-            binary += "-";
+            binaryDate += "-";
         }
         else{
-            binary += "1";
+            binaryDate += "1";
             month = month - (int)Math.pow(2, power);
             power--;
             while(power >= 0){
                 if(Math.pow(2, power) <= month){
-                    binary += "1";
+                    binaryDate += "1";
                     month = month - (int)Math.pow(2,power);
                 }
                 else{
-                    binary += "0";
+                    binaryDate += "0";
                 }
                 power--;
             }
-            binary += "-";
+            binaryDate += "-";
         }
 
         base = 1;
@@ -90,26 +90,26 @@ class Solution {
             bitCount++;
         }
         if(Math.pow(2,power) == day){
-            binary += "1";
+            binaryDate += "1";
             for(int index = 0; index < power; index++){
-                binary += "0";
+                binaryDate += "0";
             }
         }
         else{
-            binary += "1";
+            binaryDate += "1";
             day = day - (int)Math.pow(2, power);
             power--;
             while(power >= 0){
                 if(Math.pow(2, power) <= day){
-                    binary += "1";
+                    binaryDate += "1";
                     day = day - (int)Math.pow(2,power);
                 }
                 else{
-                    binary += "0";
+                    binaryDate += "0";
                 }
                 power--;
             }
         }
-        return binary;
+        return binaryDate;
     }
 }
