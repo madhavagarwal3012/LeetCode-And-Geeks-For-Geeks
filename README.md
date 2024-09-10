@@ -572,6 +572,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2645-pass-the-pillow) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3567-convert-date-to-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3567-convert-date-to-binary) |
 ## Enumeration
 |  |
 | ------- |
@@ -682,6 +683,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2502-sort-the-people](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2502-sort-the-people) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3447-clear-digits) |
+| [3567-convert-date-to-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3567-convert-date-to-binary) |
 ## Merge Sort
 |  |
 | ------- |
