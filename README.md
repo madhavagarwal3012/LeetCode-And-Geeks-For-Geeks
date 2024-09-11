@@ -759,4 +759,5 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0067-add-binary) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
