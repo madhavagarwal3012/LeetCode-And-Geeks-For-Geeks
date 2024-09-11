@@ -755,9 +755,11 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
