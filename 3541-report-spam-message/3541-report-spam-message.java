@@ -10,6 +10,9 @@ class Solution {
         for(int index = 0; index < message.length; index++){
             if(map.containsKey(message[index])){
                 count++;
+                if(count >= 2){
+                    return true;
+                }
             }
         }
         return count >= 2;
