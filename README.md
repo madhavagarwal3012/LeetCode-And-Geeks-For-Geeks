@@ -471,6 +471,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1019-squares-of-a-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1217-relative-sort-array) |
+| [1241-decompress-run-length-encoded-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1392-find-the-difference-of-two-arrays) |
