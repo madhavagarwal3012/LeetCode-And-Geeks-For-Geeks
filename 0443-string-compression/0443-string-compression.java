@@ -19,7 +19,7 @@ class Solution {
                 list.add(chars[index]);
             }
             else{
-                    compressed = compressed + chars[initialIndex] + frequencyValue;
+                compressed = compressed + chars[initialIndex] + frequencyValue;
                 list.add(chars[index]);
                 for(int frequencyIndex = 0; frequencyIndex < frequencyValue.length(); frequencyIndex++){
                     list.add(frequencyValue.charAt(frequencyIndex));
