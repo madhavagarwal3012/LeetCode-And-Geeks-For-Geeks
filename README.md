@@ -492,6 +492,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2728-sum-in-a-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2728-sum-in-a-matrix) |
 | [2892-check-if-array-is-good](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2892-check-if-array-is-good) |
 | [3226-minimum-number-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3226-minimum-number-game) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3469-maximum-height-of-a-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -587,6 +588,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2645-pass-the-pillow) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3567-convert-date-to-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3567-convert-date-to-binary) |
 ## Enumeration
