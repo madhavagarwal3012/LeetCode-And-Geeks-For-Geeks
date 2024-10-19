@@ -541,6 +541,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0451-sort-characters-by-frequency](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0500-keyboard-row) |
+| [0535-encode-and-decode-tinyurl](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0535-encode-and-decode-tinyurl) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1217-relative-sort-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1217-relative-sort-array) |
@@ -697,6 +698,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0443-string-compression](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0500-keyboard-row) |
+| [0535-encode-and-decode-tinyurl](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0535-encode-and-decode-tinyurl) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1260-day-of-the-year](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
@@ -789,4 +791,12 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0191-number-of-1-bits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
