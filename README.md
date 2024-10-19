@@ -704,6 +704,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2502-sort-the-people](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2502-sort-the-people) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3447-clear-digits) |
+| [3468-find-the-encrypted-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3468-find-the-encrypted-string) |
 | [3567-convert-date-to-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3567-convert-date-to-binary) |
 ## Merge Sort
 |  |
