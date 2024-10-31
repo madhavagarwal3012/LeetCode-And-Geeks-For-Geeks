@@ -522,6 +522,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1019-squares-of-a-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2481-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -594,6 +595,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1585-the-kth-factor-of-n](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1585-the-kth-factor-of-n) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2481-strictly-palindromic-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2481-strictly-palindromic-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -761,6 +763,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0292-nim-game) |
+| [2481-strictly-palindromic-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
