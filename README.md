@@ -589,6 +589,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1260-day-of-the-year](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1585-the-kth-factor-of-n](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1585-the-kth-factor-of-n) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -802,4 +803,8 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0535-encode-and-decode-tinyurl) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
