@@ -15,7 +15,6 @@ class Solution {
         HashMap<Character, Integer> numberDigitMap = new HashMap<>();
         for(int numberIndex = 0; numberIndex < number.length(); numberIndex++){
             if(!numberDigitMap.containsKey(number.charAt(numberIndex))){
-                System.out.println("intruder" + " "+ number.charAt(numberIndex));
                 numberDigitMap.put(number.charAt(numberIndex), 1);
             }
             else{
