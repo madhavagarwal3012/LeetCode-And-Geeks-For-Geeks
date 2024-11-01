@@ -548,6 +548,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0500-keyboard-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0535-encode-and-decode-tinyurl) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0900-reordered-power-of-2](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1217-relative-sort-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
@@ -594,6 +595,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0292-nim-game) |
+| [0900-reordered-power-of-2](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0900-reordered-power-of-2) |
 | [1086-divisor-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -611,6 +613,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0900-reordered-power-of-2) |
 | [3469-maximum-height-of-a-triangle](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3469-maximum-height-of-a-triangle) |
 ## Divide and Conquer
 |  |
@@ -631,6 +634,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0958-sort-array-by-parity-ii) |
@@ -659,6 +663,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0383-ransom-note](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1354-find-players-with-zero-or-one-losses) |
