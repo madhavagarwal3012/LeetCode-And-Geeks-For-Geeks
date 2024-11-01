@@ -1,13 +1,13 @@
 class Solution {
     public int[][] onesMinusZeros(int[][] grid) {
         int diff [][] = new int[0][0];
+        if(grid.length > 0){
+            diff = new int[grid.length][grid[0].length];
+        }
         List<Integer> onesRowList = new ArrayList<>();
         List<Integer> onesColList = new ArrayList<>();
         List<Integer> zerosRowList = new ArrayList<>();
         List<Integer> zerosColList = new ArrayList<>();
-        if(grid.length > 0){
-            diff = new int[grid.length][grid[0].length];
-        }
         for(int rowCount = 0; rowCount < grid.length; rowCount++){
             for(int columnCount = 0; columnCount < grid[0].length; columnCount++){
                 int difference = 0;
