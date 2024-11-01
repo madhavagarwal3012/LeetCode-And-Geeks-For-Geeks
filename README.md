@@ -593,6 +593,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -772,11 +773,13 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1086-divisor-game) |
 ## Queue
 |  |
 | ------- |
@@ -804,6 +807,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0338-counting-bits) |
+| [1086-divisor-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1086-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
