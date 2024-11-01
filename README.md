@@ -463,6 +463,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0496-next-greater-element-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0682-baseball-game) |
+| [0777-toeplitz-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0941-sort-array-by-parity) |
@@ -684,6 +685,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0073-set-matrix-zeroes) |
+| [0777-toeplitz-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0777-toeplitz-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2631-sort-the-students-by-their-kth-score) |
