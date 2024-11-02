@@ -9,16 +9,6 @@ class Solution {
                 checkWords = true;
             }
         }
-        if(!checkWords){
-            if(sentence.length() > 0){
-                return sentence.charAt(0) == sentence.charAt(sentence.length() - 1);
-            }
-        }
-        else{
-            if(sentence.length() > 0){
-                return sentence.charAt(0) == sentence.charAt(sentence.length() - 1);
-            }
-        }
-        return true;
+        return sentence.charAt(0) == sentence.charAt(sentence.length() - 1);
     }
 }
