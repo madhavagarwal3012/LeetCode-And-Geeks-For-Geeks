@@ -734,6 +734,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2372-rearrange-characters-to-make-target-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2502-sort-the-people) |
+| [2580-circular-sentence](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2580-circular-sentence) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3468-find-the-encrypted-string) |
