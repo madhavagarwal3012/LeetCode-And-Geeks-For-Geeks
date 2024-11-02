@@ -29,13 +29,13 @@ class Solution {
 
             for(int levelCount = 0; levelCount < levelSize; levelCount++){
                 TreeNode node = pendingChildren.poll();
-                if(node != null && node.val > maximumValue){
+                if(node.val > maximumValue){
                     maximumValue = node.val;
                 }
-                if(node != null && node.left != null){
+                if(node.left != null){
                     pendingChildren.add(node.left);
                 }
-                if(node != null && node.right != null){
+                if(node.right != null){
                     pendingChildren.add(node.right);
                 }
             }
