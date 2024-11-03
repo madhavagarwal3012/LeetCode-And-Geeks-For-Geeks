@@ -503,6 +503,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2892-check-if-array-is-good](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2892-check-if-array-is-good) |
 | [3226-minimum-number-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3226-minimum-number-game) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3469-maximum-height-of-a-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -574,6 +575,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2892-check-if-array-is-good](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2892-check-if-array-is-good) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3447-clear-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3447-clear-digits) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
