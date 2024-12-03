@@ -487,6 +487,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1848-sum-of-unique-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1848-sum-of-unique-elements) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2232-adding-spaces-to-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2232-adding-spaces-to-a-string) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -532,6 +533,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1019-squares-of-a-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2232-adding-spaces-to-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2232-adding-spaces-to-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2481-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -708,6 +710,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0067-add-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0682-baseball-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2232-adding-spaces-to-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -738,6 +741,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1954-replace-all-digits-with-characters](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1954-replace-all-digits-with-characters) |
+| [2232-adding-spaces-to-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2232-adding-spaces-to-a-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2502-sort-the-people) |
