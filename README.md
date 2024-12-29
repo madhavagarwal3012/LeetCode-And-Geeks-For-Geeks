@@ -376,6 +376,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0783-search-in-a-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
@@ -433,6 +434,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0783-search-in-a-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -473,6 +475,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0777-toeplitz-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0958-sort-array-by-parity-ii) |
@@ -561,6 +564,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0900-reordered-power-of-2](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1217-relative-sort-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1319-unique-number-of-occurrences) |
@@ -635,6 +639,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0148-sort-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0191-number-of-1-bits) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
