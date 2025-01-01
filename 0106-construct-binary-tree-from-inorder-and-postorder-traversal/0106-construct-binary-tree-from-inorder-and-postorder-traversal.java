@@ -18,15 +18,14 @@ class Solution {
         if(inStart > inEnd || postStart > postEnd){
             return null;
         }
+        TreeNode root = new TreeNode(postorder[postEnd]);
         int rootIndex = -1;
         for(int index = inStart; index <= inEnd; index++){
-            if(postorder[postEnd] == inorder[index]){
+            if(root.val == inorder[index]){
                 rootIndex = index;
                 break;
             }
         }
-
-
         int inStartLeft = inStart;
         int inEndLeft = rootIndex - 1;
         int inStartRight = rootIndex + 1;
@@ -37,7 +36,6 @@ class Solution {
         int postStartRight = postEndLeft + 1;
         int postEndRight = postEnd - 1;
 
-        TreeNode root = new TreeNode(postorder[postEnd]);
         root.left = buildTreeHelper(inorder, postorder, inStartLeft, inEndLeft, postStartLeft, postEndLeft);
         root.right = buildTreeHelper(inorder, postorder, inStartRight, inEndRight, postStartRight, postEndRight);
         return root;
