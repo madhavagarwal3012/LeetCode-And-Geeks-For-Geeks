@@ -534,6 +534,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [3226-minimum-number-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3226-minimum-number-game) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3429-special-array-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3469-maximum-height-of-a-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
