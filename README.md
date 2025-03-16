@@ -429,6 +429,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2665-minimum-time-to-repair-cars](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2665-minimum-time-to-repair-cars) |
 ## Binary Tree
 |  |
 | ------- |
@@ -529,6 +530,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2665-minimum-time-to-repair-cars](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2665-minimum-time-to-repair-cars) |
 | [2714-left-and-right-sum-differences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2728-sum-in-a-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2728-sum-in-a-matrix) |
