@@ -6,7 +6,7 @@ class Solution {
             long mid = (minimumTime + maximumTime) / 2;
             long sum = 0;
             for(int index = 0; index < ranks.length; index++){
-                sum += (long) Math.floor(Math.sqrt((double) mid / ranks[index]));
+                sum += (long) Math.floor(Math.sqrt(mid / ranks[index]));
             }
             if (sum >= cars) {
                 maximumTime = mid;  
