@@ -1,7 +1,7 @@
 class Solution {
     public long repairCars(int[] ranks, int cars) {
         Arrays.sort(ranks);
-        long minimumTime = 1, maximumTime = ranks[ranks.length - 1] * (long)cars * (long)cars;
+        long minimumTime = 1, maximumTime = (long)ranks[ranks.length - 1] * cars * cars;
         while(minimumTime < maximumTime){
             long mid = (minimumTime + maximumTime) / 2;
             long sum = 0;
