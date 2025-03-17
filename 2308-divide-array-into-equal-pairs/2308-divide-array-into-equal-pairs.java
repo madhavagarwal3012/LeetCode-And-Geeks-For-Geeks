@@ -5,7 +5,7 @@ class Solution {
         }
         Arrays.sort(nums);
         int frequencyCount = 1;
-        for(int index = 0; index < nums.length - 1; index++){
+        for(int index = 0; index < nums.length - 1; index+=2){
             if(nums[index] == nums[index + 1]){
                 frequencyCount++;
             }
