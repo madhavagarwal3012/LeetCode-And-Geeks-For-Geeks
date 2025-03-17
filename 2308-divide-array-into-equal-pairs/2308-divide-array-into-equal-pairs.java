@@ -4,9 +4,16 @@ class Solution {
             return false;
         }
         Arrays.sort(nums);
+        int frequencyCount = 1;
         for(int index = 0; index < nums.length - 1; index+=2){
-            if(nums[index] != nums[index + 1]){
+            if(nums[index] == nums[index + 1]){
+                frequencyCount++;
+            }
+            else if(frequencyCount % 2 == 1 || index + 1 == nums.length - 1){
                 return false;
+            }
+            else{
+                frequencyCount = 1;
             }
         }
         return true;
