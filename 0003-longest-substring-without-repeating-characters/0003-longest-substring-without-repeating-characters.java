@@ -1,25 +1,18 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        if(s.length() == 0){
-            return s.length();
-        }
-        if(s.length() == 31000){
-            return 95;
-        }
-        int maxSubstringLength = Integer.MIN_VALUE;
+        int maxSubstringLength = 0;
         for(int startingIndex = 0; startingIndex < s.length(); startingIndex++){
-            for(int endingIndex = startingIndex + 1; endingIndex <= s.length(); endingIndex++){
-                String substring = s.substring(startingIndex, endingIndex);
-                HashMap<Character, Boolean> map = new HashMap<>();
-                for(int substringIndex = 0; substringIndex < substring.length(); substringIndex++){
-                    if(!map.containsKey(substring.charAt(substringIndex))){
-                        map.put(substring.charAt(substringIndex), true);
+            HashMap<Character, Boolean> map = new HashMap<>();
+            int endingIndex = startingIndex; 
+            for(;endingIndex < s.length(); endingIndex++){
+                if(!map.containsKey(s.charAt(endingIndex))){
+                    map.put(s.charAt(endingIndex), true);
+                    if(endingIndex - startingIndex + 1 > maxSubstringLength){
+                        maxSubstringLength = endingIndex - startingIndex + 1;
                     }
                 }
-                if(map.size() == substring.length()){
-                    if(substring.length() > maxSubstringLength){
-                        maxSubstringLength = substring.length();
-                    }
+                else{
+                    break;
                 }
             }
         }
