@@ -2,11 +2,11 @@ class Solution {
     public int lengthOfLongestSubstring(String s) {
         int maxSubstringLength = 0;
         for(int startingIndex = 0; startingIndex < s.length(); startingIndex++){
-            HashMap<Character, Boolean> map = new HashMap<>();
+            HashSet<Character> set = new HashSet<>();
             int endingIndex = startingIndex; 
             for(;endingIndex < s.length(); endingIndex++){
-                if(!map.containsKey(s.charAt(endingIndex))){
-                    map.put(s.charAt(endingIndex), true);
+                if(!set.contains(s.charAt(endingIndex))){
+                    set.add(s.charAt(endingIndex));
                     if(endingIndex - startingIndex + 1 > maxSubstringLength){
                         maxSubstringLength = endingIndex - startingIndex + 1;
                     }
