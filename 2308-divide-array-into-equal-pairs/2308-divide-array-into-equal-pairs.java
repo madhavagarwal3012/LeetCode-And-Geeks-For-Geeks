@@ -3,21 +3,17 @@ class Solution {
         if(nums.length % 2 == 1){
             return false;
         }
-        HashMap<Integer, Integer> map = new HashMap<>();
-        List<Integer> uniqueElementsList = new ArrayList<>();
-
-        for(int index = 0; index < nums.length; index++){
-            if(!map.containsKey(nums[index])){
-                map.put(nums[index], 1);
-                uniqueElementsList.add(nums[index]);
+        Arrays.sort(nums);
+        int frequencyCount = 1;
+        for(int index = 0; index < nums.length - 1; index++){
+            if(nums[index] == nums[index + 1]){
+                frequencyCount++;
+            }
+            else if(frequencyCount % 2 == 1 || index + 1 == nums.length - 1){
+                return false;
             }
             else{
-                map.put(nums[index], map.get(nums[index]) + 1);
-            }
-        }
-        for(int index = 0; index < uniqueElementsList.size(); index++){
-            if(map.get(uniqueElementsList.get(index)) % 2 == 1){
-                return false;
+                frequencyCount = 1;
             }
         }
         return true;
