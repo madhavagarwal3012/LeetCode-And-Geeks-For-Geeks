@@ -511,6 +511,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1319-unique-number-of-occurrences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -606,6 +607,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1319-unique-number-of-occurrences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1848-sum-of-unique-elements) |
@@ -790,6 +792,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1260-day-of-the-year](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1954-replace-all-digits-with-characters](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1954-replace-all-digits-with-characters) |
@@ -900,6 +903,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0535-encode-and-decode-tinyurl) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1433-encrypt-and-decrypt-strings) |
 ## Hash Function
 |  |
 | ------- |
@@ -915,4 +919,8 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0078-subsets) |
+## Trie
+|  |
+| ------- |
+| [1433-encrypt-and-decrypt-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1433-encrypt-and-decrypt-strings) |
 <!---LeetCode Topics End-->
