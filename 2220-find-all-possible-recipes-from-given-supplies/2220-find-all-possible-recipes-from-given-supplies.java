@@ -44,9 +44,8 @@ class Solution {
                 }
 
                 if (ingredientsCheckCount == unsuccessfullRecipes.get(unsuccessfullRecipesIndex).size()) {
-                    String recipe = remainingRecipesMap.get(unsuccessfullRecipes.get(unsuccessfullRecipesIndex));
-                    supplyMap.put(recipe, true);
-                    successfullRecipesList.add(recipe);
+                    supplyMap.put(remainingRecipesMap.get(unsuccessfullRecipes.get(unsuccessfullRecipesIndex)), true);
+                    successfullRecipesList.add(remainingRecipesMap.get(unsuccessfullRecipes.get(unsuccessfullRecipesIndex)));
                     unsuccessfullRecipes.remove(unsuccessfullRecipesIndex);
                     unsuccessfullRecipesIndex--;
                     newRecipeAdded = true;
