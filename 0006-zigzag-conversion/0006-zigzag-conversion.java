@@ -6,20 +6,20 @@ class Solution {
         String zigZag = "";
         String[] zz = new String[numRows];
 
-        for(int index = 0; index < numRows; index++){
-            zz[index] = "";
+        for(int stringIndex = 0; stringIndex < numRows; stringIndex++){
+            zz[stringIndex] = "";
         }
-        int sIndex = 0;
-        while(sIndex < s.length()){
-            for(int movingDownIndex = 0; movingDownIndex < numRows && sIndex < s.length(); movingDownIndex++, sIndex++){
-                zz[movingDownIndex] += s.charAt(sIndex);
+        int characterIndex = 0;
+        while(characterIndex < s.length()){
+            for(int movingDownIndex = 0; movingDownIndex < numRows && characterIndex < s.length(); movingDownIndex++, characterIndex++){
+                zz[movingDownIndex] += s.charAt(characterIndex);
             }
-            for(int movingUpIndex = numRows - 2; movingUpIndex > 0 && sIndex < s.length(); movingUpIndex--, sIndex++){
-                zz[movingUpIndex] += s.charAt(sIndex);
+            for(int movingUpIndex = numRows - 2; movingUpIndex > 0 && characterIndex < s.length(); movingUpIndex--, characterIndex++){
+                zz[movingUpIndex] += s.charAt(characterIndex);
             }
         }
-        for(int index = 0; index < numRows; index++){
-            zigZag += zz[index];
+        for(int stringIndex = 0; stringIndex < numRows; stringIndex++){
+            zigZag += zz[stringIndex];
         }
         return zigZag;
     }
