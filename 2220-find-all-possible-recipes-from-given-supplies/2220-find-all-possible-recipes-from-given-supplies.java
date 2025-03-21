@@ -34,20 +34,18 @@ class Solution {
         boolean newRecipeAdded = true;
         while (newRecipeAdded) {
             newRecipeAdded = false;
-            for (int unsuccessfullRecipesIndex = 0; unsuccessfullRecipesIndex < unsuccessfullRecipes.size(); unsuccessfullRecipesIndex++) {
+            for(int unsuccessfullRecipeIndex = 0; unsuccessfullRecipeIndex < unsuccessfullRecipes.size(); unsuccessfullRecipeIndex++){
                 int ingredientsCheckCount = 0;
-
-                for (int remainingIngredientIndex = 0; remainingIngredientIndex < unsuccessfullRecipes.get(unsuccessfullRecipesIndex).size(); remainingIngredientIndex++) {
-                    if (supplyMap.containsKey(unsuccessfullRecipes.get(unsuccessfullRecipesIndex).get(remainingIngredientIndex))) {
+                for(int remainingIngredientIndex = 0; remainingIngredientIndex < unsuccessfullRecipes.get(unsuccessfullRecipeIndex).size(); remainingIngredientIndex++){
+                    if(supplyMap.containsKey(unsuccessfullRecipes.get(unsuccessfullRecipeIndex).get(remainingIngredientIndex))){
                         ingredientsCheckCount++;
                     }
                 }
-
-                if (ingredientsCheckCount == unsuccessfullRecipes.get(unsuccessfullRecipesIndex).size()) {
-                    supplyMap.put(remainingRecipesMap.get(unsuccessfullRecipes.get(unsuccessfullRecipesIndex)), true);
-                    successfullRecipesList.add(remainingRecipesMap.get(unsuccessfullRecipes.get(unsuccessfullRecipesIndex)));
-                    unsuccessfullRecipes.remove(unsuccessfullRecipesIndex);
-                    unsuccessfullRecipesIndex--;
+                if(ingredientsCheckCount == unsuccessfullRecipes.get(unsuccessfullRecipeIndex).size()){
+                    supplyMap.put(remainingRecipesMap.get(unsuccessfullRecipes.get(unsuccessfullRecipeIndex)),true);
+                    successfullRecipesList.add(remainingRecipesMap.get(unsuccessfullRecipes.get(unsuccessfullRecipeIndex)));
+                    unsuccessfullRecipes.remove(unsuccessfullRecipeIndex);
+                    unsuccessfullRecipeIndex--;
                     newRecipeAdded = true;
                 }
             }
