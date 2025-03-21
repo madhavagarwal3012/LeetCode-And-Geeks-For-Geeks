@@ -519,6 +519,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1848-sum-of-unique-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1848-sum-of-unique-elements) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2308-divide-array-into-equal-pairs) |
@@ -611,6 +612,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1848-sum-of-unique-elements) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2331-intersection-of-multiple-arrays) |
@@ -796,6 +798,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1954-replace-all-digits-with-characters](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1954-replace-all-digits-with-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -923,4 +926,12 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 |  |
 | ------- |
 | [1433-encrypt-and-decrypt-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1433-encrypt-and-decrypt-strings) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
