@@ -34,21 +34,21 @@ class Solution {
         boolean newRecipeAdded = true;
         while (newRecipeAdded) {
             newRecipeAdded = false;
-            for (int i = 0; i < unsuccessfullRecipes.size(); i++) {
+            for (int unsuccessfullRecipesIndex = 0; unsuccessfullRecipesIndex < unsuccessfullRecipes.size(); unsuccessfullRecipesIndex++) {
                 int ingredientsCheckCount = 0;
 
-                for (int remainingIngredientIndex = 0; remainingIngredientIndex < unsuccessfullRecipes.get(i).size(); remainingIngredientIndex++) {
-                    if (supplyMap.containsKey(unsuccessfullRecipes.get(i).get(remainingIngredientIndex))) {
+                for (int remainingIngredientIndex = 0; remainingIngredientIndex < unsuccessfullRecipes.get(unsuccessfullRecipesIndex).size(); remainingIngredientIndex++) {
+                    if (supplyMap.containsKey(unsuccessfullRecipes.get(unsuccessfullRecipesIndex).get(remainingIngredientIndex))) {
                         ingredientsCheckCount++;
                     }
                 }
 
-                if (ingredientsCheckCount == unsuccessfullRecipes.get(i).size()) {
-                    String recipe = remainingRecipesMap.get(unsuccessfullRecipes.get(i));
+                if (ingredientsCheckCount == unsuccessfullRecipes.get(unsuccessfullRecipesIndex).size()) {
+                    String recipe = remainingRecipesMap.get(unsuccessfullRecipes.get(unsuccessfullRecipesIndex));
                     supplyMap.put(recipe, true);
                     successfullRecipesList.add(recipe);
-                    unsuccessfullRecipes.remove(i);
-                    i--;
+                    unsuccessfullRecipes.remove(unsuccessfullRecipesIndex);
+                    unsuccessfullRecipesIndex--;
                     newRecipeAdded = true;
                 }
             }
