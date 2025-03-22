@@ -574,6 +574,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0941-sort-array-by-parity](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0958-sort-array-by-parity-ii) |
@@ -813,6 +814,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0500-keyboard-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0647-palindromic-substrings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1260-day-of-the-year](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
@@ -917,6 +919,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0005-longest-palindromic-substring](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0338-counting-bits) |
+| [0647-palindromic-substrings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0647-palindromic-substrings) |
 | [1086-divisor-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1086-divisor-game) |
 ## Bit Manipulation
 |  |
