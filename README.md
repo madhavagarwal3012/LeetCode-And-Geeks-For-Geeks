@@ -660,6 +660,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0043-multiply-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0292-nim-game) |
@@ -799,6 +800,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0043-multiply-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0168-excel-sheet-column-title) |
 | [0273-integer-to-english-words](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0383-ransom-note) |
