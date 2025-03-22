@@ -787,6 +787,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0273-integer-to-english-words) |
