@@ -3,15 +3,12 @@ class Solution {
         int low = 0;
         int high = nums.length - 1;
         while(low < high){
-            if(nums[low] > nums[high]){
-                low++;
-            }
-            else if(nums[low] < nums[high]){
-                high--;
+            int mid = (low + high) / 2;
+            if(nums[mid] > nums[high]){
+                low = mid + 1;
             }
             else{
-                low++;
-                high--;
+                high = mid;
             }
         }
         return nums[low];
