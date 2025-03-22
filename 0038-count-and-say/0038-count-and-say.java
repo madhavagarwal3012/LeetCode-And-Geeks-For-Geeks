@@ -5,7 +5,7 @@ class Solution {
         }
         String cs = "11";
         for(int count = 2; count < n; count++){
-            String number = "";
+            StringBuilder number = new StringBuilder();
             boolean lastValueFlag = true;
             int frequency = 1;
             for(int index = 0; index < cs.length() - 1; index++){
@@ -13,18 +13,18 @@ class Solution {
                     frequency++;
                     if(index + 1 == cs.length() - 1){
                         lastValueFlag = false;
-                        number = number + String.valueOf(frequency) + cs.charAt(index);
+                        number.append(frequency).append(cs.charAt(index));
                     }
                 }
                 else{
-                    number = number + String.valueOf(frequency) + cs.charAt(index);
+                    number.append(frequency).append(cs.charAt(index));
                     frequency = 1;
                 }
             }
             if(lastValueFlag){
-                number = number + "1" +  cs.charAt(cs.length() - 1);
+                number.append(1).append(cs.charAt(cs.length() - 1));
             }
-            cs = number;
+            cs = number.toString();
         }
         return cs;
     }
