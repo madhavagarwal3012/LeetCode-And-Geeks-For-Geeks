@@ -38,15 +38,23 @@ class Solution {
         StringBuilder product = new StringBuilder();
         int carry = 0;
         for(int index = maxLength - 1; index >= 0; index--){
-            int sum = carry;
-            for (int sumListIndex = sumList.size() - 1; sumListIndex >= 0; sumListIndex--) {
-                sum += Character.getNumericValue(sumList.get(sumListIndex).charAt(index));
+            int sum = 0;
+            for(int sumListIndex = sumList.size() -1; sumListIndex >= 0; sumListIndex--){
+                String number = sumList.get(sumListIndex);
+                sum+=Character.getNumericValue(number.charAt(index));
             }
-            carry = sum / 10;
-            product.append(sum % 10);
             sum+= carry;
+            if(sum > 9){
+                carry = sum / 10;
+                sum = sum % 10;
+                product.append(String.valueOf(sum));
+            }
+            else{
+                product.append(String.valueOf(sum));
+                carry = 0;
+            }
         }
-        if (carry > 0) {
+        if(carry != 0){
             product.append(carry);
         }
         return product.reverse().toString();
