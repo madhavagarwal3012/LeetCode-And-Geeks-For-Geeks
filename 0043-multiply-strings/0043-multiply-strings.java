@@ -7,12 +7,12 @@ class Solution {
         num2 = new StringBuilder(num2).reverse().toString();
         List<String> sumList = new ArrayList<>();
 
-        for(int index2 = 0; index2 < num2.length(); index2++){
-            int number2 = Character.getNumericValue(num2.charAt(index2));
-            for(int index1 = 0; index1 < num1.length(); index1++){
+        for(int index1 = 0; index1 < num1.length(); index1++){
+            int number1 = Character.getNumericValue(num1.charAt(index1));
+            for(int index2 = 0; index2 < num2.length(); index2++){
                 StringBuilder product = new StringBuilder();
-                int number1 = Character.getNumericValue(num1.charAt(index1));
-                product.append(number2 * number1);
+                int number2 = Character.getNumericValue(num2.charAt(index2));
+                product.append(number1 * number2);
                 if(index1 + index2 > 0){
                     int zeroLength = index1 + index2;
                     while(zeroLength > 0){
