@@ -30,6 +30,6 @@ class Solution {
                 }
             }
         }
-        return String.valueOf(bulls) + "A" + cows + "B";
+        return "" + bulls + "A" + cows + "B";
     }
 }
