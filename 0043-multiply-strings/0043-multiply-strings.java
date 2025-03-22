@@ -3,11 +3,6 @@ class Solution {
         if (num1.equals("0") || num2.equals("0")) {
             return "0";
         }
-        if(num2.length() > num1.length()){
-            String temp = num1;
-            num1 = num2;
-            num2 = temp;
-        }
         num1 = new StringBuilder(num1).reverse().toString();
         num2 = new StringBuilder(num2).reverse().toString();
         List<String> sumList = new ArrayList<>();
