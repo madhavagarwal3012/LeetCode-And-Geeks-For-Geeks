@@ -4,7 +4,6 @@ class Solution {
     public String decodeString(String s) {
         StringBuilder dText = new StringBuilder();
         Stack<String> decodingStack = new Stack<>();
-        Stack<String> finalDecodedDTextStack = new Stack<>();
 
         for (int index = 0; index < s.length(); index++) {
             if (s.charAt(index) != ']') {
@@ -34,13 +33,9 @@ class Solution {
         }
 
         dText.setLength(0);
-        while (!decodingStack.isEmpty()) {
-            finalDecodedDTextStack.push(decodingStack.pop());
+        while(!decodingStack.isEmpty()){
+            dText.insert(0, decodingStack.pop());  // Insert at the beginning to maintain order
         }
-        while (!finalDecodedDTextStack.isEmpty()) {
-            dText.append(finalDecodedDTextStack.pop());
-        }
-
         return dText.toString();
     }
 }
