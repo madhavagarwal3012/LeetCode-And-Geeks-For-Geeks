@@ -809,6 +809,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0345-reverse-vowels-of-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0500-keyboard-row) |
@@ -847,6 +848,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -876,6 +878,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0021-merge-two-sorted-lists](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0143-reorder-list) |
 | [0273-integer-to-english-words](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0394-decode-string) |
 ## Brainteaser
 |  |
 | ------- |
