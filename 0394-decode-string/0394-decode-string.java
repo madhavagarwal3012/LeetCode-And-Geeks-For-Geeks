@@ -23,7 +23,10 @@ class Solution {
                     numericString.insert(0, decodingStack.pop());  
                 }
 
-                int numeric = numericString.length() > 0 ? Integer.parseInt(numericString.toString()) : 1;
+                int numeric = 1; 
+                if (numericString.length() > 0) {
+                    numeric = Integer.parseInt(numericString.toString());
+                }
                 dText = new StringBuilder(dText.toString().repeat(numeric));  
                 decodingStack.push(dText.toString());
                 dText.setLength(0);  
