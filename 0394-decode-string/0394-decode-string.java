@@ -34,7 +34,7 @@ class Solution {
 
         dText.setLength(0);
         while(!decodingStack.isEmpty()){
-            dText.insert(0, decodingStack.pop());  // Insert at the beginning to maintain order
+            dText.insert(0, decodingStack.pop()); 
         }
         return dText.toString();
     }
