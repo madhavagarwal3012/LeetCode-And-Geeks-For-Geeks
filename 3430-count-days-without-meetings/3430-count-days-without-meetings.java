@@ -6,7 +6,7 @@ class Solution {
         while(row < meetings.length){
             if (day < meetings[row][0]) { 
                 countD += meetings[row][0] - day;
-                day = meetings[row][0];
+                day = meetings[row][0] + 1;
             }
             else if(day >= meetings[row][0]){
                 if(day <= meetings[row][1] || meetings[row][1] > day){
