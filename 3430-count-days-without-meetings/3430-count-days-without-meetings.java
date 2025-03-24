@@ -17,9 +17,6 @@ class Solution {
             else if(day > meetings[row][1]){
                 row++;
             }
-            else{
-                break;
-            }
         }
         if(row == meetings.length && day <= days && day > 1){
             while(day <= days){
