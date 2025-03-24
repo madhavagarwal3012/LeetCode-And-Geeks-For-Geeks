@@ -4,7 +4,11 @@ class Solution {
         Arrays.sort(meetings, (a, b) -> Integer.compare(a[0], b[0]));
         int day = 1;            int row = 0;
         while(row < meetings.length){
-            if(day >= meetings[row][0]){
+            if (day < meetings[row][0]) { 
+                countD += meetings[row][0] - day;
+                day = meetings[row][0];
+            }
+            else if(day >= meetings[row][0]){
                 if(day <= meetings[row][1] || meetings[row][1] > day){
                     day = meetings[row][1] + 1;
                 }
@@ -12,10 +16,6 @@ class Solution {
             }
             else if(day > meetings[row][1]){
                 row++;
-            }
-            else if(day <= days){
-                countD++;
-                day++;
             }
             else{
                 break;
