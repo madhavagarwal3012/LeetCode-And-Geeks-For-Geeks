@@ -640,6 +640,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3447-clear-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3447-clear-digits) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Linked List
 |  |
 | ------- |
@@ -837,6 +838,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [3451-string-compression-iii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3451-string-compression-iii) |
 | [3468-find-the-encrypted-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3468-find-the-encrypted-string) |
 | [3567-convert-date-to-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3567-convert-date-to-binary) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -913,6 +915,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0567-permutation-in-string) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## String Matching
 |  |
 | ------- |
