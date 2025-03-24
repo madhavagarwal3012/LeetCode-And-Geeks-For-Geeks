@@ -23,8 +23,8 @@ class Solution {
         }
         if(row == meetings.length && day <= days && day > 1){
             while(day <= days){
-            countD++;
-            day++;
+                countD += days - day + 1;
+                day = days + 1;
             }
         }
         return countD;
