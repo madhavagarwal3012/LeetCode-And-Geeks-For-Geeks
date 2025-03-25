@@ -57,8 +57,8 @@ class Solution {
                         if(remainder == 0){
                             arr[index] = partHead;
                             partTail.next = null;
-                            partHead = new ListNode();
-                            partTail = new ListNode();
+                            partHead = null;
+                            partTail = null;
 
                             index++;
                             partCount = 0;
@@ -72,8 +72,8 @@ class Solution {
 
                     arr[index] = partHead;
                     partTail.next = null;
-                    partHead = new ListNode();
-                    partTail = new ListNode();
+                    partHead = null;
+                    partTail = null;
 
                     remainder--;
                     index++;
