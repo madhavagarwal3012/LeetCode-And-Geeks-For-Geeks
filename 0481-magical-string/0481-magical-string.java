@@ -7,12 +7,12 @@ class Solution {
         else if(n == 1 || n == 2 || n ==3){
             return ++countOne;
         }
+        else if(n == 4){
+            return countOne+=2;
+        }
         else{
             StringBuilder magicString = new StringBuilder("122");
             magicString.append("11");
-            if(n == 4){
-                return countOne+=2;
-            }
             countOne = 3;
             int length = magicString.length();
             int previousIndex = length - 2;
