@@ -575,6 +575,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0349-intersection-of-two-arrays](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -819,6 +820,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0394-decode-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0451-sort-characters-by-frequency) |
+| [0481-magical-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0481-magical-string) |
 | [0500-keyboard-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0567-permutation-in-string) |
