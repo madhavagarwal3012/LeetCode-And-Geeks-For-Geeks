@@ -9,7 +9,8 @@ class Solution {
                 if(parenthesisStack.isEmpty()){
                     return false;
                 }
-                else if((s.charAt(index) == ')' && parenthesisStack.peek() != '(') || (s.charAt(index) == '}'  && parenthesisStack.peek() != '{') || s.charAt(index) == ']' && parenthesisStack.peek() != '['){
+                char top = parenthesisStack.peek();
+                if((s.charAt(index) == ')' && top != '(') || (s.charAt(index) == '}'  && top != '{') || s.charAt(index) == ']' && top != '['){
                     return false;                   
                 }
                 else{
