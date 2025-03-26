@@ -5,7 +5,7 @@ class Solution {
             if(s.charAt(index) == '(' || s.charAt(index) == '{' || s.charAt(index) == '['){
                 parenthesisStack.push(s.charAt(index));
             }
-            if(s.charAt(index) == ')' || s.charAt(index) == '}' || s.charAt(index) == ']'){
+            else{
                 if(parenthesisStack.isEmpty()){
                     return false;
                 }
