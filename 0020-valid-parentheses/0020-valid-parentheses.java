@@ -9,29 +9,11 @@ class Solution {
                 if(parenthesisStack.isEmpty()){
                     return false;
                 }
-                else if(s.charAt(index) == ')'){
-                    if(parenthesisStack.peek() == '('){
-                        parenthesisStack.pop();
-                    }
-                    else{
-                        return false;
-                    }
+                else if((s.charAt(index) == ')' && parenthesisStack.peek() != '(') || (s.charAt(index) == '}'  && parenthesisStack.peek() != '{') || s.charAt(index) == ']' && parenthesisStack.peek() != '['){
+                    return false;                   
                 }
-                else if(s.charAt(index) == '}'){
-                    if(parenthesisStack.peek() == '{'){
-                        parenthesisStack.pop();
-                    }
-                    else{
-                        return false;
-                    }
-                }
-                else if(s.charAt(index) == ']'){
-                    if(parenthesisStack.peek() == '['){
-                        parenthesisStack.pop();
-                    }
-                    else{
-                        return false;
-                    }
+                else{
+                    parenthesisStack.pop();
                 }
             }
         }
