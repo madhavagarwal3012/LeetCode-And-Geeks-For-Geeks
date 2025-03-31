@@ -12,11 +12,11 @@ class Solution {
         }
         int a = maximumNumber;
         int b = minimumNumber;
-        int r = 0;
+        int remainder = 0;
         while(b != 0){
-            r = a % b;
+            remainder = a % b;
             a = b;
-            b = r;
+            b = remainder;
         }
         return a;
     }
