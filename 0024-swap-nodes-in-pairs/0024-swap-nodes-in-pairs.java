@@ -10,22 +10,31 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
-        ArrayList<ListNode> referencesList = new ArrayList<>();
-        ListNode tail = head;
-        while(tail != null){
-            referencesList.add(tail);
-            tail = tail.next;
+        if(head == null){
+            return head;
         }
-        for(int index = 0; index < referencesList.size() - 1; index+=2){
-            ListNode temp = referencesList.get(index + 1).next;
-            referencesList.get(index + 1).next = referencesList.get(index);
-            referencesList.get(index).next = temp;
-            if(index > 1){
-                referencesList.get(index - 2).next = referencesList.get(index + 1);
+        int nodePosition = 1;
+        ListNode currentNode = head;
+        ListNode nextNode = currentNode.next;
+        ListNode alternateConnectNode = null;
+
+        ListNode nextHead = nextNode;
+
+        while(currentNode != null && nextNode != null){
+            ListNode temp = nextNode.next;
+            nextNode.next = currentNode;
+            currentNode.next = temp;
+            if(alternateConnectNode != null){
+                alternateConnectNode.next = nextNode;
+            }
+            alternateConnectNode = currentNode;
+            currentNode = currentNode.next;
+            if(currentNode != null){
+                nextNode = currentNode.next;
             }
         }
-        if(referencesList.size() > 1){
-            head = referencesList.get(1);
+        if(nextHead != null){
+            head = nextHead;
         }
         return head;
     }
