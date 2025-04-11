@@ -1,12 +1,12 @@
 class Solution {
     public int countSymmetricIntegers(int low, int high) {
         int countSI = 0;
+        String endingPointNumber = "" + high;
+        if(endingPointNumber.length() % 2 == 1){
+            high = (int)Math.pow(10, endingPointNumber.length() - 1) - 1;
+        }
         while(low <= high){
             String startingPointNumber = "" + low;
-            String endingPointNumber = "" + high;
-            if(endingPointNumber.length() % 2 == 1){
-                high = (int)Math.pow(10, endingPointNumber.length() - 1) - 1;
-            }
             if(startingPointNumber.length() % 2 == 1){
                 low = (int)Math.pow(10, startingPointNumber.length());
             }
