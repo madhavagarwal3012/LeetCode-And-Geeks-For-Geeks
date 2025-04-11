@@ -4,13 +4,13 @@ class Solution {
         while(low <= high){
             String startingPointNumber = "" + low;
             String endingPointNumber = "" + high;
-            if(startingPointNumber.length() % 2 == 1){
-                low = (int)Math.pow(10, startingPointNumber.length());
-            }
             if(endingPointNumber.length() % 2 == 1){
                 high = (int)Math.pow(10, endingPointNumber.length() - 1) - 1;
             }
-            if(startingPointNumber.length() % 2 == 0){
+            if(startingPointNumber.length() % 2 == 1){
+                low = (int)Math.pow(10, startingPointNumber.length());
+            }
+            else if(startingPointNumber.length() % 2 == 0){
                 int leftDigitsSum = 0;
                 int rightDigitsSum = 0;
                 for(int startingIndex = 0, endingIndex = startingPointNumber.length() - 1; startingIndex < endingIndex; startingIndex++, endingIndex--){
