@@ -8,9 +8,9 @@ class Solution {
             int powerValue = 0;
             int loTemp = lo;
             while(loTemp != 1){
-                if(powerValueMap.containsKey(lo)){
-                    powerValue += powerValueMap.get(lo);
-                    lo = 1;
+                if(powerValueMap.containsKey(loTemp)){
+                    powerValue += powerValueMap.get(loTemp);
+                    break;
                 }
                 else if(loTemp % 2 == 1){
                     loTemp = 3 * loTemp + 1;
