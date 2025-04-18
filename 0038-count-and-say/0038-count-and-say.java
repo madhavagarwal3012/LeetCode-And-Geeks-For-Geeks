@@ -6,7 +6,6 @@ class Solution {
         String cs = "11";
         for(int count = 2; count < n; count++){
             StringBuilder number = new StringBuilder();
-            boolean lastValueFlag = true;
             int frequency = 1;
             for(int index = 0; index < cs.length(); index++){
                 if(index < cs.length() - 1 && cs.charAt(index) == cs.charAt(index + 1)){
