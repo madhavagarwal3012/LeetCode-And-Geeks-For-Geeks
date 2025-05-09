@@ -679,6 +679,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -894,6 +895,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0496-next-greater-element-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2573-remove-nodes-from-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2573-remove-nodes-from-linked-list) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -923,6 +925,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0273-integer-to-english-words](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2050-count-good-numbers) |
+| [2573-remove-nodes-from-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2573-remove-nodes-from-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -943,6 +946,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | ------- |
 | [0496-next-greater-element-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2573-remove-nodes-from-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2573-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
