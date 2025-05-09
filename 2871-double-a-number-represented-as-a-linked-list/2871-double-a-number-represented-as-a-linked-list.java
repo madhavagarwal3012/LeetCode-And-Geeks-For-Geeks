@@ -39,7 +39,7 @@ class Solution {
             tail.next = number.get(index);
             tail = tail.next;
         }
-        if(tail.next != null){
+        if(tail != null){
             tail.next = null;
         }
         return head;
