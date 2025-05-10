@@ -1,58 +1,60 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        int rows = matrix.length, columns = matrix[0].length;
-        int row = 0, column = 0, count = 0, steps = rows * columns;
-        int inCol = 0; // Variable to track inward columns
-        List<Integer> spiral = new ArrayList<>();
+        int topLeftToRight = matrix[0].length;
+        int topToBottomRight = matrix.length - 1;
+        int bottomRightToLeft = matrix[0].length - 1;
+        int bottomToTopLeft = matrix.length - 2;
 
-        while (count < steps) {                  // Loop until all elements are visited
-            while (column < columns) {           // Traverse from left to right
-                if (count == steps) {            // Check if all elements are visited
-                    return spiral;
-                }
-                spiral.add(matrix[row][column]); // Add current element to the result list
-                count++;
+        int columnRange = matrix[0].length;
+
+        List<Integer> spiralList = new ArrayList<>();
+        int row = 0;
+        int column = 0;
+        while(spiralList.size() < matrix.length * matrix[0].length){
+            for(int topLeft = 1; topLeft <= topLeftToRight; topLeft++){
+                spiralList.add(matrix[row][column]);
                 column++;
             }
-            columns--;                           // Adjust column boundary and position
-            column--;
+            topLeftToRight-=2;
             row++;
+            column = --columnRange;
+            if(spiralList.size() == matrix.length * matrix[0].length){
+                break;
+            }
 
-            while (row < rows) {
-                if (count == steps) {            // Traverse from top to bottom
-                    return spiral;
-                }
-                spiral.add(matrix[row][column]);
-                count++;
+            for(int topRight = 1; topRight <= topToBottomRight; topRight++){
+                spiralList.add(matrix[row][column]);
                 row++;
             }
+            topToBottomRight-=2;
             row--;
             column--;
+            if(spiralList.size() == matrix.length * matrix[0].length){
+                break;
+            }
 
-            while (column >= 0 + inCol) {         // Traverse from right to left
-                if (count == steps) {
-                    return spiral;
-                }
-                spiral.add(matrix[row][column]);
-                count++;
+            for(int bottomRight = 1; bottomRight <= bottomRightToLeft; bottomRight++){
+                spiralList.add(matrix[row][column]);
                 column--;
             }
-            column++;
+            bottomRightToLeft-=2;
             row--;
+            column++;
+            if(spiralList.size() == matrix.length * matrix[0].length){
+                break;
+            }
 
-            while (row > 0 + inCol) {             // Traverse from bottom to top
-                if (count == steps) {
-                    return spiral;
-                }
-                spiral.add(matrix[row][column]);
-                count++;
+            for(int bottomLeft = 1; bottomLeft <= bottomToTopLeft; bottomLeft++){
+                spiralList.add(matrix[row][column]);
                 row--;
             }
-            inCol++;                       // Update inward column count and adjust row boundary
-            rows--;
+            bottomToTopLeft-=2;
             row++;
             column++;
+            if(spiralList.size() == matrix.length * matrix[0].length){
+                break;
+            }
         }
-        return spiral;
+        return spiralList;
     }
 }
