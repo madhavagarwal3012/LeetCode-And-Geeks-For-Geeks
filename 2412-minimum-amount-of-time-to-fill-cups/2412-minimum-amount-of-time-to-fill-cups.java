@@ -20,7 +20,7 @@ class Solution {
                 secondsCount+=amount[0];
                 amount[0] = 0;
             }
-            else if(amount[2] != 0 && amount[1] != 0){
+            else{
                 secondsCount++;
                 amount[2] = amount[2] - 1;
                 amount[1] = amount[1] - 1;
