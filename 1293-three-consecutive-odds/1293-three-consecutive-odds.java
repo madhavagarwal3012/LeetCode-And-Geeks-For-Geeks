@@ -1,19 +1,16 @@
 class Solution {
     public boolean threeConsecutiveOdds(int[] arr) {
-        int index = 0;
-        int oddCount = 0;
-        
-        while(index < arr.length){
+        int consecutiveCount = 0;
+        for(int index = 0; index < arr.length; index++){
             if(arr[index] % 2 == 1){
-                oddCount++;
-                if(oddCount == 3){
+                consecutiveCount++;
+                if(consecutiveCount == 3){
                     return true;
                 }
             }
             else{
-                oddCount = 0;
+                consecutiveCount = 0;
             }
-            index++;
         }
         return false;
     }
