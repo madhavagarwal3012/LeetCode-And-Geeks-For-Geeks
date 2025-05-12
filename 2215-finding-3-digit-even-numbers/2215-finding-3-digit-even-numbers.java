@@ -1,18 +1,20 @@
 class Solution {
     public int[] findEvenNumbers(int[] digits) {
-        Arrays.sort(digits);
         HashMap<Integer, Integer> map = new HashMap<>();
         ArrayList<Integer> threeDigitEvenList = new ArrayList<>();
+        int maxDigit = -1;
         for(int index = 0; index < digits.length; index++){
             if(!map.containsKey(digits[index])){
+                if(digits[index] > maxDigit){
+                    maxDigit = digits[index];
+                }
                 map.put(digits[index], 1);
             }
             else{
                 map.put(digits[index], map.get(digits[index]) + 1);
             }
         }
-        int maxDigit = digits[digits.length - 1] + 1;
-        int maxNumber = maxDigit * 100;
+        int maxNumber = (maxDigit + 1) * 100;
         if(maxNumber == 1000){
             maxNumber = 999;
         }
