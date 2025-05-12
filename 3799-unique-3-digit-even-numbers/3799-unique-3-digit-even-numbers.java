@@ -1,0 +1,68 @@
+class Solution {
+    public int totalNumbers(int[] digits) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        ArrayList<Integer> threeDigitEvenList = new ArrayList<>();
+        int maxDigit = -1;
+        for(int index = 0; index < digits.length; index++){
+            if(!map.containsKey(digits[index])){
+                if(digits[index] > maxDigit){
+                    maxDigit = digits[index];
+                }
+                map.put(digits[index], 1);
+            }
+            else{
+                map.put(digits[index], map.get(digits[index]) + 1);
+            }
+        }
+        int maxNumber = (maxDigit + 1) * 100;
+        if(maxNumber == 1000){
+            maxNumber = 999;
+        }
+        for(int startingNumber = 100; startingNumber <= maxNumber; startingNumber+=2){
+            String number = String.valueOf(startingNumber);
+            int digit1 = Character.getNumericValue(number.charAt(0));
+            int digit2 = Character.getNumericValue(number.charAt(1));
+            int digit3 = Character.getNumericValue(number.charAt(2));
+
+            if(!map.containsKey(digit1) || !map.containsKey(digit2) || !map.containsKey(digit3)){
+                continue;
+            }
+            else if((digit1 == digit2) && (digit2 == digit3)){
+                if(map.containsKey(digit1) && map.get(digit1) > 2){
+                    threeDigitEvenList.add(startingNumber);
+                }
+            }
+            else if((digit1 == digit2) && (digit2 != digit3)){
+                if(map.containsKey(digit1) && map.get(digit1) > 1){
+                    if(map.containsKey(digit3) && map.get(digit3) > 0){
+                        threeDigitEvenList.add(startingNumber);
+                    }
+                }
+            }
+            else if((digit3 == digit1) && (digit1 != digit2)){
+                if(map.containsKey(digit3) && map.get(digit3) > 1){
+                    if(map.containsKey(digit2) && map.get(digit2) > 0){
+                        threeDigitEvenList.add(startingNumber);
+                    }
+                }
+            }
+            else if((digit2 == digit3) && (digit3 != digit1)){
+                if(map.containsKey(digit2) && map.get(digit2) > 1){
+                    if(map.containsKey(digit1) && map.get(digit1) > 0){
+                        threeDigitEvenList.add(startingNumber);
+                    }
+                }
+            }
+            else{
+                if(map.containsKey(digit1) && map.get(digit1) > 0){
+                    if(map.containsKey(digit2) && map.get(digit2) > 0){
+                        if(map.containsKey(digit3) && map.get(digit3) > 0){
+                            threeDigitEvenList.add(startingNumber);
+                        }
+                    }
+                }
+            }
+        }
+        return threeDigitEvenList.size();
+    }
+}
