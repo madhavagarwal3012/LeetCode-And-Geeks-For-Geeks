@@ -570,6 +570,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3778-transform-array-by-parity](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3778-transform-array-by-parity) |
+| [3799-unique-3-digit-even-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -668,6 +669,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3799-unique-3-digit-even-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3799-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -728,6 +730,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2215-finding-3-digit-even-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2998-count-symmetric-integers) |
 | [3469-maximum-height-of-a-triangle](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3469-maximum-height-of-a-triangle) |
+| [3799-unique-3-digit-even-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3799-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -951,6 +954,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0394-decode-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2573-remove-nodes-from-linked-list) |
+| [3799-unique-3-digit-even-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3799-unique-3-digit-even-numbers) |
 ## Brainteaser
 |  |
 | ------- |
