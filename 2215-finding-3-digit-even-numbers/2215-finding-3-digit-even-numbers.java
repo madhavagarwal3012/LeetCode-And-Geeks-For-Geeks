@@ -24,7 +24,10 @@ class Solution {
             int digit2 = Character.getNumericValue(number.charAt(1));
             int digit3 = Character.getNumericValue(number.charAt(2));
 
-            if((digit1 == digit2) && (digit2 == digit3)){
+            if(!map.containsKey(digit1) || !map.containsKey(digit2) || !map.containsKey(digit3)){
+                continue;
+            }
+            else if((digit1 == digit2) && (digit2 == digit3)){
                 if(map.containsKey(digit1) && map.get(digit1) > 2){
                     threeDigitEvenList.add(startingNumber);
                 }
