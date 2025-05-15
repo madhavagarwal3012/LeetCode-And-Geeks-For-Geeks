@@ -21,7 +21,8 @@ class Solution {
         number.append(String.valueOf(root.val));
         if (root.left == null && root.right == null) {
             numberList.add(number.toString());
-        } else {
+        }
+        else {
             sumNumbersHelper(root.left, numberList, number);
             sumNumbersHelper(root.right, numberList, number);
         }
