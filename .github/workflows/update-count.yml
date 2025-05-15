@@ -6,6 +6,9 @@ on:
     paths-ignore:
       - 'README.md'
       - '.github/workflows/update-count.yml'
+      
+permissions:
+  contents: write
 
 jobs:
   update-count:
@@ -15,11 +18,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Ensure full git history is available
+          fetch-depth: 0
+          token: ${{ secrets.GH_TOKEN }}  
 
       - name: Count problems and update README
         run: |
-          # Count all code files excluding .git, .github, README.md, and specific files
+          # Count all code files excluding specific files and directories
           count=$(find . -type f \
             -not -path "./.git/*" \
             -not -path "./.github/*" \
@@ -27,11 +31,12 @@ jobs:
             -not -name "count_problems.py" \
             -not -name "stats.json" \
             -not -name ".gitignore" \
-            -not -name "update-count.yml" | wc -l)
-
+            -not -name "update-count.yml" \
+            | wc -l | tr -d ' ')
+          
           echo "Found $count problems"
 
-          # Use sed to update or insert the problem count
+          # Update or insert the problem count in the README
           if grep -q "No. of Problems In This Repository:" README.md; then
             sed -i "s/No. of Problems In This Repository: [0-9]*/No. of Problems In This Repository: $count/" README.md
           else
@@ -43,5 +48,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || git commit -m "Update problem count to $count"
+          git diff --staged --quiet || git commit -m "Update problem count to $count [skip ci]"
           git push
