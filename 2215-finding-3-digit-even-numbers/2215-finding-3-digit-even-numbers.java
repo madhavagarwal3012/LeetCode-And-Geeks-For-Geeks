@@ -18,6 +18,9 @@ class Solution {
         if(maxNumber == 1000){
             maxNumber = 999;
         }
+        else{
+            maxNumber = maxDigit * 100 + maxDigit * 10 + maxDigit;
+        }
         for(int startingNumber = 100; startingNumber <= maxNumber; startingNumber+=2){
             String number = String.valueOf(startingNumber);
             int digit1 = Character.getNumericValue(number.charAt(0));
