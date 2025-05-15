@@ -558,6 +558,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2728-sum-in-a-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2728-sum-in-a-matrix) |
 | [2892-check-if-array-is-good](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2892-check-if-array-is-good) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3226-minimum-number-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3226-minimum-number-game) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -901,6 +902,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [2427-first-letter-to-appear-twice](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2580-circular-sentence) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3451-string-compression-iii) |
@@ -947,6 +949,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0011-container-with-most-water](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0011-container-with-most-water) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
 |  |
 | ------- |
@@ -1006,6 +1009,7 @@ If you find my solutions useful, consider star this repository (●'◡'●)
 | [0647-palindromic-substrings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0647-palindromic-substrings) |
 | [1086-divisor-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1086-divisor-game) |
 | [1488-sort-integers-by-the-power-value](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1488-sort-integers-by-the-power-value) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Bit Manipulation
 |  |
 | ------- |
