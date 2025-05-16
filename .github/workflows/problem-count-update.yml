@@ -16,10 +16,10 @@ jobs:
       
       - name: Count problems and update README
         run: |
-          # Print directory structure for debugging
           echo "Directory structure:"
           find . -type d -not -path "*/\.*" -maxdepth 2 | sort
-          # Count all top-level subdirectories (excluding system dirs and difficulty directories)
+          
+          # Count top-level regular problem directories (not in difficulty folders)
           regular_count=$(find . -mindepth 1 -maxdepth 1 -type d \
             -not -path "*/\.*" \
             -not -path "./.*" \
@@ -32,58 +32,45 @@ jobs:
             | wc -l | tr -d ' ')
           
           echo "Regular problem directories: $regular_count"
-          
-          # Count subdirectories in each difficulty category
+
           count_school=0
           count_basic=0
           count_easy=0
           count_medium=0
           count_hard=0
-          
-          # Check if directories exist and print content for debugging
+
           echo "Checking difficulty directories:"
           
           if [ -d "Difficulty: School" ]; then
-            echo "Difficulty: School exists. Content:"
-            ls -la "Difficulty: School"
-            count_school=$(find "Difficulty: School" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
-          else
-            echo "Difficulty: School directory not found"
+            echo "Difficulty: School files:"
+            find "Difficulty: School" -type f -name "*.py"
+            count_school=$(find "Difficulty: School" -type f -name "*.py" | wc -l | tr -d ' ')
           fi
-          
+
           if [ -d "Difficulty: Basic" ]; then
-            echo "Difficulty: Basic exists. Content:"
-            ls -la "Difficulty: Basic"
-            count_basic=$(find "Difficulty: Basic" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
-          else
-            echo "Difficulty: Basic directory not found"
+            echo "Difficulty: Basic files:"
+            find "Difficulty: Basic" -type f -name "*.py"
+            count_basic=$(find "Difficulty: Basic" -type f -name "*.py" | wc -l | tr -d ' ')
           fi
-          
+
           if [ -d "Difficulty: Easy" ]; then
-            echo "Difficulty: Easy exists. Content:"
-            ls -la "Difficulty: Easy"
-            count_easy=$(find "Difficulty: Easy" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
-          else
-            echo "Difficulty: Easy directory not found"
+            echo "Difficulty: Easy files:"
+            find "Difficulty: Easy" -type f -name "*.py"
+            count_easy=$(find "Difficulty: Easy" -type f -name "*.py" | wc -l | tr -d ' ')
           fi
-          
+
           if [ -d "Difficulty: Medium" ]; then
-            echo "Difficulty: Medium exists. Content:"
-            ls -la "Difficulty: Medium"
-            count_medium=$(find "Difficulty: Medium" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
-          else
-            echo "Difficulty: Medium directory not found"
+            echo "Difficulty: Medium files:"
+            find "Difficulty: Medium" -type f -name "*.py"
+            count_medium=$(find "Difficulty: Medium" -type f -name "*.py" | wc -l | tr -d ' ')
           fi
-          
+
           if [ -d "Difficulty: Hard" ]; then
-            echo "Difficulty: Hard exists. Content:"
-            ls -la "Difficulty: Hard"
-            count_hard=$(find "Difficulty: Hard" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
-          else
-            echo "Difficulty: Hard directory not found"
+            echo "Difficulty: Hard files:"
+            find "Difficulty: Hard" -type f -name "*.py"
+            count_hard=$(find "Difficulty: Hard" -type f -name "*.py" | wc -l | tr -d ' ')
           fi
-          
-          # Calculate the difficulty total
+
           difficulty_total=$((count_school + count_basic + count_easy + count_medium + count_hard))
           
           echo "------------------------------"
@@ -94,17 +81,10 @@ jobs:
           echo "Hard problems: $count_hard"
           echo "Total difficulty problems: $difficulty_total"
           
-          # Calculate final total count
           final_total=$((regular_count + difficulty_total))
           echo "Final total count: $final_total"
-          echo "------------------------------"
-          echo "Total difficulty problems: $difficulty_total"
-          
-          # Calculate final total count
-          final_total=$((regular_count + difficulty_total))
-          echo "Final total count: $final_total"
-          
-          # Update the README with only the final total count
+
+          # Update README.md
           if grep -q "No. of Problems In This Repository:" README.md; then
             sed -i "s/No. of Problems In This Repository: [0-9]*/No. of Problems In This Repository: $final_total/" README.md
           else
