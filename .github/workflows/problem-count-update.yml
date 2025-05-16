@@ -16,19 +16,22 @@ jobs:
       
       - name: Count problems and update README
         run: |
+          # Print directory structure for debugging
+          echo "Directory structure:"
+          find . -type d -not -path "*/\.*" -maxdepth 2 | sort
           # Count all top-level subdirectories (excluding system dirs and difficulty directories)
           regular_count=$(find . -mindepth 1 -maxdepth 1 -type d \
-            -not -name ".git" \
-            -not -name ".github" \
-            -not -name "__pycache__" \
-            -not -name "Difficulty School" \
-            -not -name "Difficulty Basic" \
-            -not -name "Difficulty Easy" \
-            -not -name "Difficulty Medium" \
-            -not -name "Difficulty Hard" \
+            -not -path "*/\.*" \
+            -not -path "./.*" \
+            -not -path "./__pycache__" \
+            -not -path "./Difficulty: School" \
+            -not -path "./Difficulty: Basic" \
+            -not -path "./Difficulty: Easy" \
+            -not -path "./Difficulty: Medium" \
+            -not -path "./Difficulty: Hard" \
             | wc -l | tr -d ' ')
           
-          echo "Found $regular_count regular problem directories"
+          echo "Regular problem directories: $regular_count"
           
           # Count subdirectories in each difficulty category
           count_school=0
@@ -37,33 +40,71 @@ jobs:
           count_medium=0
           count_hard=0
           
-          if [ -d "Difficulty School" ]; then
-            count_school=$(find "Difficulty School" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          # Check if directories exist and print content for debugging
+          echo "Checking difficulty directories:"
+          
+          if [ -d "Difficulty: School" ]; then
+            echo "Difficulty: School exists. Content:"
+            ls -la "Difficulty: School"
+            count_school=$(find "Difficulty: School" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          else
+            echo "Difficulty: School directory not found"
           fi
           
-          if [ -d "Difficulty Basic" ]; then
-            count_basic=$(find "Difficulty Basic" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          if [ -d "Difficulty: Basic" ]; then
+            echo "Difficulty: Basic exists. Content:"
+            ls -la "Difficulty: Basic"
+            count_basic=$(find "Difficulty: Basic" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          else
+            echo "Difficulty: Basic directory not found"
           fi
           
-          if [ -d "Difficulty Easy" ]; then
-            count_easy=$(find "Difficulty Easy" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          if [ -d "Difficulty: Easy" ]; then
+            echo "Difficulty: Easy exists. Content:"
+            ls -la "Difficulty: Easy"
+            count_easy=$(find "Difficulty: Easy" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          else
+            echo "Difficulty: Easy directory not found"
           fi
           
-          if [ -d "Difficulty Medium" ]; then
-            count_medium=$(find "Difficulty Medium" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          if [ -d "Difficulty: Medium" ]; then
+            echo "Difficulty: Medium exists. Content:"
+            ls -la "Difficulty: Medium"
+            count_medium=$(find "Difficulty: Medium" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          else
+            echo "Difficulty: Medium directory not found"
           fi
           
-          if [ -d "Difficulty Hard" ]; then
-            count_hard=$(find "Difficulty Hard" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          if [ -d "Difficulty: Hard" ]; then
+            echo "Difficulty: Hard exists. Content:"
+            ls -la "Difficulty: Hard"
+            count_hard=$(find "Difficulty: Hard" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          else
+            # Try with "High" since you mentioned it earlier
+            if [ -d "Difficulty: High" ]; then
+              echo "Difficulty: High exists. Content:"
+              ls -la "Difficulty: High"
+              count_hard=$(find "Difficulty: High" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+            else
+              echo "Neither Difficulty: Hard nor Difficulty: High directory found"
+            fi
           fi
           
           # Calculate the difficulty total
           difficulty_total=$((count_school + count_basic + count_easy + count_medium + count_hard))
+          
+          echo "------------------------------"
           echo "School problems: $count_school"
           echo "Basic problems: $count_basic"
           echo "Easy problems: $count_easy"
           echo "Medium problems: $count_medium"
           echo "Hard problems: $count_hard"
+          echo "Total difficulty problems: $difficulty_total"
+          
+          # Calculate final total count
+          final_total=$((regular_count + difficulty_total))
+          echo "Final total count: $final_total"
+          echo "------------------------------"
           echo "Total difficulty problems: $difficulty_total"
           
           # Calculate final total count
