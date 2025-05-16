@@ -105,10 +105,10 @@ jobs:
           echo "Final total count: $final_total"
           
           # Update the README with only the final total count
-          if grep -q "No. of Problems In This Repository:" README.md; then
-            sed -i "s/No. of Problems In This Repository: [0-9]*/No. of Problems In This Repository: $final_total/" README.md
+          if grep -q "No. Of Problems In This Repository:" README.md; then
+            sed -i "s/No. Of Problems In This Repository: [0-9]*/No. Of Problems In This Repository: $final_total/" README.md
           else
-            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\nNo. of Problems In This Repository: $final_total" README.md
+            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\nNo. Of Problems In This Repository: $final_total" README.md
           fi
       
       - name: Commit and push changes
