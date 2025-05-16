@@ -3,9 +3,6 @@ name: Update Problem Count
 on:
   push:
     branches: [ main ]
-    paths-ignore:
-      - 'README.md'
-      - '.github/workflows/problem-count-update.yml'
       
 permissions:
   contents: write
