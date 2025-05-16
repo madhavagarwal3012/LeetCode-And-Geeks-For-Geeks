@@ -80,14 +80,7 @@ jobs:
             ls -la "Difficulty: Hard"
             count_hard=$(find "Difficulty: Hard" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
           else
-            # Try with "High" since you mentioned it earlier
-            if [ -d "Difficulty: High" ]; then
-              echo "Difficulty: High exists. Content:"
-              ls -la "Difficulty: High"
-              count_hard=$(find "Difficulty: High" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
-            else
-              echo "Neither Difficulty: Hard nor Difficulty: High directory found"
-            fi
+            echo "Difficulty: Hard directory not found"
           fi
           
           # Calculate the difficulty total
