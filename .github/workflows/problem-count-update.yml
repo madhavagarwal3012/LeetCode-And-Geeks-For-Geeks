@@ -1,45 +1,86 @@
 name: Update Problem Count
-
 on:
   push:
     branches: [ main ]
-
 permissions:
   contents: write
-
 jobs:
   update-count:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
           token: ${{ secrets.GH_TOKEN }}
-
-      - name: Count problem directories and update README
+      
+      - name: Count problems and update README
         run: |
-          # Count all top-level subdirectories (assumed to be problems), excluding system dirs
-          count=$(find . -mindepth 1 -maxdepth 1 -type d \
+          # Count all top-level subdirectories (excluding system dirs and difficulty directories)
+          regular_count=$(find . -mindepth 1 -maxdepth 1 -type d \
             -not -name ".git" \
             -not -name ".github" \
             -not -name "__pycache__" \
+            -not -name "Difficulty School" \
+            -not -name "Difficulty Basic" \
+            -not -name "Difficulty Easy" \
+            -not -name "Difficulty Medium" \
+            -not -name "Difficulty Hard" \
             | wc -l | tr -d ' ')
           
-          echo "Found $count problem directories"
-
-          # Update or insert the problem count in the README
-          if grep -q "No. of Problems In This Repository:" README.md; then
-            sed -i "s/No. of Problems In This Repository: [0-9]*/No. of Problems In This Repository: $count/" README.md
-          else
-            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\nNo. of Problems In This Repository: $count" README.md
+          echo "Found $regular_count regular problem directories"
+          
+          # Count subdirectories in each difficulty category
+          count_school=0
+          count_basic=0
+          count_easy=0
+          count_medium=0
+          count_hard=0
+          
+          if [ -d "Difficulty School" ]; then
+            count_school=$(find "Difficulty School" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
           fi
-
+          
+          if [ -d "Difficulty Basic" ]; then
+            count_basic=$(find "Difficulty Basic" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          fi
+          
+          if [ -d "Difficulty Easy" ]; then
+            count_easy=$(find "Difficulty Easy" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          fi
+          
+          if [ -d "Difficulty Medium" ]; then
+            count_medium=$(find "Difficulty Medium" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          fi
+          
+          if [ -d "Difficulty Hard" ]; then
+            count_hard=$(find "Difficulty Hard" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+          fi
+          
+          # Calculate the difficulty total
+          difficulty_total=$((count_school + count_basic + count_easy + count_medium + count_hard))
+          echo "School problems: $count_school"
+          echo "Basic problems: $count_basic"
+          echo "Easy problems: $count_easy"
+          echo "Medium problems: $count_medium"
+          echo "Hard problems: $count_hard"
+          echo "Total difficulty problems: $difficulty_total"
+          
+          # Calculate final total count
+          final_total=$((regular_count + difficulty_total))
+          echo "Final total count: $final_total"
+          
+          # Update the README with only the final total count
+          if grep -q "No. of Problems In This Repository:" README.md; then
+            sed -i "s/No. of Problems In This Repository: [0-9]*/No. of Problems In This Repository: $final_total/" README.md
+          else
+            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\nNo. of Problems In This Repository: $final_total" README.md
+          fi
+      
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || git commit -m "Update problem count to $count [skip ci]"
+          git diff --staged --quiet || git commit -m "Update problem count to $final_total [skip ci]"
           git push
