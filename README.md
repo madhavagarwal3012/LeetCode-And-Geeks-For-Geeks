@@ -393,6 +393,7 @@ Last Updated: May 18, 2025 at 11:35 PM (UTC+5:30)
 | [0543-diameter-of-binary-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -416,6 +417,7 @@ Last Updated: May 18, 2025 at 11:35 PM (UTC+5:30)
 | [0543-diameter-of-binary-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0975-range-sum-of-bst) |
@@ -945,6 +947,7 @@ Last Updated: May 18, 2025 at 11:35 PM (UTC+5:30)
 | [0394-decode-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0682-baseball-game) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2871-double-a-number-represented-as-a-linked-list) |
