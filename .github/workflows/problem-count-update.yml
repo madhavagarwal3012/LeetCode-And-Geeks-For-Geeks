@@ -110,13 +110,13 @@ jobs:
           # Update the README with the final total count and last updated time
           if grep -q "No. Of Problems In This Repository:" README.md; then
             sed -i "s/No. Of Problems In This Repository: [0-9]*/No. Of Problems In This Repository: $final_total/" README.md
-            if grep -q "Last Updated:" README.md; then
-              sed -i "s/Last Updated:.*$/Last Updated: $current_datetime/" README.md
-            else
-              sed -i "/No. Of Problems In This Repository:/a\\Last Updated: $current_datetime" README.md
-            fi
+            # Remove any existing Last Updated line
+            sed -i "/Last Updated:/d" README.md
+            # Add new Last Updated line with proper newline
+            sed -i "/No. Of Problems In This Repository:/a\\\\nLast Updated: $current_datetime" README.md
           else
-            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\nNo. Of Problems In This Repository: $final_total\\nLast Updated: $current_datetime" README.md
+            # Add both lines with proper newlines
+            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\n\\nNo. Of Problems In This Repository: $final_total\\n\\nLast Updated: $current_datetime" README.md
           fi
       
       - name: Commit and push changes
