@@ -104,11 +104,19 @@ jobs:
           final_total=$((regular_count + difficulty_total))
           echo "Final total count: $final_total"
           
-          # Update the README with only the final total count
+          # Get current date and time in Indian Standard Time (IST)
+          current_datetime=$(TZ=Asia/Kolkata date "+%B %d, %Y at %H:%M IST")
+          
+          # Update the README with the final total count and last updated time
           if grep -q "No. Of Problems In This Repository:" README.md; then
             sed -i "s/No. Of Problems In This Repository: [0-9]*/No. Of Problems In This Repository: $final_total/" README.md
+            if grep -q "Last Updated:" README.md; then
+              sed -i "s/Last Updated:.*$/Last Updated: $current_datetime/" README.md
+            else
+              sed -i "/No. Of Problems In This Repository:/a\\Last Updated: $current_datetime" README.md
+            fi
           else
-            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\nNo. Of Problems In This Repository: $final_total" README.md
+            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\nNo. Of Problems In This Repository: $final_total\\nLast Updated: $current_datetime" README.md
           fi
       
       - name: Commit and push changes
