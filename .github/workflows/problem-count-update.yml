@@ -104,8 +104,8 @@ jobs:
           final_total=$((regular_count + difficulty_total))
           echo "Final total count: $final_total"
           
-          # Get current date and time in Indian Standard Time (IST)
-          current_datetime=$(TZ=Asia/Kolkata date "+%B %d, %Y at %H:%M IST")
+          # Get current date and time in Indian Standard Time (IST) in 12-hour format with AM/PM
+          current_datetime=$(TZ=Asia/Kolkata date "+%B %d, %Y at %I:%M %p IST")
           
           # Update the README with the final total count and last updated time
           if grep -q "No. Of Problems In This Repository:" README.md; then
