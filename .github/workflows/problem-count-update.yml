@@ -4,6 +4,10 @@ on:
     branches: [ main ]
 permissions:
   contents: write
+# Add concurrency control to prevent overlapping runs
+concurrency:
+  group: update-problem-count
+  cancel-in-progress: true
 jobs:
   update-count:
     runs-on: ubuntu-latest
@@ -104,8 +108,8 @@ jobs:
           final_total=$((regular_count + difficulty_total))
           echo "Final total count: $final_total"
           
-          # Get current date and time in Indian Standard Time (IST) in 12-hour format with AM/PM
-          current_datetime=$(TZ=Asia/Kolkata date "+%B %d, %Y at %I:%M %p IST")
+          # Get current date and time in Indian Standard Time with UTC+5:30 notation
+          current_datetime=$(TZ=Asia/Kolkata date "+%B %d, %Y at %I:%M %p (UTC+5:30)")
           
           # Update the README with the final total count and last updated time
           if grep -q "No. Of Problems In This Repository:" README.md; then
@@ -124,5 +128,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || git commit -m "Update problem count to $final_total [skip ci]"
-          git push
+          git diff --staged --quiet || (git commit -m "Update problem count to $final_total [skip ci]" && git pull --rebase origin main && git push)
