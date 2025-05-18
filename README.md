@@ -881,6 +881,7 @@ Last Updated: May 18, 2025 at 06:29 PM IST
 | [0038-count-and-say](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0168-excel-sheet-column-title) |
 | [0273-integer-to-english-words](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0273-integer-to-english-words) |
@@ -928,6 +929,7 @@ Last Updated: May 18, 2025 at 06:29 PM IST
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0145-binary-tree-postorder-traversal) |
