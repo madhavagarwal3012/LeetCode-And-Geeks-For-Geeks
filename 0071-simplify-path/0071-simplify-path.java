@@ -2,17 +2,17 @@ class Solution {
     public String simplifyPath(String path) {
         Stack<Character> pathStack = new Stack<>();
 
-        String check = "";
+        StringBuilder check = new StringBuilder("");
         for(int index = 0; index < path.length(); index++){
             if(path.charAt(index) == '.'){
-                check+=path.charAt(index);
+                check.append(path.charAt(index));
                 if(index == path.length() - 1){
                     if(check.length() == 2){
                         if(pathStack.size() > 1){
                             if(pathStack.peek() != '/'){
                                 pathStack.push('.');
                                 pathStack.push('.');
-                                check = "";
+                                check.setLength(0);
                                 continue;
                             }
                             else{
@@ -33,12 +33,12 @@ class Solution {
                             pathStack.push('.');
                         }  
                     }
-                    check = "";
+                    check.setLength(0);;
                 }
             }
             else if(path.charAt(index) == '/' && check.length() > 0 && check.length() < 3){
-                check+=path.charAt(index);
-                if(check.equals("../")){
+                check.append(path.charAt(index));
+                if(check.toString().equals("../")){
                     if(pathStack.size() > 1){
                         if(pathStack.peek() == '/'){
                             pathStack.pop();
@@ -47,34 +47,34 @@ class Solution {
                             pathStack.push('.');
                             pathStack.push('.');
                             pathStack.push('/');
-                            check = "";
+                            check.setLength(0);;
                             continue;
                         }
                     }
                     while(!pathStack.isEmpty() && pathStack.peek() != '/'){
                         pathStack.pop();
                     }
-                    check = "";
+                    check.setLength(0);
                 }
                 else if(pathStack.peek() != '/'){
                     pathStack.push('.');
                     pathStack.push('/');
-                    check = "";
+                    check.setLength(0);
                 }
                 else{
-                    check = "";
+                    check.setLength(0);
                 }
             }
             else if(check.length() == 1){
                 pathStack.push('.');
                 pathStack.push(path.charAt(index));
-                check = "";
+                check.setLength(0);
             }
             else if(check.length() > 0){
                 for(int checkCount = 1; checkCount <= check.length(); checkCount++){
                     pathStack.push('.');
                 }
-                check = "";
+                check.setLength(0);
                 pathStack.push(path.charAt(index));
             }
             else{
