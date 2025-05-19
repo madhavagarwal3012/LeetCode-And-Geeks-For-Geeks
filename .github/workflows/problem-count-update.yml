@@ -89,26 +89,59 @@ jobs:
           # Update the README with the counts
           if grep -q "No. Of Problems In This Repository:" README.md; then
             # Update total problems count with bold formatting
-            sed -i "s/**No. Of Problems In This Repository: [0-9]**/**No. Of Problems In This Repository: $final_total**/" README.md
-            sed -i "s/No. Of Problems In This Repository: [0-9]*/**No. Of Problems In This Repository: $final_total**/" README.md
+            if grep -q "**No\\. Of Solutions In This Repository:" README.md; then
+              # Already in bold format
+              sed -i "s/**No\\. Of Solutions In This Repository: [0-9]*/**No. Of Solutions In This Repository: $final_total/" README.md
+            elif grep -q "**No\\. Of Problems In This Repository:" README.md; then
+              # Update from Problems to Solutions
+              sed -i "s/**No\\. Of Problems In This Repository: [0-9]*/**No. Of Solutions In This Repository: $final_total/" README.md
+            elif grep -q "No\\. Of Problems In This Repository:" README.md; then
+              # Convert from Problems to Solutions with bold format
+              sed -i "s/No\\. Of Problems In This Repository: [0-9]*/**No. Of Solutions In This Repository: $final_total**/" README.md
+            else
+              # Create new with Solutions
+              sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\n\\n**No. Of Solutions In This Repository: $final_total**" README.md
+            fi
             
             # Check if GFG and LeetCode counts already exist and update them
-            if grep -q "GFG Problems:" README.md && grep -q "LeetCode Problems:" README.md; then
-              sed -i "s/LeetCode Problems: [0-9]*/LeetCode Problems: $leetcode_count/" README.md
-              sed -i "s/GFG Problems: [0-9]*/GFG Problems: $total_gfg/" README.md
+            if (grep -q "GFG Problems:" README.md || grep -q "GFG Solutions:" README.md) && (grep -q "LeetCode Problems:" README.md || grep -q "LeetCode Solutions:" README.md); then
+              # Check if already in bold format with Solutions
+              if grep -q "\\*\\*LeetCode Solutions:" README.md; then
+                sed -i "s/\\*\\*LeetCode Solutions: [0-9]*\\*\\*/**LeetCode Solutions: $leetcode_count**/" README.md
+                sed -i "s/\\*\\*GFG Solutions: [0-9]*\\*\\*/**GFG Solutions: $total_gfg**/" README.md
+              # Check if in bold format with Problems
+              elif grep -q "\\*\\*LeetCode Problems:" README.md; then
+                sed -i "s/\\*\\*LeetCode Problems: [0-9]*\\*\\*/**LeetCode Solutions: $leetcode_count**/" README.md
+                sed -i "s/\\*\\*GFG Problems: [0-9]*\\*\\*/**GFG Solutions: $total_gfg**/" README.md
+              # Check if not in bold format with Problems
+              elif grep -q "LeetCode Problems:" README.md; then
+                sed -i "s/LeetCode Problems: [0-9]*/**LeetCode Solutions: $leetcode_count**/" README.md
+                sed -i "s/GFG Problems: [0-9]*/**GFG Solutions: $total_gfg**/" README.md
+              else
+                # Handle any other format with Solutions
+                sed -i "s/LeetCode Solutions: [0-9]*/**LeetCode Solutions: $leetcode_count**/" README.md
+                sed -i "s/GFG Solutions: [0-9]*/**GFG Solutions: $total_gfg**/" README.md
+              fi
             else
               # Add LeetCode and GFG counts after total problems count (LeetCode first)
-              sed -i "/No. Of Problems In This Repository:/a\\- **LeetCode Problems: $leetcode_count**\\n- **GFG Problems: $total_gfg**" README.md
+              sed -i "/No\\. Of Solutions In This Repository:/a\\- **LeetCode Solutions: $leetcode_count**\\n- **GFG Solutions: $total_gfg**" README.md
+            fi
             fi
             
             # Remove any existing Last Updated line
             sed -i "/Last Updated:/d" README.md
             
             # Add new Last Updated line
-            sed -i "/GFG Problems:/a\\\\nLast Updated: $current_datetime" README.md
+            if grep -q "GFG Solutions:" README.md; then
+                sed -i "/GFG Solutions:/a\\\\nLast Updated: $current_datetime" README.md
+            else
+                sed -i "/GFG Problems:/a\\\\nLast Updated: $current_datetime" README.md
+            fi
           else
-            # Add all information as new content
-            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\n\\n**No. Of Problems In This Repository: $final_total**\\n- **LeetCode Problems: $leetcode_count**\\n- **GFG Problems: $total_gfg**\\n\\nLast Updated: $current_datetime" README.md
+            # Add all information as new content if none exists
+            if ! grep -q "No\\. Of Solutions In This Repository:" README.md && ! grep -q "No\\. Of Problems In This Repository:" README.md; then
+              sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\n\\n**No. Of Solutions In This Repository: $final_total**\\n- **LeetCode Solutions: $leetcode_count**\\n- **GFG Solutions: $total_gfg**\\n\\nLast Updated: $current_datetime" README.md
+            fi
           fi
       
       - name: Commit and push changes
@@ -116,4 +149,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || (git commit -m "Update problem count: Total=$final_total, GFG=$total_gfg, LeetCode=$leetcode_count [skip ci]" && git pull --rebase origin main && git push)
+          git diff --staged --quiet || (git commit -m "Update solution count: Total=$final_total, LeetCode=$leetcode_count, GFG=$total_gfg [skip ci]" && git pull --rebase origin main && git push)
