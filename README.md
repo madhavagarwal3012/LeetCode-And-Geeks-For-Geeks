@@ -1,11 +1,10 @@
 # LeetCode And Geeks For Geeks
+
 Collection of LeetCode And Geeks For Geeks questions to ace the coding interview!
 
+This repository contains only problems that I have personally solved on LeetCode and GeeksForGeeks platforms. Each solution represents my own approach and implementation to these coding challenges.
+
 If you find my solutions useful, consider star this repository (●'◡'●)
-
-No. Of Problems In This Repository: 367
-
-Last Updated: May 20, 2025 at 12:40 AM (UTC+5:30)
 
 
 
