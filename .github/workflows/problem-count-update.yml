@@ -108,7 +108,7 @@ jobs:
             sed -i "/GFG Solutions:/a\\\\nLast Updated: $current_datetime" README.md
           else
             # Add all information as new content
-            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\n\\n**No. Of Problems In This Repository: $final_total**\\n- **LeetCode Problems: $leetcode_count**\\n- **GFG Problems: $total_gfg**\\n\\nLast Updated: $current_datetime" README.md
+            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\n\\n**No. Of Solutions In This Repository: $final_total**\\n- **LeetCode Solutions: $leetcode_count**\\n- **GFG Solutions: $total_gfg**\\n\\nLast Updated: $current_datetime" README.md
           fi
       
       - name: Commit and push changes
