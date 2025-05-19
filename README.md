@@ -6,6 +6,13 @@ This repository contains only problems that I have personally solved on LeetCode
 
 If you find my solutions useful, consider star this repository (●'◡'●)
 
+
+**No. Of Solutions In This Repository: 367**
+- **LeetCode Solutions: 330**
+- **GFG Solutions: 37**
+
+Last Updated: May 20, 2025 at 01:19 AM (UTC+5:30)
+
 # Array
 |  |
 | ------- |
