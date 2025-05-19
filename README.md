@@ -7,6 +7,11 @@ This repository contains only problems that I have personally solved on LeetCode
 If you find my solutions useful, consider star this repository (●'◡'●)
 
 
+No. Of Problems In This Repository: 367
+
+Last Updated: May 20, 2025 at 12:53 AM (UTC+5:30)
+
+
 
 
 
