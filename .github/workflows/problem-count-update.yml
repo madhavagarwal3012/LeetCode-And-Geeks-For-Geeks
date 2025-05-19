@@ -19,6 +19,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
       
       - name: Count problems and update README
+        id: count_problems
         run: |
           # Print directory structure for debugging
           echo "Directory structure:"
@@ -83,37 +84,44 @@ jobs:
           final_total=$((total_gfg + leetcode_count))
           echo "Final total count: $final_total"
           
+          # Save counts to environment variables for use in later steps
+          echo "FINAL_TOTAL=$final_total" >> $GITHUB_ENV
+          echo "TOTAL_GFG=$total_gfg" >> $GITHUB_ENV
+          echo "LEETCODE_COUNT=$leetcode_count" >> $GITHUB_ENV
+          
           # Get current date and time in Indian Standard Time with UTC+5:30 notation
           current_datetime=$(TZ=Asia/Kolkata date "+%B %d, %Y at %I:%M %p (UTC+5:30)")
+          echo "CURRENT_DATETIME=$current_datetime" >> $GITHUB_ENV
           
-          # Update the README with the counts
+          # Update the README with the counts - fixed sed commands
           if grep -q "No. Of Solutions In This Repository:" README.md; then
-            # Update total problems count with bold formatting
-            sed -i "s/**No. Of Solutions In This Repository: [0-9]**/**No. Of Solutions In This Repository: $final_total**/" README.md
-            sed -i "s/No. Of Solutions In This Repository: [0-9]*/**No. Of Solutions In This Repository: $final_total**/" README.md
+            # Update total problems count with bold formatting - fixed regex
+            sed -i 's/\*\*No\. Of Solutions In This Repository: [0-9]*\*\*/\*\*No. Of Solutions In This Repository: '"$final_total"'\*\*/' README.md
+            # Backup for non-bold format if exists
+            sed -i 's/No\. Of Solutions In This Repository: [0-9]*/\*\*No. Of Solutions In This Repository: '"$final_total"'\*\*/' README.md
             
             # Check if GFG and LeetCode counts already exist and update them
             if grep -q "GFG Solutions:" README.md && grep -q "LeetCode Solutions:" README.md; then
-              sed -i "s/LeetCode Solutions: [0-9]*/LeetCode Solutions: $leetcode_count/" README.md
-              sed -i "s/GFG Solutions: [0-9]*/GFG Solutions: $total_gfg/" README.md
+              sed -i 's/LeetCode Solutions: [0-9]*/LeetCode Solutions: '"$leetcode_count"'/' README.md
+              sed -i 's/GFG Solutions: [0-9]*/GFG Solutions: '"$total_gfg"'/' README.md
             else
               # Add LeetCode and GFG counts after total problems count (LeetCode first)
-              sed -i "/No. Of Solutions In This Repository:/a\\- **LeetCode Solutions: $leetcode_count**\\n- **GFG Solutions: $total_gfg**" README.md
+              sed -i '/No\. Of Solutions In This Repository:/a\\- \*\*LeetCode Solutions: '"$leetcode_count"'\*\*\n- \*\*GFG Solutions: '"$total_gfg"'\*\*' README.md
             fi
             
             # Remove any existing Last Updated line
-            sed -i "/Last Updated:/d" README.md
+            sed -i '/Last Updated:/d' README.md
             
             # Add new Last Updated line
-            sed -i "/GFG Solutions:/a\\\\nLast Updated: $current_datetime" README.md
+            sed -i '/GFG Solutions:/a\\nLast Updated: '"$current_datetime"'' README.md
           else
             # Add all information as new content
-            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\n\\n**No. Of Solutions In This Repository: $final_total**\\n- **LeetCode Solutions: $leetcode_count**\\n- **GFG Solutions: $total_gfg**\\n\\nLast Updated: $current_datetime" README.md
+            sed -i '/If you find my solutions useful, consider star this repository (●'"'"'◡'"'"'●)/a\\n\n\*\*No. Of Solutions In This Repository: '"$final_total"'\*\*\n- \*\*LeetCode Solutions: '"$leetcode_count"'\*\*\n- \*\*GFG Solutions: '"$total_gfg"'\*\*\n\nLast Updated: '"$current_datetime"'' README.md
           fi
-      
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || (git commit -m "Update problem count: Total=$final_total, GFG=$total_gfg, LeetCode=$leetcode_count [skip ci]" && git pull --rebase origin main && git push)
+          git diff --staged --quiet || (git commit -m "Update problem count: Total=${FINAL_TOTAL}, GFG=${TOTAL_GFG}, LeetCode=${LEETCODE_COUNT} [skip ci]" && git pull --rebase origin main && git push)
