@@ -23,8 +23,49 @@ jobs:
           # Print directory structure for debugging
           echo "Directory structure:"
           find . -type d -not -path "*/\.*" -maxdepth 2 | sort
+          
           # Count all top-level subdirectories (excluding system dirs and difficulty directories)
-          regular_count=$(find . -mindepth 1 -maxdepth 1 -type d \
+          all_directories=$(find . -mindepth 1 -maxdepth 1 -type d \
+            -not -path "*/\.*" \
+            -not -path "./.*" \
+            -not -path "./__pycache__" \
+            | wc -l | tr -d ' ')
+          
+          echo "All problem directories: $all_directories"
+          
+          # Count GFG problems (contains GFG in name)
+          gfg_count=$(find . -mindepth 1 -maxdepth 1 -type d \
+            -not -path "*/\.*" \
+            -not -path "./.*" \
+            -not -path "./__pycache__" \
+            -name "*GFG*" | wc -l | tr -d ' ')
+          
+          echo "GFG problem directories: $gfg_count"
+          
+          # Count difficulty directories
+          difficulty_dirs=0
+          difficulty_problems=0
+          
+          # Check all difficulty directories
+          for difficulty in "School" "Basic" "Easy" "Medium" "Hard"; do
+            dir_path="Difficulty: $difficulty"
+            if [ -d "$dir_path" ]; then
+              difficulty_dirs=$((difficulty_dirs + 1))
+              problems_count=$(find "$dir_path" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
+              difficulty_problems=$((difficulty_problems + problems_count))
+              echo "$dir_path contains $problems_count problems"
+            fi
+          done
+          
+          echo "Total difficulty directories: $difficulty_dirs"
+          echo "Total problems in difficulty directories: $difficulty_problems"
+          
+          # Calculate total GFG problems (GFG-tagged + difficulty problems)
+          total_gfg=$((gfg_count + difficulty_problems))
+          echo "Total GFG problems: $total_gfg"
+          
+          # Calculate LeetCode problems (all problems minus GFG problems)
+          regular_count_non_gfg=$(find . -mindepth 1 -maxdepth 1 -type d \
             -not -path "*/\.*" \
             -not -path "./.*" \
             -not -path "./__pycache__" \
@@ -33,94 +74,41 @@ jobs:
             -not -path "./Difficulty: Easy" \
             -not -path "./Difficulty: Medium" \
             -not -path "./Difficulty: Hard" \
-            | wc -l | tr -d ' ')
+            -not -name "*GFG*" | wc -l | tr -d ' ')
           
-          echo "Regular problem directories: $regular_count"
-          
-          # Count subdirectories in each difficulty category
-          count_school=0
-          count_basic=0
-          count_easy=0
-          count_medium=0
-          count_hard=0
-          
-          # Check if directories exist and print content for debugging
-          echo "Checking difficulty directories:"
-          
-          if [ -d "Difficulty: School" ]; then
-            echo "Difficulty: School exists. Content:"
-            ls -la "Difficulty: School"
-            count_school=$(find "Difficulty: School" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
-          else
-            echo "Difficulty: School directory not found"
-          fi
-          
-          if [ -d "Difficulty: Basic" ]; then
-            echo "Difficulty: Basic exists. Content:"
-            ls -la "Difficulty: Basic"
-            count_basic=$(find "Difficulty: Basic" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
-          else
-            echo "Difficulty: Basic directory not found"
-          fi
-          
-          if [ -d "Difficulty: Easy" ]; then
-            echo "Difficulty: Easy exists. Content:"
-            ls -la "Difficulty: Easy"
-            count_easy=$(find "Difficulty: Easy" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
-          else
-            echo "Difficulty: Easy directory not found"
-          fi
-          
-          if [ -d "Difficulty: Medium" ]; then
-            echo "Difficulty: Medium exists. Content:"
-            ls -la "Difficulty: Medium"
-            count_medium=$(find "Difficulty: Medium" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
-          else
-            echo "Difficulty: Medium directory not found"
-          fi
-          
-          if [ -d "Difficulty: Hard" ]; then
-            echo "Difficulty: Hard exists. Content:"
-            ls -la "Difficulty: Hard"
-            count_hard=$(find "Difficulty: Hard" -mindepth 1 -maxdepth 1 -type d | wc -l | tr -d ' ')
-          else
-            echo "Difficulty: Hard directory not found"
-          fi
-          
-          # Calculate the difficulty total
-          difficulty_total=$((count_school + count_basic + count_easy + count_medium + count_hard))
-          
-          echo "------------------------------"
-          echo "School problems: $count_school"
-          echo "Basic problems: $count_basic"
-          echo "Easy problems: $count_easy"
-          echo "Medium problems: $count_medium"
-          echo "Hard problems: $count_hard"
-          echo "Total difficulty problems: $difficulty_total"
+          leetcode_count=$regular_count_non_gfg
+          echo "Total LeetCode problems: $leetcode_count"
           
           # Calculate final total count
-          final_total=$((regular_count + difficulty_total))
-          echo "Final total count: $final_total"
-          echo "------------------------------"
-          echo "Total difficulty problems: $difficulty_total"
-          
-          # Calculate final total count
-          final_total=$((regular_count + difficulty_total))
+          final_total=$((total_gfg + leetcode_count))
           echo "Final total count: $final_total"
           
           # Get current date and time in Indian Standard Time with UTC+5:30 notation
           current_datetime=$(TZ=Asia/Kolkata date "+%B %d, %Y at %I:%M %p (UTC+5:30)")
           
-          # Update the README with the final total count and last updated time
+          # Update the README with the counts
           if grep -q "No. Of Problems In This Repository:" README.md; then
-            sed -i "s/No. Of Problems In This Repository: [0-9]*/No. Of Problems In This Repository: $final_total/" README.md
+            # Update total problems count with bold formatting
+            sed -i "s/**No. Of Problems In This Repository: [0-9]**/**No. Of Problems In This Repository: $final_total**/" README.md
+            sed -i "s/No. Of Problems In This Repository: [0-9]*/**No. Of Problems In This Repository: $final_total**/" README.md
+            
+            # Check if GFG and LeetCode counts already exist and update them
+            if grep -q "GFG Problems:" README.md && grep -q "LeetCode Problems:" README.md; then
+              sed -i "s/LeetCode Problems: [0-9]*/LeetCode Problems: $leetcode_count/" README.md
+              sed -i "s/GFG Problems: [0-9]*/GFG Problems: $total_gfg/" README.md
+            else
+              # Add LeetCode and GFG counts after total problems count (LeetCode first)
+              sed -i "/No. Of Problems In This Repository:/a\\- **LeetCode Problems: $leetcode_count**\\n- **GFG Problems: $total_gfg**" README.md
+            fi
+            
             # Remove any existing Last Updated line
             sed -i "/Last Updated:/d" README.md
-            # Add new Last Updated line with proper newline
-            sed -i "/No. Of Problems In This Repository:/a\\\\nLast Updated: $current_datetime" README.md
+            
+            # Add new Last Updated line
+            sed -i "/GFG Problems:/a\\\\nLast Updated: $current_datetime" README.md
           else
-            # Add both lines with proper newlines
-            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\n\\nNo. Of Problems In This Repository: $final_total\\n\\nLast Updated: $current_datetime" README.md
+            # Add all information as new content
+            sed -i "/If you find my solutions useful, consider star this repository (●'◡'●)/a\\\\n\\n**No. Of Problems In This Repository: $final_total**\\n- **LeetCode Problems: $leetcode_count**\\n- **GFG Problems: $total_gfg**\\n\\nLast Updated: $current_datetime" README.md
           fi
       
       - name: Commit and push changes
@@ -128,4 +116,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || (git commit -m "Update problem count to $final_total [skip ci]" && git pull --rebase origin main && git push)
+          git diff --staged --quiet || (git commit -m "Update problem count: Total=$final_total, GFG=$total_gfg, LeetCode=$leetcode_count [skip ci]" && git pull --rebase origin main && git push)
