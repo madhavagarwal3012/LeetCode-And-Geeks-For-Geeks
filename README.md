@@ -7,11 +7,12 @@ This repository contains only problems that I have personally solved on LeetCode
 If you find my solutions useful, consider star this repository (●'◡'●)
 
 
-****************No. Of Solutions In This Repository: 373****************
+******************No. Of Solutions In This Repository: 374******************
 - **LeetCode Solutions: 329**
-- **GFG Solutions: 44**
+- **GFG Solutions: 45**
 
-Last Updated: May 20, 2025 at 10:20 PM (UTC+5:30)
+Last Updated: May 20, 2025 at 10:53 PM (UTC+5:30)
+
 
 
 
