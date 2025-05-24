@@ -586,6 +586,7 @@ Last Updated: May 24, 2025 at 02:33 AM (UTC+5:30)
 | [2728-sum-in-a-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2728-sum-in-a-matrix) |
 | [2892-check-if-array-is-good](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2892-check-if-array-is-good) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -935,6 +936,7 @@ Last Updated: May 24, 2025 at 02:33 AM (UTC+5:30)
 | [2502-sort-the-people](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2580-circular-sentence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3194-find-words-containing-character) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3451-string-compression-iii) |
