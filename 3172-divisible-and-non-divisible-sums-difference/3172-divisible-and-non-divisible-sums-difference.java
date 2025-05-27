@@ -1,12 +1,12 @@
 class Solution {
     public int differenceOfSums(int n, int m) {
         int sum = 0;
-        for(int number = 1; number <= n; number++){
-            if(number % m == 0){
-                sum -= number;
+        for(;n > 0; n--){
+            if(n % m == 0){
+                sum -= n;
             }
             else{
-                sum += number;
+                sum += n;
             }
         }
         return sum;
