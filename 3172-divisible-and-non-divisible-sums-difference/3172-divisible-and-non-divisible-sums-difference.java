@@ -1,14 +1,15 @@
 class Solution {
     public int differenceOfSums(int n, int m) {
-        int sum = 0;
-        for(;n > 0; n--){
-            if(n % m == 0){
-                sum -= n;
+        int divisibleSum = 0;
+        int nonDivisibleSum = 0;
+        for(int number = 1; number <= n; number++){
+            if(number % m == 0){
+                divisibleSum += number;
             }
             else{
-                sum += n;
+                nonDivisibleSum += number;
             }
         }
-        return sum;
+        return nonDivisibleSum - divisibleSum;
     }
 }
