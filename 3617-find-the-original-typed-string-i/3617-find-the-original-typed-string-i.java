@@ -2,12 +2,10 @@ class Solution {
     public int possibleStringCount(String word) {
         int countOfPossibleStrings = 1;
         for(int index = 0; index < word.length(); index++){
-            int characterIndex = index;
-            while(characterIndex < word.length() - 1 && word.charAt(characterIndex) == word.charAt(characterIndex + 1)){
-                characterIndex++;
+            while(index < word.length() - 1 && word.charAt(index) == word.charAt(index + 1)){
+                index++;
                 countOfPossibleStrings++;
             }
-            index = characterIndex;
         }
         return countOfPossibleStrings;
     }
