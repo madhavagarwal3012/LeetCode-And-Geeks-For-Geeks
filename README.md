@@ -952,6 +952,7 @@ Last Updated: May 28, 2025 at 12:39 AM (UTC+5:30)
 | [3468-find-the-encrypted-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3468-find-the-encrypted-string) |
 | [3567-convert-date-to-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3567-convert-date-to-binary) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3617-find-the-original-typed-string-i) |
 ## Merge Sort
 |  |
 | ------- |
