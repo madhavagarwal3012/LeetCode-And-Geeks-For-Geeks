@@ -516,6 +516,7 @@ Last Updated: July 09, 2025 at 08:26 PM (UTC+5:30)
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0073-set-matrix-zeroes) |
@@ -1093,6 +1094,7 @@ Last Updated: July 09, 2025 at 08:26 PM (UTC+5:30)
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0079-word-search) |
 ## Trie
