@@ -419,6 +419,7 @@ Last Updated: May 28, 2025 at 12:39 AM (UTC+5:30)
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -519,6 +520,7 @@ Last Updated: May 28, 2025 at 12:39 AM (UTC+5:30)
 | [0073-set-matrix-zeroes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -869,6 +871,7 @@ Last Updated: May 28, 2025 at 12:39 AM (UTC+5:30)
 | [0054-spiral-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0777-toeplitz-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1677-matrix-diagonal-sum) |
@@ -914,6 +917,7 @@ Last Updated: May 28, 2025 at 12:39 AM (UTC+5:30)
 | [0043-multiply-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0168-excel-sheet-column-title) |
 | [0273-integer-to-english-words](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0273-integer-to-english-words) |
@@ -1089,6 +1093,7 @@ Last Updated: May 28, 2025 at 12:39 AM (UTC+5:30)
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0079-word-search) |
 ## Trie
 |  |
 | ------- |
