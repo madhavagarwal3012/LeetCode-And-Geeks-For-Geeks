@@ -40,7 +40,7 @@ class Solution {
 			int newRow = currentRow + rowCoordinates[direction];
 			int newColumn = currentColumn + columnCoordinates[direction];
 
-			while(newRow >= 0 && newRow < boardSize && newColumn >= 0 && newColumn < boardSize){
+			while(newRow >= 0 && newRow < currentRow && newColumn >= 0 && newColumn < boardSize){
 				if(board[newRow][newColumn] == 1){
 					return false;
 				}
