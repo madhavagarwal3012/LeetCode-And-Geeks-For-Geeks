@@ -10,13 +10,13 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        String binaryNumber = "";
+        StringBuilder binaryNumber = new StringBuilder();
 
         while(head != null){
-            binaryNumber += String.valueOf(head.val);
+            binaryNumber.append(String.valueOf(head.val));
             head = head.next;
         }
 
-        return Integer.parseInt(binaryNumber, 2);
+        return Integer.parseInt(binaryNumber.toString(), 2);
     }
 }
