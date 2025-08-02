@@ -25,11 +25,11 @@ class Solution {
             innerList.add(1);
             int fillerIndex = 1;
             List<Integer> temp = outerList.get(previousIndex);
-                for(int elementIndex = 0; elementIndex < temp.size() - 1 && fillerIndex <= numRows - 2; elementIndex++){
-                    int sum = temp.get(elementIndex) + temp.get(elementIndex + 1);
-                    innerList.add(sum);
-                    fillerIndex++;
-                }
+            for(int elementIndex = 0; elementIndex < temp.size() - 1 && fillerIndex <= numRows - 2; elementIndex++){
+                int sum = temp.get(elementIndex) + temp.get(elementIndex + 1);
+                innerList.add(sum);
+                fillerIndex++;
+            }
             innerList.add(1);
             outerList.add(innerList);
             innerList = new ArrayList<>();
