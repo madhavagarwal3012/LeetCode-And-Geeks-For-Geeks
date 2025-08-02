@@ -929,6 +929,7 @@ Last Updated: August 02, 2025 at 05:24 PM (UTC+5:30)
 | [0067-add-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0168-excel-sheet-column-title) |
 | [0273-integer-to-english-words](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0273-integer-to-english-words) |
@@ -1069,6 +1070,7 @@ Last Updated: August 02, 2025 at 05:24 PM (UTC+5:30)
 | [0005-longest-palindromic-substring](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0647-palindromic-substrings) |
 | [1086-divisor-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1086-divisor-game) |
@@ -1107,6 +1109,7 @@ Last Updated: August 02, 2025 at 05:24 PM (UTC+5:30)
 | [0051-n-queens](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0131-palindrome-partitioning) |
 ## Trie
 |  |
 | ------- |
