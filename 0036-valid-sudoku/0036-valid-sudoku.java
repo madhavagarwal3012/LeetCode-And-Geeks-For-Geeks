@@ -41,7 +41,6 @@ class Solution {
         //Block Check;
         int blockCount = 0;
         int blockDivision = 0;
-        int steps = 0;
         int rowPoint = 0;
         int columnPoint = 0;
 
