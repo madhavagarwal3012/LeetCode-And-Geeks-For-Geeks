@@ -1,6 +1,5 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        // Horizontal Check
         int row = 0;
         while(row < 9){
             HashSet<Character> rowSet = new HashSet<>();
@@ -19,7 +18,6 @@ class Solution {
             row++;
         }
 
-        //Vertical Check
         int column = 0;
         while(column < 9){
             HashSet<Character> columnSet = new HashSet<>();
@@ -38,7 +36,6 @@ class Solution {
             column++;
         }
 
-        //Block Check;
         int blockCount = 0;
         int blockDivision = 0;
         int rowPoint = 0;
