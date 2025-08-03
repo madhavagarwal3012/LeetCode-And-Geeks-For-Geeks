@@ -37,7 +37,6 @@ class Solution {
         }
 
         int blockCount = 0;
-        int blockDivision = 0;
         int rowPoint = 0;
         int columnPoint = 0;
 
