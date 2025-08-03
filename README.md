@@ -524,6 +524,7 @@ Last Updated: August 02, 2025 at 09:31 PM (UTC+5:30)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0054-spiral-matrix) |
@@ -668,6 +669,7 @@ Last Updated: August 02, 2025 at 09:31 PM (UTC+5:30)
 | [0001-two-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0141-linked-list-cycle) |
@@ -880,6 +882,7 @@ Last Updated: August 02, 2025 at 09:31 PM (UTC+5:30)
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0073-set-matrix-zeroes) |
