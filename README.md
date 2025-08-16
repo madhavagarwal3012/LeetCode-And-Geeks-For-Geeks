@@ -773,6 +773,7 @@ Last Updated: August 04, 2025 at 12:23 AM (UTC+5:30)
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1585-the-kth-factor-of-n) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -1021,6 +1022,7 @@ Last Updated: August 04, 2025 at 12:23 AM (UTC+5:30)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0011-container-with-most-water) |
+| [1448-maximum-69-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1448-maximum-69-number) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
