@@ -1,13 +1,13 @@
 class Solution {
-    public int[][] sortMatrix(int[][] mat) {
-         int startingDiagonalRow = mat.length - 1;
+    public int[][] sortMatrix(int[][] grid) {
+         int startingDiagonalRow = grid.length - 1;
         while(startingDiagonalRow >= 0){
             List<Integer> diagonalElementsList = new ArrayList<>();
             int traversingRow = startingDiagonalRow;
             int traversingColumn = 0;
 
-            while(traversingRow < mat.length && traversingColumn < mat[0].length){
-                diagonalElementsList.add(mat[traversingRow++][traversingColumn++]);
+            while(traversingRow < grid.length && traversingColumn < grid[0].length){
+                diagonalElementsList.add(grid[traversingRow++][traversingColumn++]);
             }
 
             Collections.sort(diagonalElementsList, Collections.reverseOrder());
@@ -16,19 +16,19 @@ class Solution {
             traversingColumn = 0;
             int index = 0;
 
-            while(traversingRow < mat.length && traversingColumn < mat[0].length){
-                mat[traversingRow++][traversingColumn++] = diagonalElementsList.get(index++);
+            while(traversingRow < grid.length && traversingColumn < grid[0].length){
+                grid[traversingRow++][traversingColumn++] = diagonalElementsList.get(index++);
             }
             startingDiagonalRow--;
         }
         int startingDiagonalColumn = 1;
-        while(startingDiagonalColumn < mat[0].length){
+        while(startingDiagonalColumn < grid[0].length){
             List<Integer> diagonalElementsList = new ArrayList<>();
             int traversingRow = 0;
             int traversingColumn = startingDiagonalColumn;
 
-            while(traversingRow < mat.length && traversingColumn < mat[0].length){
-                diagonalElementsList.add(mat[traversingRow++][traversingColumn++]);
+            while(traversingRow < grid.length && traversingColumn < grid[0].length){
+                diagonalElementsList.add(grid[traversingRow++][traversingColumn++]);
             }
 
             Collections.sort(diagonalElementsList);
@@ -37,11 +37,11 @@ class Solution {
             traversingColumn = startingDiagonalColumn;
             int index = 0;
 
-            while(traversingRow < mat.length && traversingColumn < mat[0].length){
-                mat[traversingRow++][traversingColumn++] = diagonalElementsList.get(index++);
+            while(traversingRow < grid.length && traversingColumn < grid[0].length){
+                grid[traversingRow++][traversingColumn++] = diagonalElementsList.get(index++);
             }
             startingDiagonalColumn++;
         }
-        return mat;
+        return grid;
     }
 }
