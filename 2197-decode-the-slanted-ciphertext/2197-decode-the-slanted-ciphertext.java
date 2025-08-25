@@ -10,25 +10,7 @@ class Solution {
             }
         }
         StringBuilder decrypt = new StringBuilder();
-        boolean firstCharacterFlag = false;
-        int diagonalRowStart = rows - 1;
-        while(diagonalRowStart >= 0 && !firstCharacterFlag){
-            int traversingRow = diagonalRowStart;
-            int traversingColumn = 0;
-            while(traversingRow < rows && traversingColumn < matrixLength){
-                if(matrix[traversingRow][traversingColumn] != ' '){
-                    firstCharacterFlag = true;
-                }
-                decrypt.append(matrix[traversingRow][traversingColumn]);
-                traversingRow++;
-                traversingColumn++;
-            }
-            if(!firstCharacterFlag && diagonalRowStart != 0){
-                decrypt.setLength(0);
-            }
-            diagonalRowStart--;
-        }
-        int diagonalColumnStart = 1;
+        int diagonalColumnStart = 0;
         while(diagonalColumnStart < matrixLength){
             int traversingRow = 0;
             int traversingColumn = diagonalColumnStart;
