@@ -33,15 +33,9 @@ class Solution {
             int traversingRow = 0;
             int traversingColumn = diagonalColumnStart;
             while(traversingRow < rows && traversingColumn < matrixLength){
-                if(matrix[traversingRow][traversingColumn] != ' '){
-                    firstCharacterFlag = true;
-                }
                 decrypt.append(matrix[traversingRow][traversingColumn]);
                 traversingRow++;
                 traversingColumn++;
-            }
-            if(!firstCharacterFlag){
-                decrypt.setLength(0);
             }
             diagonalColumnStart++;
         }
