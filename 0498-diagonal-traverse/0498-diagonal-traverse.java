@@ -4,7 +4,8 @@ class Solution {
         int[] diagonalElements = new int[mat.length * mat[0].length];
         ArrayList<Integer> diagonalList = new ArrayList<>();
         
-        for(int diagonalElementsIndex = 0; diagonalElementsIndex < diagonalElements.length;){           for(int column = 0; column < mat[0].length; column++){
+        for(int diagonalElementsIndex = 0; diagonalElementsIndex < diagonalElements.length;){           
+            for(int column = 0; column < mat[0].length; column++){
                 int traversingColumn = column;
                 int row = 0;
                 if(reverseCounter > 0 && reverseCounter % 2 == 0){
