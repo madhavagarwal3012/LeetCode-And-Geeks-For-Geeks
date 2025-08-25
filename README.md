@@ -558,6 +558,7 @@ Last Updated: August 04, 2025 at 12:23 AM (UTC+5:30)
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0682-baseball-game) |
 | [0777-toeplitz-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0777-toeplitz-matrix) |
@@ -896,6 +897,7 @@ Last Updated: August 04, 2025 at 12:23 AM (UTC+5:30)
 | [0073-set-matrix-zeroes](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1677-matrix-diagonal-sum) |
 | [2411-spiral-matrix-iv](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2411-spiral-matrix-iv) |
@@ -911,6 +913,7 @@ Last Updated: August 04, 2025 at 12:23 AM (UTC+5:30)
 | [0054-spiral-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0682-baseball-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2232-adding-spaces-to-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2232-adding-spaces-to-a-string) |
