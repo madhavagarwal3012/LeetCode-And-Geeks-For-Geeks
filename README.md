@@ -916,6 +916,7 @@ Last Updated: August 04, 2025 at 12:23 AM (UTC+5:30)
 | [0498-diagonal-traverse](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0682-baseball-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2232-adding-spaces-to-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2411-spiral-matrix-iv) |
@@ -967,6 +968,7 @@ Last Updated: August 04, 2025 at 12:23 AM (UTC+5:30)
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1954-replace-all-digits-with-characters](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1954-replace-all-digits-with-characters) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2292-counting-words-with-a-given-prefix) |
