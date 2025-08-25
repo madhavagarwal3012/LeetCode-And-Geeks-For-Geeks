@@ -575,6 +575,7 @@ Last Updated: August 26, 2025 at 02:44 AM (UTC+5:30)
 | [1168-duplicate-zeros](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1241-decompress-run-length-encoded-list) |
+| [1253-sort-the-matrix-diagonally](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -830,6 +831,7 @@ Last Updated: August 26, 2025 at 02:44 AM (UTC+5:30)
 | [1019-squares-of-a-sorted-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1217-relative-sort-array) |
+| [1253-sort-the-matrix-diagonally](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1253-sort-the-matrix-diagonally) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1488-sort-integers-by-the-power-value) |
@@ -900,6 +902,7 @@ Last Updated: August 26, 2025 at 02:44 AM (UTC+5:30)
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0777-toeplitz-matrix) |
+| [1253-sort-the-matrix-diagonally](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1253-sort-the-matrix-diagonally) |
 | [1677-matrix-diagonal-sum](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1677-matrix-diagonal-sum) |
 | [2411-spiral-matrix-iv](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2428-equal-row-and-column-pairs) |
