@@ -633,6 +633,7 @@ Last Updated: August 26, 2025 at 03:41 AM (UTC+5:30)
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3748-sort-matrix-by-diagonals](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -854,6 +855,7 @@ Last Updated: August 26, 2025 at 03:41 AM (UTC+5:30)
 | [3321-type-of-triangle](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3748-sort-matrix-by-diagonals](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
@@ -913,6 +915,7 @@ Last Updated: August 26, 2025 at 03:41 AM (UTC+5:30)
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2728-sum-in-a-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2728-sum-in-a-matrix) |
+| [3748-sort-matrix-by-diagonals](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
 | ------- |
