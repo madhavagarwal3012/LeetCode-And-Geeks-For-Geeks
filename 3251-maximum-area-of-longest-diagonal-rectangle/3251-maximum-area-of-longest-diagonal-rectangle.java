@@ -1,11 +1,11 @@
 class Solution {
     public int areaOfMaxDiagonal(int[][] dimensions) {
-        double diagonalLength = Double.MIN_VALUE;
+        int diagonalLength = Integer.MIN_VALUE;
         int maximumArea = Integer.MIN_VALUE;
         int maximumIndex = -1;
         boolean equalFlag = false;
         for(int row = 0; row < dimensions.length; row++){
-            double dLength = Math.sqrt(dimensions[row][0] * dimensions[row][0] + dimensions[row][1] * dimensions[row][1]);
+            int dLength = dimensions[row][0] * dimensions[row][0] + dimensions[row][1] * dimensions[row][1];
 
             if(dLength > diagonalLength){
                 diagonalLength = dLength;
