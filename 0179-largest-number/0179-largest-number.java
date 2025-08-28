@@ -6,9 +6,7 @@ class Solution {
         }
         Collections.sort(list, (a,b) -> compare(a,b));
         String result = String.join("", list);
-        if(result.length() > 0 && result.charAt(0) == '0'){
-            return "0";
-        }
+        if(result.length() > 0 && result.charAt(0) == '0') return "0";
         return result;
     }
     private int compare(String a, String b){
