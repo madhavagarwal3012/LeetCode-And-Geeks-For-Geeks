@@ -15,10 +15,10 @@ class Solution {
         if(elements[0].equals("0")){
             return "0";
         }
-        String largestNumber = "";
+        StringBuilder largestNumber = new StringBuilder();
         for(String element : elements){
-            largestNumber += element;
+            largestNumber.append(element);
         }
-        return largestNumber;
+        return largestNumber.toString();
     }
 }
