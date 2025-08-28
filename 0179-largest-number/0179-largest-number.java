@@ -6,14 +6,10 @@ class Solution {
         }
         Collections.sort(list, (a,b) -> compare(a,b));
         String result = String.join("", list);
-        if(allZeros(result)) return "0";
-        return result;
-    }
-    private boolean allZeros(String number){
-        for(char c : number.toCharArray()){
-            if(c != '0') return false;
+        if(result.length() > 0 && result.charAt(0) == '0'){
+            return "0";
         }
-        return true;
+        return result;
     }
     private int compare(String a, String b){
         int aIndex = 0;
