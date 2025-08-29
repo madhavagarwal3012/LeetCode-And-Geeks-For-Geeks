@@ -12,15 +12,11 @@ class Solution {
     public ListNode insertionSortList(ListNode head) {
         List<ListNode> list = new ArrayList<>();
         ListNode tail = head;
-        int index = 0;
         while(tail != null){
             list.add(tail);
             tail = tail.next;
-            list.get(index).next = null;
-            index++;
-
         }
-        for(index = 0; index < list.size(); index++){
+        for(int index = 0; index < list.size(); index++){
             int tempIndex = index - 1;
             while(tempIndex >= 0){
                 if(list.get(index).val < list.get(tempIndex). val){
@@ -40,10 +36,11 @@ class Solution {
             head = list.get(0);
             tail = head;
         }
-        for(index = 1; index < list.size(); index++){
+        for(int index = 1; index < list.size(); index++){
             tail.next = list.get(index);
             tail = tail.next;
         }
+        tail.next = null;
         return head;
     }
 }
