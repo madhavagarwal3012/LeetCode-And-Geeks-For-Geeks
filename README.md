@@ -896,6 +896,7 @@ Last Updated: August 29, 2025 at 02:13 AM (UTC+5:30)
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1708-design-parking-system](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1708-design-parking-system) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1848-sum-of-unique-elements) |
@@ -952,6 +953,7 @@ Last Updated: August 29, 2025 at 02:13 AM (UTC+5:30)
 | [0067-add-binary](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0682-baseball-game) |
+| [1708-design-parking-system](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1708-design-parking-system) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2232-adding-spaces-to-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2232-adding-spaces-to-a-string) |
@@ -1149,6 +1151,7 @@ Last Updated: August 29, 2025 at 02:13 AM (UTC+5:30)
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0535-encode-and-decode-tinyurl) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1433-encrypt-and-decrypt-strings) |
+| [1708-design-parking-system](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1708-design-parking-system) |
 ## Hash Function
 |  |
 | ------- |
