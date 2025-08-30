@@ -728,6 +728,7 @@ Last Updated: August 29, 2025 at 08:33 PM (UTC+5:30)
 | [0535-encode-and-decode-tinyurl](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0807-custom-sort-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0807-custom-sort-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -859,6 +860,7 @@ Last Updated: August 29, 2025 at 08:33 PM (UTC+5:30)
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0451-sort-characters-by-frequency) |
+| [0807-custom-sort-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0807-custom-sort-string) |
 | [0900-reordered-power-of-2](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0948-sort-an-array) |
@@ -1007,6 +1009,7 @@ Last Updated: August 29, 2025 at 08:33 PM (UTC+5:30)
 | [0535-encode-and-decode-tinyurl](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0647-palindromic-substrings) |
+| [0807-custom-sort-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1260-day-of-the-year](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
