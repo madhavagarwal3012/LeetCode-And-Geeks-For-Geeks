@@ -1,23 +1,23 @@
 class Solution {
     public int repeatedStringMatch(String a, String b) {
         StringBuilder sb = new StringBuilder();
-        int count = 0;
+        int repeatitionCount = 0;
         
         while (sb.length() < b.length()) {
             sb.append(a);
-            count++;
+            repeatitionCount++;
         }
         
-        if (contains(sb, b)) return count;
+        if (checkSubstring(sb, b)) return repeatitionCount;
         
         sb.append(a);
-        count++;
-        if (contains(sb, b)) return count;
+        repeatitionCount++;
+        if (checkSubstring(sb, b)) return repeatitionCount;
         
         return -1;
     }
     
-    private boolean contains(StringBuilder sb, String b) {
+    private boolean checkSubstring(StringBuilder sb, String b) {
         int n = sb.length();
         int m = b.length();
         
