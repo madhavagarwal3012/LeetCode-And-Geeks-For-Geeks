@@ -3,7 +3,7 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         int repeatitionCount = 0;
         
-        while (sb.length() < b.length()) {
+        while (sb.length() < b.length()){
             sb.append(a);
             repeatitionCount++;
         }
@@ -17,14 +17,14 @@ class Solution {
         return -1;
     }
     
-    private boolean checkSubstring(StringBuilder sb, String b) {
+    private boolean checkSubstring(StringBuilder sb, String b){
         int n = sb.length();
         int m = b.length();
         
-        for (int i = 0; i <= n - m; i++) {
+        for (int i = 0; i <= n - m; i++){
             boolean found = true;
-            for (int j = 0; j < m; j++) {
-                if (sb.charAt(i + j) != b.charAt(j)) {
+            for (int j = 0; j < m; j++){
+                if (sb.charAt(i + j) != b.charAt(j)){
                     found = false;
                     break;
                 }
