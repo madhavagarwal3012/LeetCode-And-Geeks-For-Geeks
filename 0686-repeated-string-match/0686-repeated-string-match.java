@@ -22,14 +22,14 @@ class Solution {
         int m = b.length();
         
         for (int i = 0; i <= n - m; i++) {
-            boolean match = true;
+            boolean found = true;
             for (int j = 0; j < m; j++) {
                 if (sb.charAt(i + j) != b.charAt(j)) {
-                    match = false;
+                    found = false;
                     break;
                 }
             }
-            if (match) return true;
+            if (found) return true;
         }
         return false;
     }
