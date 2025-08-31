@@ -1019,6 +1019,7 @@ Last Updated: August 30, 2025 at 06:31 PM (UTC+5:30)
 | [0535-encode-and-decode-tinyurl](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0686-repeated-string-match) |
 | [0807-custom-sort-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1260-day-of-the-year](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1260-day-of-the-year) |
@@ -1142,6 +1143,7 @@ Last Updated: August 30, 2025 at 06:31 PM (UTC+5:30)
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/0686-repeated-string-match) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Dynamic Programming
 |  |
