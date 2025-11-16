@@ -5,17 +5,16 @@ class Solution {
         int stringLength = s.length();
         for(int index = 0; index < stringLength; index++){
             if(s.charAt(index) != '1' && consecutiveOnesLength > 0){
-                long substringCountContainingOnes = (consecutiveOnesLength * (consecutiveOnesLength + 1) / 2) % 1000000007;
+                long substringCountContainingOnes = (long) consecutiveOnesLength * (consecutiveOnesLength + 1) / 2;
+                result = (result + (int)(substringCountContainingOnes % 1000000007)) % 1000000007;
                 
-                result += substringCountContainingOnes % 1000000007;
                 consecutiveOnesLength = 0;
             }
             else if(s.charAt(index) == '1'){
                 consecutiveOnesLength++;
                 if(index == stringLength - 1){
-                    long substringCountContainingOnes = (consecutiveOnesLength * (consecutiveOnesLength + 1) / 2) % 1000000007;
-                
-                    result += substringCountContainingOnes % 1000000007;
+                    long substringCountContainingOnes = (long) consecutiveOnesLength * (consecutiveOnesLength + 1) / 2;
+                    result = (result + (int)(substringCountContainingOnes % 1000000007)) % 1000000007;
                     consecutiveOnesLength = 0;
                 }
             }
