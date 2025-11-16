@@ -836,6 +836,7 @@ Last Updated: October 13, 2025 at 01:47 AM (UTC+5:30)
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1585-the-kth-factor-of-n) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2050-count-good-numbers) |
@@ -1043,6 +1044,7 @@ Last Updated: October 13, 2025 at 01:47 AM (UTC+5:30)
 | [1297-maximum-number-of-balloons](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1297-maximum-number-of-balloons) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1954-replace-all-digits-with-characters](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/1954-replace-all-digits-with-characters) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/madhavagarwal3012/LeetCode-And-Geeks-For-Geeks/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
