@@ -1,22 +1,27 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        for(int index1 = 0; index1 < nums1.length; index1++){
-            for(int index2 = 0; index2 < nums2.length; index2++){
-                if(nums1[index1] == nums2[index2]){
-                    index2++;
-                    while(index2 < nums2.length){
-                        if(nums1[index1] < nums2[index2]){
-                            nums1[index1] = nums2[index2];
-                            break;
-                        }
-                        index2++;
-                    }
-                    if(index2 == nums2.length){
-                        nums1[index1] = -1;
-                    }
-                }
+        HashMap<Integer, Integer> nums2Map = new HashMap<>();
+        Stack<Integer> previousGreaterElementStack = new Stack<>();
+
+        for(int index = nums2.length - 1; index >= 0; index--){
+             while(!previousGreaterElementStack.isEmpty() && nums2[index] >= previousGreaterElementStack.peek()){
+                previousGreaterElementStack.pop();
+            }
+            if(!previousGreaterElementStack.isEmpty()){
+                nums2Map.put(nums2[index], previousGreaterElementStack.peek());
+                
+            }
+            previousGreaterElementStack.push(nums2[index]);
+        }
+        for(int index = 0; index < nums1.length; index++){
+            if(nums2Map.containsKey(nums1[index])){
+                nums1[index] = nums2Map.get(nums1[index]);
+            }
+            else{
+                nums1[index] = -1;
             }
         }
         return nums1;
     }
+    
 }
