@@ -1,7 +1,7 @@
 name: Update Problem Count
 on:
   push:
-    branches: [ main ]
+    branches: [ main ] 
 permissions:
   contents: write
 # Add concurrency control to prevent overlapping runs
