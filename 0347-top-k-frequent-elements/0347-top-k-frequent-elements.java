@@ -17,7 +17,6 @@ class Solution {
         return list;
     }
     public int[] topKFrequent(int[] nums, int k) {
-        if (k == 1) return nums;
         HashMap<Integer, Integer> frequencyMap = new HashMap<>();
         List<Integer> elements = new ArrayList<>();
         int[] result = new int[k];
