@@ -7,9 +7,6 @@ class Solution {
                 int freq1 = frequencyMap.get(o1);
                 int freq2 = frequencyMap.get(o2);
 
-                if (freq1 == freq2) {
-                    return 0;
-                }
                 return Integer.compare(freq2, freq1);
             }
         });
